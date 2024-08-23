@@ -2,7 +2,7 @@ name: fc
 
 on:
   schedule:
-    - cron: '0 /20 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
 defaults:
