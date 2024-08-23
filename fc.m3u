@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106869_4393_BAP_BOL_fc-web.jpg",ecs italy rome 2024
-https://dai.google.com/linear/hls/event/wu02QjDNTmS_1a-J0W2Xdw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106724_4386_BB_HT_fc-web.jpg",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/5oG_Sl9fSIm63w6Y2zMBZA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106932_4394_BCC_NYC_fc-web_1723446935192.jpg",assam mens t20
 https://dai.google.com/linear/hls/event/S47Irv0xTMWjEqUyS9ZjXA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/106898_CASACARDS_APP.png",ecs italy rome 2024
+https://dai.google.com/linear/hls/event/54F9QTEhR3GC7qDoiA8bYQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107442_4425_GREW_MLT-W_fc-web.jpg",ecn valletta cup t20iw 2024
+https://dai.google.com/linear/hls/event/vrv-219MQ5GN62zf_fifnw/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",volleyball beach pro tour
 https://dai.google.com/linear/hls/event/EP2Xq0JTQhC8FtqOT5rsDA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",volleyball beach pro tour
 https://dai.google.com/linear/hls/event/f5PbV2yuQD2t9jidqG4gCw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_match-card_Old_match-card.jpg",f1 academy netherlands 2024
-https://dai.google.com/linear/hls/event/6TnDsx8HQxy3qgPyR0AsvA/master.m3u8
