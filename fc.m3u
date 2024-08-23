@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/South-Africa-vs-West-indies_T20_V1_old.jpg",south africa tour of west indies 2024
+https://dai.google.com/linear/hls/event/kfP42pxrRe6oSGRMqoCEBA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106725_4386_MD_GMY_fc-web.jpg",ksca maharaja trophy t20 2024
 https://dai.google.com/linear/hls/event/jQR6dSH2TVi7L0s1XZzQYQ/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Max-60-old_match-191.jpg",max60 2024
