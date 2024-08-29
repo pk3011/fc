@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107518_4430_DST_ICCV_fc-Web.jpg",ecs austria 2024
-https://dai.google.com/linear/hls/event/AUJatObiTLKFkkEkmPD2rQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106736_4386_BB_MD_fc-web.jpg",ksca maharaja trophy t20 2024
+https://dai.google.com/linear/hls/event/Wbi_J4erTlKYptnxqBktPg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107519_4430_SEP_ICCV_fc-Web.jpg",ecs austria 2024
+https://dai.google.com/linear/hls/event/wUpWxZ6oTlmmqQWNK5ZwZg/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LLC_Auction_match-card.jpg",legends league cricket
 https://dai.google.com/linear/hls/event/1IWomWCYT7KmRuE0aVoj7A/master.m3u8
