@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107518_4430_DST_ICCV_fc-Web.jpg",ecs austria 2024
+https://dai.google.com/linear/hls/event/AUJatObiTLKFkkEkmPD2rQ/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/LLC_Auction_match-card.jpg",legends league cricket
 https://dai.google.com/linear/hls/event/1IWomWCYT7KmRuE0aVoj7A/master.m3u8
