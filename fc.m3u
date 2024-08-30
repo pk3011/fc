@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104205_4287_ABF_SKN_fc-web.jpg",caribbean premier league 2024
 https://dai.google.com/linear/hls/event/fDnUlwQdReGyUhN0amCfKw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108010_CASACARDS_APP.png",mlb
+https://dai.google.com/linear/hls/event/A6S04FFCSYa-LfJ9GAZyjw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106956_4396_HK_MYN_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/jpDahVOJSOKdSgmdFJxazQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106955_4396_MAS_MLD_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/pyTV-nzNSYW6owKGBb4FnQ/master.m3u8
