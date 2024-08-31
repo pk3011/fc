@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/2nd-quarter-final-sporty-1.jpg",jcl t20 2024
 https://dai.google.com/linear/hls/event/1Pgw32vCToqkYcifH-8WqA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106960_4396_MON_HK_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/vIu9BvbpRiCSRZZkB3d5oQ/master.m3u8
