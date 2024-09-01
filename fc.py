@@ -2,7 +2,7 @@ import requests
 import json
 
 # URL of the JSON data
-url = "https://babel-in.xyz/babel-ed8f358d66ea9fcfee4c8639b37da789/fancode"
+url = "https://babel-in.xyz/babel-b2ef9ad8f0d432962d47009b24dee465/fancode"
 
 # Fetch JSON data
 response = requests.get(url)
