@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107534_4430_SNA_ICCV_fc-Web.jpg",ecs austria 2024
-https://dai.google.com/linear/hls/event/726VnL84Qbe3ErYDzr3gDA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Man-City-vs-PSG_Perth-International-Football-Cup_Old_match-card.jpg",perth international football cup
-https://dai.fancode.com/primary/108197_english_hls_4569adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/F2_Saudi_Old_match-card.jpg",f2 monza 2024
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg",f1 pirelli gran premio d italia 2024
+https://dai.google.com/linear/hls/event/nQ0RoMWGQMWyPWT97ibTjQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png",sri lanka tour of england 2024
 
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107535_4430_GCA_LOR_fc-Web.jpg",ecs austria 2024
+https://dai.google.com/linear/hls/event/f668aa4xQVqwofcJi5iq-A/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_Round_2_old.jpg",indian racing festival 2024
 https://dai.google.com/linear/hls/event/YVSbRE9yTyey3BBP_dsjAg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Porsche-Mobil-1-Supercup_monza_Match_card_MRF_Old_match-card.jpg",porsche mobil 1 supercup
+
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png",betfred british masters
+https://dai.google.com/linear/hls/event/wsvxtkQLTZaAulRvGg1kRA/master.m3u8
