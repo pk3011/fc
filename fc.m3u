@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/Pr1710_kQMuDz-DmqfYABA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/3rd-quarter-final-sporty-1.jpg",jcl t20 2024
 https://dai.google.com/linear/hls/event/6knXQGYUQeKVcaLT6urdiw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-472_MLB_Old-Match-Card.jpg",mlb
+https://dai.google.com/linear/hls/event/qPgZiAoaQ2GNX6BXQCPArw/master.m3u8
