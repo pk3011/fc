@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104207_4287_SKN_TKR_fc-web.jpg",caribbean premier league 2024
-https://dai.google.com/linear/hls/event/Pr1710_kQMuDz-DmqfYABA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-472_MLB_Old-Match-Card.jpg",mlb
-https://dai.google.com/linear/hls/event/qPgZiAoaQ2GNX6BXQCPArw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/105707_3921_SAP_KAW_fc-web.jpg",j league 2024
+https://dai.fancode.com/primary/105707_english_hls_8283adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Leicester-City-vs-West-Ham_Perth-International-Football-Cup_Old_match-card.jpg",perth international football cup
+https://dai.fancode.com/primary/108196_english_hls_5018adfreeta-no/index.m3u8
