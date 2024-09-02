@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104209_4287_SKN_SLK_fc-web.jpg",caribbean premier league 2024
-https://dai.google.com/linear/hls/event/UR70u_i-SOeuiObJEyrhyQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108296_CASACARDS_APP.png",assam t20 pride cup 2024
-https://dai.google.com/linear/hls/event/QrRlDgbxRWWyq7s5Xqj4Sw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106962_4396_KUW_MLD_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
-https://dai.google.com/linear/hls/event/cGovz8hIRaazaqE_j9wZ5A/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106961_4396_HK_SIN_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
-https://dai.google.com/linear/hls/event/hRRqEZrqRL-smdpVMVCmFA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/106963_CASACARDS_APP.png",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/XRmkGdPwTSG6Vgol9qi7Vg/master.m3u8
