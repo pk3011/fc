@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Trivandrum-vs-Kochi_old1.jpg",kerala cricket league t20 2024
-https://dai.google.com/linear/hls/event/ZoqNp0kWQQSwhqEb7BwxZA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/106830_CASACARDS_APP.png",kcc t10 summer challengers cup 2024
-https://dai.google.com/linear/hls/event/IWwdwFjNSyuoD59Nzolg7g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Paarl-Rocks-vs-Stellenbosch-Kings_old.jpg",boland t10 league 2024
-https://dai.google.com/linear/hls/event/wnrKEOqoQayJ6LI34kklYA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-477_MLB_Old-Match-Card.jpg",mlb
-https://dai.google.com/linear/hls/event/iwC9S4euRLauQXGORyNPAA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",minor league cricket 2024
-https://dai.google.com/linear/hls/event/4KrA_NJmTC2SK7dgqeZ4og/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-478_MLB_Old-Match-Card.jpg",mlb
+https://dai.google.com/linear/hls/event/5GgvgzuARkSCtTHHUE7pmA/master.m3u8
