@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108298_4457_AC_RRC_fc-web.jpg",assam t20 pride cup 2024
-https://dai.google.com/linear/hls/event/aano-BzvRMKnK0vo1vVl-w/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106965_4396_MYN_KUW_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
-https://dai.google.com/linear/hls/event/Ix3po1hgRvKyV0KkmOrzTQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106966_4396_SIN_MAS_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
-https://dai.google.com/linear/hls/event/oMUgTuEPQ2WrP8vT_xHXWQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107544_4430_DST_VCC_fc-Web.jpg",ecs austria 2024
+https://dai.google.com/linear/hls/event/CdmtcFv5SgmOjv4xTSdwAA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-3_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
+https://dai.google.com/linear/hls/event/i_dotzuRRLWMXAuSgvpOmw/master.m3u8
