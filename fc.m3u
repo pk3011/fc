@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/4th-Sept_Sussex-vs-Lancashire_Old-Match-Cad-1.jpg",vitality blast t20 2024
-
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-482_MLB_Old-Match-Card.jpg",mlb
-https://dai.google.com/linear/hls/event/-oXPmAS_S7CcQAZjtIPYYA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104211_4287_SKN_GUY_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/J56eTYCGRBS9VSiLXVqHrw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106968_4396_MON_SIN_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/5bGeUqjtSweHFOYdnxmASQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106967_4396_KUW_MAS_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/vIU0JWlWTv-TmCmSrW2Tdg/master.m3u8
