@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-8_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
-https://dai.google.com/linear/hls/event/nVzysRR5T1e9T4O_Gu3ZAQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_02.jpg",ireland interprovincial limited over cup 2024
-https://dai.google.com/linear/hls/event/LFBDOSzfTLW0Oj4BGzDa1g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107557_4430_SEP_ADD_fc-Web.jpg",ecs austria 2024
-https://dai.google.com/linear/hls/event/FISfg7BuTryVFyjtxWmbyA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108263_3740_UZB_PRK_fc-web.jpg",fifa world cup asian qualifiers
-https://dai.google.com/linear/hls/event/geWPClsKQSmRr_PPEG0KYA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Omega-European-Masters-2024_Golf_Old-Match-Card.jpg",omega european masters
-https://dai.google.com/linear/hls/event/uhOnWMwuS--zdWukVUxX8w/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/5th-Sept_Northamptonshire-vs-Somerset_Old-Match-Cad-.jpg",vitality blast t20 2024
+
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-8_Boland-T10_Old.jpg",boland t10 league 2024
+https://dai.google.com/linear/hls/event/YU3_xI42RwioWinsUhDBJQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-484_MLB_Old-Match-Card.jpg",mlb
+https://dai.google.com/linear/hls/event/Ke67Mu6GSwewKdbSWq3A5g/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108268_3740_JOR_KUW_fc-web.jpg",fifa world cup asian qualifiers
+https://dai.google.com/linear/hls/event/Qa8RxDSWSeeRaEDiaeO5aQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108271_3740_KSA_INA_fc-web.jpg",fifa world cup asian qualifiers
+https://dai.google.com/linear/hls/event/dWjkxAPJRCqkxcxEoO7hVg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108267_3740_IRQ_OMN_fc-web.jpg",fifa world cup asian qualifiers
+https://dai.google.com/linear/hls/event/TuLflC3oTQStw6N88IXjzw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108265_3740_IRN_KYG_fc-web.jpg",fifa world cup asian qualifiers
+https://dai.google.com/linear/hls/event/PCADEVxsRTqCMhxdvz-tTg/master.m3u8
