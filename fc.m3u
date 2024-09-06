@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-9_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
-https://dai.google.com/linear/hls/event/kau1_80JRRWoIPh_QXpG1Q/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108305_4457_BCC_CCC_fc-web.jpg",assam t20 pride cup 2024
-https://dai.google.com/linear/hls/event/Q-e_mT67RlKVRKGi_X7xmQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/107503_4430_CCC_VCC_fc-Web.jpg",ecs austria 2024
-https://dai.google.com/linear/hls/event/x52mcEPTSu6m6PoLFLM9EQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/6th-Sept_Warwickshire-vs-Gloucestershire_Old-Match-Cad-1.jpg",vitality blast t20 2024
+
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-9_Boland-T10_Old.jpg",boland t10 league 2024
+https://dai.google.com/linear/hls/event/vQpaOTATTlyEmn73_JpcOw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-486_MLB_Old-Match-Card.jpg",mlb
+https://dai.google.com/linear/hls/event/uowSKOwVR162V1D6LyAd8w/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",minor league cricket 2024
+https://dai.google.com/linear/hls/event/6uqJ555HQ0qZDACakZDjcg/master.m3u8
