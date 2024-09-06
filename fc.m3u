@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104212_4287_ABF_TKR_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/ZFgLuN5fSViVdNVYGKSrLg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-485_MLB_Old-Match-Card.jpg",mlb
+https://dai.google.com/linear/hls/event/3tQ_s90WSZyYmkQ2qgbHLA/master.m3u8
