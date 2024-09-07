@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108306_4457_GTC_RRC_fc-web.jpg",assam t20 pride cup 2024
-https://dai.google.com/linear/hls/event/abmDAp_US2eJVt0fZPijzg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-11_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
+https://dai.google.com/linear/hls/event/DZN0b53VT7-VTKFbNdTVJA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108307_4457_AC_CCC_fc-web.jpg",assam t20 pride cup 2024
+https://dai.google.com/linear/hls/event/Ieb6BsmfRz6zOFdSKzpUYw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/ECI-Austria-Sweden-2024-old-match-card-OP-2-1.png",eci austriasweden 2024
+https://dai.google.com/linear/hls/event/QnzIi8HfS-iM-qctDrriAg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",dtm 2024
+https://dai.google.com/linear/hls/event/bhDgwCVoRBK0OcZgejZjow/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106972_4396_MAS_HK_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
 https://dai.google.com/linear/hls/event/iT1rpp9dSfuE5Oc0jK-64w/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",dtm 2024
-https://dai.google.com/linear/hls/event/jta1aBBuTVOqqTo2zcRiyQ/master.m3u8
