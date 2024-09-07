@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/6th-Sept_Warwickshire-vs-Gloucestershire_Old-Match-Cad-1.jpg",vitality blast t20 2024
-
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Match-486_MLB_Old-Match-Card.jpg",mlb
-https://dai.google.com/linear/hls/event/uowSKOwVR162V1D6LyAd8w/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",minor league cricket 2024
-https://dai.google.com/linear/hls/event/6uqJ555HQ0qZDACakZDjcg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104213_4287_SKN_BR_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/6KTTACAJQZq8mVfEjjyXRQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108281_3542_URU_PAR_fc-web.jpg",conmebol world cup qualifiers
+https://dai.google.com/linear/hls/event/M-6iQ73sQ_m1K-mvv8um7Q/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",mlb
+https://dai.google.com/linear/hls/event/fJwzEcVGR1Ss6GAvM9Nzew/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108282_3542_PER_COL_fc-web.jpg",conmebol world cup qualifiers
+https://dai.google.com/linear/hls/event/lXsZ34u_SPinw-UBFCsRZw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png",minor league cricket 2024
+https://dai.google.com/linear/hls/event/VAPcdQX6R66hHCB7_n_JGQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png",minor league cricket 2024
+https://dai.google.com/linear/hls/event/YfBCRsuiSoq0sF_jyR2h5A/master.m3u8
