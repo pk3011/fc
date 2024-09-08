@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108210_4455_BOB_RUR_fc-Web.jpg",oman d10 league 2024
-https://dai.google.com/linear/hls/event/2aDPlfY9TU6DkUDOKzg3Zw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",boland t10 league 2024
-https://dai.google.com/linear/hls/event/KIX31KUrQ6SoltKZc_zTZw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108034_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/j-cjMk2_R22ZEkDEaxwqZA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108035_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/sy73kL6LSvCVQCqO_nYXaQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png",minor league cricket 2024
-https://dai.google.com/linear/hls/event/I05BdHOlTmm3gdxR3yAvkQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108211_4455_DAT_QUT_fc-Web.jpg",oman d10 league 2024
+https://dai.google.com/linear/hls/event/I6dkwKOkTYmyMA5gaJ3MHg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",mlb
+https://dai.google.com/linear/hls/event/Xox6pOMDQL2aPOdh-xz_yw/master.m3u8
