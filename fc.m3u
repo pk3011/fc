@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-New-Zealand-tour-of-India-2024-test-old-match-card.png",afghanistan and new zealand tour of india 2024
+https://dai.google.com/linear/hls/event/K__swoPUT9SDGiVL7I_kSA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108310_4457_GTC_CCC_fc-web.jpg",assam t20 pride cup 2024
 https://dai.google.com/linear/hls/event/X5UOom6UTf2QF1wgybqCIg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106973_4396_SIN_MYN_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
-https://dai.google.com/linear/hls/event/f7AGBX84RiK46aV-b7laAA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108820_CASACARDS_APP.png",14th hockey india junior men national championship
-https://dai.google.com/linear/hls/event/muIwPXBNR8WFU1d1nwwOQw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108567_4474_ZA_ZW_fc-web.jpg",ecs croatia 2024
+https://dai.google.com/linear/hls/event/GyPq3ArdSN6tQF3Qp6Ff6w/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/106975_4396_HK_KUW_fc-web.jpg",icc mens t20 wc asia subregional qualifier a
+https://dai.google.com/linear/hls/event/VgJboMd4TZOCVGUk-z1WsQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108822_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/n-tYmf6YQPq0Eb9Ec8yjgw/master.m3u8
