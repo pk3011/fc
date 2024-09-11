@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108314_4457_AC_RRC_fc-web.jpg",assam t20 pride cup 2024
-https://dai.google.com/linear/hls/event/E2OlPxqeQVuMyARGIr3yjQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108577_4474_ZW_SOS_fc-web.jpg",ecs croatia 2024
-https://dai.google.com/linear/hls/event/OwIEef58TkaVaZ6mIcolAg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108834_CASACARDS_APP.png",14th hockey india junior men national championship
-https://dai.google.com/linear/hls/event/xVBPRmjMTyCrDxXrUOQeYg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-19_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
+https://dai.google.com/linear/hls/event/_07Wq2KWQz-pdVzxPlxOOQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108315_4457_NSC_GTC_fc-web.jpg",assam t20 pride cup 2024
+https://dai.google.com/linear/hls/event/vxYBJAauTfq8wOIEto6jyA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108578_4474_ZW_SOS_fc-web.jpg",ecs croatia 2024
+https://dai.google.com/linear/hls/event/XTogqZuNT7C5qQfIqP9E1g/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Arunachal-Premier-League_.jpg",arunachal premier league t20 2024
+https://dai.google.com/linear/hls/event/Noczc5fHTberUhVKrzZgSA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108835_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/84LEcMXNQDSP0Qi7TW_DVQ/master.m3u8
