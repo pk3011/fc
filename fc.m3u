@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg",caribbean premier league 2024
-https://dai.google.com/linear/hls/event/ZfrNUEOAQpqbhtKi-kSqUQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108286_3542_PAR_BRA_fc-web.jpg",conmebol world cup qualifiers
-https://dai.google.com/linear/hls/event/_lXLdX3fQEORS_mcbdY3uA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",mlb
-https://dai.google.com/linear/hls/event/FKyyp7BEQFmw-jUTL4vAxQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108831_CASACARDS_APP.png",14th hockey india junior men national championship
-https://dai.google.com/linear/hls/event/HOTnkqyJSzGeGk1wvYUlxQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108314_4457_AC_RRC_fc-web.jpg",assam t20 pride cup 2024
+https://dai.google.com/linear/hls/event/E2OlPxqeQVuMyARGIr3yjQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108039_CASACARDS_APP.png",mlb
+https://dai.google.com/linear/hls/event/22A52IPnTW-YPQgZRB0aug/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108832_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/oxLjPQlDQ3yZmESYMiXbHw/master.m3u8
