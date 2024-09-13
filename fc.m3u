@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108318_4457_NSC_BCC_fc-web.jpg",assam t20 pride cup 2024
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108318_4457_NSC_BCC_fc-web.jpg",gsa pride cup 2024
 https://dai.google.com/linear/hls/event/xXMaY7ziSS6LGmgoGXikyw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108045_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/RmkVd4wiT-OtIoK3h2yicA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108844_CASACARDS_APP.png",14th hockey india junior men national championship
-https://dai.google.com/linear/hls/event/lMCmUS-mT5WsCVgqfH6iIw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108587_4474_ZC_AFK_fc-web.jpg",ecs croatia 2024
+https://dai.google.com/linear/hls/event/SdH3Ene1SZKbAAhncG-hBg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108845_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/b-VC_EtPTTO37Ujq6HaLFQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/108846_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/1LfPPl2mTviasLo0GSC-aA/master.m3u8
