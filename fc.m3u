@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf-Chicago_old_Match_card.jpg",liv golf chicago
-https://dai.google.com/linear/hls/event/vr_0HfdNTEqZUM1AOBScEA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104221_4287_SLK_ABF_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/rw880XqLSpKuDCPs-YjpHw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108054_CASACARDS_APP.png",mlb
+https://dai.google.com/linear/hls/event/yk3qb27uQhOthaVoKKcYtg/master.m3u8
