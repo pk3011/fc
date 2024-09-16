@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104221_4287_SLK_ABF_fc-web.jpg",caribbean premier league 2024
 https://dai.google.com/linear/hls/event/rw880XqLSpKuDCPs-YjpHw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108054_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/yk3qb27uQhOthaVoKKcYtg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108324_4457_BCC_RRC_fc-web.jpg",gsa pride cup 2024
+https://dai.google.com/linear/hls/event/5RbTfXqtRhm6v0VJ42KkOw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108858_CASACARDS_APP.png",14th hockey india junior men national championship
+https://dai.google.com/linear/hls/event/TGl7MBtHQl2ZvAkuoqSJUg/master.m3u8
