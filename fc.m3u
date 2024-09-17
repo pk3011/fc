@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-23_Boland-T10_Old.jpg",boland t10 league 2024
-https://dai.google.com/linear/hls/event/92seAXkvSYy2ZSl3jAXK8g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108630_4475_AAS_PPL_fc-web.jpg",afc champions league elite 202425
-https://dai.google.com/linear/hls/event/RfV2pPhuQxa_d_t_kUOTzg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108629_4475_ESG_AGH_fc-web.jpg",afc champions league elite 202425
-https://dai.google.com/linear/hls/event/M3phtySZRg6UuzEy4_PthQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108883_3908_CAN_NEP_fc-web.jpg",icc cwc league 2 202327
-https://dai.google.com/linear/hls/event/0Y1cDvNNTzi1Ia0uV4pyBQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108627_4475_AAI_SDD_fc-web.jpg",afc champions league elite 202425
-https://dai.google.com/linear/hls/event/snH_quW9SWOnqu3KDke4hA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108053_CASACARDS_APP.png",mlb
+https://dai.google.com/linear/hls/event/Vaz6HcTlRaOsprbKZ3qKcg/master.m3u8
