@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109034_4486_UI_PIC_fc-web.jpg",patanjali uttarakhand premier league 2024
-https://dai.google.com/linear/hls/event/V55krBQAQkm5hpm-7zctoQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108611_4474_ZW_BEL_fc-web.jpg",ecs croatia 2024
-https://dai.google.com/linear/hls/event/Vl9wQGshSUebzRuD2pPh4g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-30_Kerala-Cricket-League-T20_Old1.jpg",kerala cricket league t20 2024
-https://dai.google.com/linear/hls/event/rkPBNNmkQB-9o7I1nvNxtQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108241_4455_DAT_RUR_fc-Web_1725969606188.jpg",oman d10 league 2024
-https://dai.google.com/linear/hls/event/0U-mTchKTZCtpslXpnLcRg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108612_4474_ZW_AFK_fc-web.jpg",ecs croatia 2024
-https://dai.google.com/linear/hls/event/Wi7Sb0b9RtuJqZfEIEJ-Gg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108631_4475_PT_AWL_fc-web.jpg",afc champions league elite 202425
-https://dai.google.com/linear/hls/event/R2saIVMATEKQMZKc8msXLQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Arunachal-Premier-League_.jpg",arunachal premier league t20 2024
-https://dai.google.com/linear/hls/event/PdhLjOSWQn2Hec16BiY9pg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108242_4455_QUT_BOB_fc-Web_1725969606159.jpg",oman d10 league 2024
+https://dai.google.com/linear/hls/event/fIsVUW1GSB2PzE2USCQd6g/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Match-25_Boland-T10_Old.jpg",boland t10 league 2024
+https://dai.google.com/linear/hls/event/iN3pNl9pRDaXioi5BBA3gA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108243_4455_RUR_AMR_fc-Web_1725969606254.jpg",oman d10 league 2024
+https://dai.google.com/linear/hls/event/UnVy_PncQvmujBcgF4M9wg/master.m3u8
