@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108246_4455_AMR_DAT_fc-Web_1725969606257.jpg",oman d10 league 2024
-https://dai.google.com/linear/hls/event/U6xBqdcKQL2v2uh2yAncmw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108058_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/S3k3ViUoTQea3mnoNATRFw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/108059_CASACARDS_APP.png",mlb
-https://dai.google.com/linear/hls/event/KIN2o0AyTLy90Q9sTes-1A/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108884_3908_NEP_OMN_fc-web.jpg",icc cwc league 2 202327
-https://dai.google.com/linear/hls/event/KZEWQJ0iRmq8jvkiPDncDg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104223_4287_TKR_GUY_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/Y7obaJgQTQ2iduA2Ig03lw/master.m3u8
