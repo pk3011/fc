@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-England_ODI_old_match-card_1726893730609.jpg",australia tour of england 2024
+
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104226_4287_SLK_BR_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/RzarBWBRS1OwWrSirdl5Ow/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Croatia-Slovenia_2024_Old_match-card-(1).jpg",eci croatiaslovenia 2024
+https://dai.google.com/linear/hls/event/2in0Ak0bRWi52gUlhc09rg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Uttarakhanda_Premier_Womens_Old_match-card.jpg",uttarakhand womens t20 league 2024
+https://dai.google.com/linear/hls/event/arn2M9R1Q6aYZc4zW9ulNA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109160_4493_CTSA_HH_fc-web_1726824494283.jpg",zim afro t10 2024
+https://dai.google.com/linear/hls/event/P74ZvPdgTh-24F0FD6py_w/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/106283_4352_LUT_SHFF_fc-web_1723042859498.jpg",efl championship 202425
+https://dai.google.com/linear/hls/event/4lznC9V_QMO2LUHfCGCGYg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg",bmw pga championship
+https://dai.google.com/linear/hls/event/Bot8VAD7QDyDIO8obVFUzw/master.m3u8
