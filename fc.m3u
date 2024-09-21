@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104225_4287_GUY_SKN_fc-web.jpg",caribbean premier league 2024
-https://dai.google.com/linear/hls/event/ddzEix4cSG2i5dwdSS-vZQ/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/101892_CASACARDS_APP.png",jcl t20 2024
 https://dai.google.com/linear/hls/event/l9ZcjaczQxa1kIXqdEpqSQ/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-524.jpg",mlb
+https://dai.google.com/linear/hls/event/aNH3mgF-RWWEeqFu8rD9KA/master.m3u8
