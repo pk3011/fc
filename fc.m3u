@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-526.jpg",mlb
-https://dai.google.com/linear/hls/event/lN24eNJiTWSy952ip-H0mw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png",minor league cricket 2024
-https://dai.google.com/linear/hls/event/m6v1lLtrR3mSZWx3oBIYvw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Team-Championship-Dallas_old_Match_card.jpg",liv team championship dallas
-https://dai.google.com/linear/hls/event/tzmjcAaJQ5WVRKjG-dAqcg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104227_4287_GUY_ABF_fc-web.jpg",caribbean premier league 2024
+https://dai.google.com/linear/hls/event/HDPZGzrzSRGo51fhvD5w8A/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-527.jpg",mlb
+https://dai.google.com/linear/hls/event/55zejEOiSDOGZEDsUcuqew/master.m3u8
