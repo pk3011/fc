@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109164_4493_BB_CTSA_fc-web_1726824494286.jpg",zim afro t10 2024
-https://dai.google.com/linear/hls/event/LpKg1FglQ0GC3VhVW62QeA/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",boland t10 league 2024
-https://dai.google.com/linear/hls/event/KCWTlsUZQg6HWOV9B2Q54w/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-528.jpg",mlb
-https://dai.google.com/linear/hls/event/9BhMVa3QSEyLBTUKkWq6_A/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-529.jpg",mlb
+https://dai.google.com/linear/hls/event/7x151pG2SPeoAviAXLzFsw/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108886_3908_NEP_CAN_fc-web.jpg",icc cwc league 2 202327
 https://dai.google.com/linear/hls/event/VjXSd01kStW6f5dVDYNR6w/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png",minor league cricket 2024
+https://dai.google.com/linear/hls/event/psDxVy8HRZemRR5SSy_KHg/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Team-Championship-Dallas_old_Match_card.jpg",liv team championship dallas
 https://dai.google.com/linear/hls/event/N9mm6m5SSkSunS09cuy5xw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png",afghanistan v south africa in uae 2024
-https://dai.google.com/linear/hls/event/Ek_Vtm5jRaWpjVxANvOhng/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109041_CASACARDS_APP.png",patanjali uttarakhand premier league 2024
-https://dai.google.com/linear/hls/event/i-GmFDoATeWFSb_ZlmbDIA/master.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109163_4493_NYSL_JBL_fc-web_1726824495027.jpg",zim afro t10 2024
 https://dai.google.com/linear/hls/event/hv-iOPC4SAe01emqKOgETg/master.m3u8
