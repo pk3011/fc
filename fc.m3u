@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104231_4287_GUY_BR_fc-web.jpg",caribbean premier league 2024
-https://dai.google.com/linear/hls/event/SFn1XFfTSG2Q4gYbQEMazw/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109323_4499_ACT_SSF_fc-web.jpg",grand rumble t10 championship season 4 2024
-https://dai.google.com/linear/hls/event/DQZ2kg-BRrm1zjZ2VwK1Ww/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-535.jpg",mlb
-https://dai.google.com/linear/hls/event/ugoX2F20Sr6Mv07uJ0N12g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109769_CASACARDS_APP.png",14th hockey india sub jrmen national championship
-https://dai.fancode.com/primary/109769_english_hls_8531adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109770_CASACARDS_APP.png",14th hockey india sub jrmen national championship
-https://dai.fancode.com/primary/109770_english_hls_5733adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png",new zealand tour of sri lanka 2024
+
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109324_4499_PAE_BLO_fc-web.jpg",grand rumble t10 championship season 4 2024
+https://dai.google.com/linear/hls/event/6ADDqXIsRzSNGANomeEQ1g/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108414_4464_JER_QAT_fc-web.jpg",icc cricket world cup challenge league 202426
+https://dai.google.com/linear/hls/event/LBDUw_2JTqiAHGImLIOpsg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108133_4451_CAM_LES_fc-web.jpg",icc mens t20 wc africa sub regional qualifier a
+https://dai.google.com/linear/hls/event/sIwAWiz8Rbae82cU-3gQog/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108132_4451_MLI_GHA_fc-web.jpg",icc mens t20 wc africa sub regional qualifier a
+https://dai.google.com/linear/hls/event/VW1yycSqSkqfPFdRdjGIGg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108415_4464_DEN_PNG_fc-web.jpg",icc cricket world cup challenge league 202426
+https://dai.google.com/linear/hls/event/GomZASVsTkSebG6IMcv10A/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109771_CASACARDS_APP.png",14th hockey india sub jrmen national championship
+https://dai.fancode.com/primary/109771_english_hls_5126adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109772_CASACARDS_APP.png",14th hockey india sub jrmen national championship
+https://dai.fancode.com/primary/109772_english_hls_8456adfreeta-di/index.m3u8
