@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109326_4499_GS_CCC_fc-web.jpg",grand rumble t10 championship season 4 2024
-https://dai.google.com/linear/hls/event/Uq29Hhc_QLme3G3j_s8hDg/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109775_CASACARDS_APP.png",14th hockey india sub jrmen national championship
-https://dai.fancode.com/primary/109775_english_hls_9149adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109327_4499_PAE_KLZ_fc-web.jpg",grand rumble t10 championship season 4 2024
+https://dai.google.com/linear/hls/event/7347G1CES5afV3wcIHyrhg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-538.jpg",mlb
+https://dai.google.com/linear/hls/event/_arAeqa1RGu0dDBiXbpjZA/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109776_CASACARDS_APP.png",14th hockey india sub jrmen national championship
+https://dai.fancode.com/primary/109776_english_hls_7220adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109735_4521_AND-W_KER-W_fc-web.jpg",chhattisgarh womens t20 cup
+https://dai.google.com/linear/hls/event/H-VJFDeQRJSy21hbImypPg/master.m3u8
