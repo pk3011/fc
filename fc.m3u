@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png",new zealand tour of sri lanka 2024
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-England_ODI_old_match-card_1726893730609.jpg",australia tour of england 2024
 
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109329_4499_KLZ_BLO_fc-web.jpg",grand rumble t10 championship season 4 2024
-https://dai.google.com/linear/hls/event/CU4EG34kQJONW8X_SC8z_w/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109778_CASACARDS_APP.png",14th hockey india sub jrmen national championship
-https://dai.fancode.com/primary/109778_english_hls_7048adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109736_4521_CRW_TN-W_fc-web.jpg",chhattisgarh womens t20 cup
-https://dai.google.com/linear/hls/event/xzGBKXntSySDrSZO7bps-g/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card.jpg",dtm 2024
-https://dai.google.com/linear/hls/event/KVarex7WRGK_hYeSl1DkYQ/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109779_CASACARDS_APP.png",14th hockey india sub jrmen national championship
-https://dai.fancode.com/primary/109779_english_hls_7964adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109479_4514_LUX_GRE_fc-web.jpg",dream11 european cricket championship 2024
+https://dai.google.com/linear/hls/event/JrlJ0DCFT1W1Xlm4PA7Qlg/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Acciona-Open-de-Espana-presented-by-Madrid_old-Match-card-(2).jpg",acciona open de espaa presented by madrid
+https://dai.google.com/linear/hls/event/MBW9O4ZnSj-KKaJ_nF37vw/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109780_CASACARDS_APP.png",14th hockey india sub jrmen national championship
+https://dai.fancode.com/primary/109780_english_hls_6639adfreeta-di/index.m3u8
