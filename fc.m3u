@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-and-South-Africa-Tour-of-UAE-ODIs--old-match-card.png",Ireland vs South Africa (Ireland vs South Africa Tour of UAE)
+https://dai.fancode.com/primary/107782_english_hls_5947ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",Pakistan vs England (England tour of Pakistan, 2024)
 https://dai.fancode.com/primary/110480_english_hls_5699ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110145_CASACARDS_APP.png",Hockey Haryana Women vs Hockey Punjab Women (14th Hockey India Jr. Women National Championship)
-https://dai.fancode.com/primary/110145_english_hls_6142adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109511_4514_AUT_GER_fc-web.jpg",Austria vs Germany (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109511_english_hls_7463ta-di/index.m3u8
