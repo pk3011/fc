@@ -1,2 +1,2 @@
 requests==2.31.0
-json
+json==3.5
