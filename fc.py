@@ -1,28 +1,33 @@
 import requests
 import json
 
-# URL of the JSON data
-url = "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
+# Define the URL of the JSON data
+url = 'https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json'
 
-# Fetch JSON data
+# Fetch the JSON data from the URL
 response = requests.get(url)
 data = response.json()
 
-# M3U header
-m3u_content = "#EXTM3U\n"
-
-# Process each item in the JSON data
-for item in data.get("data", []):
-    tournament = item.get("tournament", "Unknown Tournament")
-    poster = item.get("poster", "")
-    initial_url = item.get("initialUrl", "")
+# Create a function to generate the M3U playlist
+def create_m3u_playlist(json_data):
+    playlist = "#EXTM3U\n"
     
-    # Add entry to M3U content
-    m3u_content += f'#EXTINF:-1 group-title="fancode" tvg-logo="{poster}",{tournament}\n'
-    m3u_content += f'{initial_url}\n'
+    # Loop through each match in the JSON data
+    for match in json_data['matches']:
+        title = match['title']
+        logo = match['src']
+        stream_url = match['adfree_url']
+        
+        # Add the channel details in M3U format
+        playlist += f'#EXTINF:-1 tvg-logo="{logo}" group-title="fancode", {title}\n{stream_url}\n'
+    
+    return playlist
 
-# Save M3U content to a file
-with open("fc.m3u", "w") as m3u_file:
-    m3u_file.write(m3u_content)
+# Generate the M3U playlist
+m3u_playlist = create_m3u_playlist(data)
 
-print("M3U playlist saved as fc.m3u")
+# Save the M3U playlist to a file
+with open('fc.m3u', 'w') as f:
+    f.write(m3u_playlist)
+
+print("M3U playlist created successfully!")
