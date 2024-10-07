@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/104214_4287_SLK_GUY_fc-web.jpg",Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2024)
+https://dai.fancode.com/primary/104238_english_hls_5001ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",Southern Hitters vs Northern Strikers (MCA T20 Super Series 2024)
+https://dai.fancode.com/primary/110382_english_hls_4744ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110540_CASACARDS_APP.png",Los Angeles Dodgers vs San Diego Padres (MLB)
+https://dai.fancode.com/primary/110540_english_hls_5237ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png",East Bay Blazers vs Chicago Kingsmen (Minor League Cricket, 2024)
+https://dai.fancode.com/primary/107898_english_hls_5183ta-di/index.m3u8
