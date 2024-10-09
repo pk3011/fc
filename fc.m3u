@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110647_CASACARDS_APP.png",New York Mets vs Philadelphia Phillies (MLB)
-https://dai.fancode.com/primary/110647_english_hls_6284ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110050_4533_DL_CHI_fc-web_1728289366560.jpg",Chicago CC vs Dallas Lonestars CC (National Cricket League, 2024)
+https://dai.fancode.com/primary/110050_english_hls_5626ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",Northern Strikers vs Western Warriors (MCA T20 Super Series 2024)
+https://dai.fancode.com/primary/110386_english_hls_5919ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110648_CASACARDS_APP.png",San Diego Padres vs Los Angeles Dodgers (MLB)
+https://dai.fancode.com/primary/110648_english_hls_6259ta-di/index.m3u8
