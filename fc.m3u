@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110068_4534_DCD_MAR_fc-web.jpg",ILT20 Marvels vs Dubai Capitals Development (ILT20 Development Tournament, 2024)
-https://dai.fancode.com/primary/110068_english_hls_5817ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109529_4514_SUI_FIN_fc-web.jpg",Switzerland vs Finland (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109529_english_hls_7118ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110069_4534_GGD_DVD_fc-web.jpg",Gulf Giants Development vs Desert Vipers Development (ILT20 Development Tournament, 2024)
+https://dai.fancode.com/primary/110069_english_hls_7462ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",Al Hajery Team XI vs NCM Investment (KCC T20 Elite Cup, 2024)
+https://dai.fancode.com/primary/110485_english_hls_6090ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109531_4514_SPA_SUI_fc-web.jpg",Switzerland vs Spain (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109531_english_hls_6242ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110083_CASACARDS_APP.png",Monaco vs Maccabi Tel Aviv (Euro League 2024-25)
+https://dai.fancode.com/primary/110083_english_hls_8640ta-no/index.m3u8
