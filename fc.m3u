@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110052_4533_ATL_DL_fc-web_1728289366412.jpg",Atlanta Kings CC vs Dallas Lonestars CC (National Cricket League, 2024)
-https://dai.fancode.com/primary/110052_english_hls_7278ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110651_CASACARDS_APP.png",Kansas City Royals vs New York Yankees (MLB)
-https://dai.fancode.com/primary/110651_english_hls_5759ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110652_CASACARDS_APP.png",San Diego Padres vs Los Angeles Dodgers (MLB)
-https://dai.fancode.com/primary/110652_english_hls_5436ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",Central Smashers vs Southern Hitters (MCA T20 Super Series 2024)
 https://dai.fancode.com/primary/110387_english_hls_6365ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-vs-new-york_fc-wep.jpg",New York Lions CC vs Texas Gladiators CC (National Cricket League, 2024)
+https://dai.fancode.com/primary/110053_english_hls_6107ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110652_CASACARDS_APP.png",San Diego Padres vs Los Angeles Dodgers (MLB)
+https://dai.fancode.com/primary/110652_english_hls_5436ta-di/index.m3u8
