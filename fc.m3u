@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",Stack CC vs Kuwait Emerging Stars (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110486_english_hls_8309ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108295_3740_KSA_JPN_fc-web.jpg",Saudi Arabia vs Japan (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108295_english_hls_8287ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",Iraq vs Palestine (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108292_english_hls_6233ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109536_4514_FIN_MAL_fc-web.jpg",Malta vs Finland (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109536_english_hls_6778ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",Day 1 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)
-https://dai.fancode.com/primary/110597_english_hls_7008ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110084_CASACARDS_APP.png",Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul (Euro League 2024-25)
-https://dai.fancode.com/primary/110084_english_hls_6075ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108291_3740_OMN_KUW_fc-web.jpg",Oman vs Kuwait (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108291_english_hls_6173ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108289_3740_UAE_PRK_fc-web.jpg",United Arab Emirates vs DPR Korea (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108289_english_hls_8196ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108281_3542_URU_PAR_fc-web_1728577270000.jpg",Venezuela vs Argentina (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/110545_english_hls_5951ta-di/index.m3u8
