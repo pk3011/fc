@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109300_4496_IC_MNT_fc-web.jpg",India Capitals vs Manipal Tigers (Legends League Cricket, 2024)
-https://dai.fancode.com/primary/109300_english_hls_6289ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg",Jordan vs Korea Republic (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108290_english_hls_7351ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg",Uzbekistan vs IR Iran (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/108287_english_hls_9170ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109534_4514_MAL_SUI_fc-web.jpg",Malta vs Switzerland (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109534_english_hls_6274ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",Stack CC vs Kuwait Emerging Stars (KCC T20 Elite Cup, 2024)
+https://dai.fancode.com/primary/110486_english_hls_8309ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108295_3740_KSA_JPN_fc-web.jpg",Saudi Arabia vs Japan (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108295_english_hls_8287ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",Iraq vs Palestine (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108292_english_hls_6233ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109536_4514_FIN_MAL_fc-web.jpg",Malta vs Finland (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109536_english_hls_6778ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",Day 1 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)
 https://dai.fancode.com/primary/110597_english_hls_7008ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110084_CASACARDS_APP.png",Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul (Euro League 2024-25)
+https://dai.fancode.com/primary/110084_english_hls_6075ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108291_3740_OMN_KUW_fc-web.jpg",Oman vs Kuwait (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108291_english_hls_6173ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108289_3740_UAE_PRK_fc-web.jpg",United Arab Emirates vs DPR Korea (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108289_english_hls_8196ta-di/index.m3u8
