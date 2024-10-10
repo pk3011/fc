@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",Pakistan vs England (England tour of Pakistan, 2024)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg",Afghanistan A vs Oman (Afghanistan A tour of Oman, 2024)
-https://dai.fancode.com/primary/110527_english_hls_9129ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109533_4514_FIN_SPA_fc-web.jpg",Spain vs Finland (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109533_english_hls_6360ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109300_4496_IC_MNT_fc-web.jpg",India Capitals vs Manipal Tigers (Legends League Cricket, 2024)
+https://dai.fancode.com/primary/109300_english_hls_6289ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg",Jordan vs Korea Republic (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108290_english_hls_7351ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg",Uzbekistan vs IR Iran (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/108287_english_hls_9170ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109534_4514_MAL_SUI_fc-web.jpg",Malta vs Switzerland (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109534_english_hls_6274ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",Day 1 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)
 https://dai.fancode.com/primary/110597_english_hls_7008ta-no/index.m3u8
