@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",Western Warriors vs Central Smashers (MCA T20 Super Series 2024)
-https://dai.fancode.com/primary/110390_english_hls_6331ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109535_4514_SPA_BEL_fc-web.jpg",Spain vs Belgium (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109538_english_hls_6746ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",Day 2 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)
+https://dai.fancode.com/primary/110598_english_hls_5917ta-no/index.m3u8
