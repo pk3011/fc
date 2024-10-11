@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110054_4533_NYL_CHI_fc-web_1728289366409.jpg",New York Lions CC vs Chicago CC (National Cricket League, 2024)
-https://dai.fancode.com/primary/110054_english_hls_5992ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",Northern Strikers vs Southern Hitters (MCA T20 Super Series 2024)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108282_3542_PER_COL_fc-web_1728577269969.jpg",Chile vs Brazil (CONMEBOL World Cup Qualifiers)
-https://dai.fancode.com/primary/110546_english_hls_8554ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",Kansas City Royals vs New York Yankees (MLB)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110055_4533_DL_LAW_fc-web_1728289366451.jpg",Los Angeles Waves CC vs Dallas Lonestars CC (National Cricket League, 2024)
+https://dai.fancode.com/primary/110055_english_hls_6800ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110883_CASACARDS_APP.png",Kansas City Royals vs New York Yankees (MLB)
 https://dai.fancode.com/primary/110883_english_hls_6013ta-no/index.m3u8
