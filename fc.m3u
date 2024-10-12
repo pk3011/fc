@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103571_4259_SEL_PER_fc-web.png",Selangor vs Perak (MCA Men's 50 Overs Inter-State Championship, 2024)
-https://dai.fancode.com/primary/110569_english_hls_1850ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103573_4259_JOH_KEL_fc-web.png",Johor vs Kelantan (MCA Men's 50 Overs Inter-State Championship, 2024)
-https://dai.fancode.com/primary/110571_english_hls_6024ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg",Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2024)
+https://dai.fancode.com/primary/109302_english_hls_6027ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg",Oman vs Hong Kong A (Afghanistan A and Hong Kong A tour of Oman, 2024)
+https://dai.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110237_4537_TBW_ODF_fc-web_1728291746725.jpg",Taichung Blue Whale Women vs Odisha Women (AFC Women's Champions League 2024-25)
+https://dai.fancode.com/primary/110237_english_hls_5821ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110235_4537_MLV-W_KFI_fc-web_1728291746721.jpg",Melbourne Victory Women vs Kaya FC–Iloilo (AFC Women's Champions League 2024-25)
+https://dai.fancode.com/primary/110235_english_hls_6059ta-di/index.m3u8
