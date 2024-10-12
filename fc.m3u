@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg",Vietnam vs India (International Friendlies)
+https://dai.fancode.com/primary/110834_english_hls_8199ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg",Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2024)
 https://dai.fancode.com/primary/109302_english_hls_6027ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg",Oman vs Hong Kong A (Afghanistan A and Hong Kong A tour of Oman, 2024)
 https://dai.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110237_4537_TBW_ODF_fc-web_1728291746725.jpg",Taichung Blue Whale Women vs Odisha Women (AFC Women's Champions League 2024-25)
-https://dai.fancode.com/primary/110237_english_hls_5821ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110235_4537_MLV-W_KFI_fc-web_1728291746721.jpg",Melbourne Victory Women vs Kaya FC–Iloilo (AFC Women's Champions League 2024-25)
-https://dai.fancode.com/primary/110235_english_hls_6059ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109542_4514_ITA_NED-XI_fc-web.jpg",Italy vs Netherlands XI (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109542_english_hls_5150ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",Chesterfield vs Notts County (League Two 2024-25)
+https://dai.fancode.com/primary/110101_english_hls_5086ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110238_4537_URDL_HCMC_fc-web_1728291746716.jpg",Urawa Red Diamonds Ladies vs Ho Chi Minh City Women’s FC (AFC Women's Champions League 2024-25)
+https://dai.fancode.com/primary/110238_english_hls_5584ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",Day 3 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)
+https://dai.fancode.com/primary/110599_english_hls_5441ta-di/index.m3u8
