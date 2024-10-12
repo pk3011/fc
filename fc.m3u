@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110056_4533_ATL_TG_fc-web_1728289366501.jpg",Atlanta Kings CC vs Texas Gladiators CC (National Cricket League, 2024)
-https://dai.fancode.com/primary/110056_english_hls_5187ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/110884_CASACARDS_APP.png",Los Angeles Dodgers vs San Diego Padres (MLB)
-https://dai.fancode.com/primary/110884_english_hls_6255ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110057_4533_CHI_LAW_fc-web_1728289367201.jpg",Chicago CC vs Los Angeles Waves CC (National Cricket League, 2024)
+https://dai.fancode.com/primary/110057_english_hls_7536ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108283_3542_COL_ARG_fc-web_1728580115494.jpg",Peru vs Uruguay (CONMEBOL World Cup Qualifiers)
 https://dai.fancode.com/primary/110547_english_hls_5512ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103572_4259_KL_NES_fc-web.png",Negeri Sembilan vs Kuala Lumpur (MCA Men's 50 Overs Inter-State Championship, 2024)
-https://dai.fancode.com/primary/110570_english_hls_8569ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/110884_CASACARDS_APP.png",Los Angeles Dodgers vs San Diego Padres (MLB)
+https://dai.fancode.com/primary/110884_english_hls_6255ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103571_4259_SEL_PER_fc-web.png",Selangor vs Perak (MCA Men's 50 Overs Inter-State Championship, 2024)
 https://dai.fancode.com/primary/110569_english_hls_1850ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103572_4259_KL_NES_fc-web.png",Negeri Sembilan vs Kuala Lumpur (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/110570_english_hls_8569ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103573_4259_JOH_KEL_fc-web.png",Johor vs Kelantan (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/110571_english_hls_6024ta-di/index.m3u8
