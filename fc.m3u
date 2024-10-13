@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103575_4259_JOH_PER_fc-web.png",Johor vs Perak (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/110573_english_hls_5133ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103574_4259_SEL_KL_fc-web.png",Selangor vs Kuala Lumpur (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/110572_english_hls_8665ta-di/index.m3u8
