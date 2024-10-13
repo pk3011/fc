@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103574_4259_SEL_KL_fc-web.png",Selangor vs Kuala Lumpur (MCA Men's 50 Overs Inter-State Championship, 2024)
-https://dai.fancode.com/primary/110572_english_hls_8665ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IC_THY_fc-web.jpg",India Capitals vs Toyam Hyderabad (Legends League Cricket, 2024)
+https://dai.fancode.com/primary/109303_english_hls_6367ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110446_CASACARDS_APP.png",Ashtapailu Sports vs Stars Cricket Club (Maharashtra Champions Trophy 2024)
+https://dai.fancode.com/primary/110446_english_hls_5383ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg",Hong Kong A vs Afghanistan A (Afghanistan A and Hong Kong A tour of Oman, 2024)
+https://dai.fancode.com/primary/110529_english_hls_5439adfreeta-no/index.m3u8
