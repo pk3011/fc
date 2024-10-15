@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",Pakistan vs England (England tour of Pakistan, 2024)
 https://dai.fancode.com/primary/110481_english_hls_6419ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110448_4545_SCC_NPB_fc-web.jpg",Stars Cricket Club vs Nok 99 Puneri Bappa (Maharashtra Champions Trophy 2024)
+https://dai.fancode.com/primary/110448_english_hls_6739ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg",Afghanistan A vs Hong Kong A (Afghanistan A and Hong Kong A tour of Oman, 2024)
+https://dai.fancode.com/primary/110531_english_hls_6817ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111097_4575_RAJ-D_KDC_fc-web.jpg",Rajasthan Divyang vs Kerala Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111097_english_hls_6632ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111095_4575_KAR-D_HYD-D_fc-web.jpg",Karnataka Divyang vs Hyderabad Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111095_english_hls_2956ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111094_4575_CHN-D_TN-D_fc-web.jpg",Chandigarh Divyang vs Tamil Nadu Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111094_english_hls_8019ta-di/index.m3u8
