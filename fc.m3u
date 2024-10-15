@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110066_4534_PEA_DCD_fc-web.jpg",Dubai Capitals Development vs ILT20 Pearls (ILT20 Development Tournament, 2024)
-https://dai.fancode.com/primary/110078_english_hls_5680ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",Kuwait Swedish vs NCM Investment (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110490_english_hls_8645ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109558_CASACARDS_APP.png",England XI vs Scotland XI (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109558_english_hls_6099ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108268_3740_JOR_KUW_fc-web_1729004442039.jpg",Saudi Arabia vs Bahrain (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/110302_english_hls_6909ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109559_CASACARDS_APP.png",Netherlands XI vs Spain (Dream11 European Cricket Championship, 2024)
-https://dai.fancode.com/primary/109559_english_hls_8357ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110086_CASACARDS_APP.png",Alba Berlin vs LDLC ASVEL Villeurbanne (Euro League 2024-25)
-https://dai.fancode.com/primary/110086_english_hls_5822ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110087_CASACARDS_APP.png",Paris vs Panathinaikos OPAP Athens (Euro League 2024-25)
-https://dai.fancode.com/primary/110087_english_hls_8636ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108284_3542_CHI_BOL_fc-web_1728580115471.jpg",Colombia vs Chile (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/110548_english_hls_7093ta-no/index.m3u8
