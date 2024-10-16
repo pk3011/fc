@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108284_3542_CHI_BOL_fc-web_1728580115471.jpg",Colombia vs Chile (CONMEBOL World Cup Qualifiers)
-https://dai.fancode.com/primary/110548_english_hls_7093ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103578_4259_KL_PER_fc-web.png",Kuala Lumpur vs Perak (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/103578_english_hls_6528ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103577_4259_SEL_KEL_fc-web.png",Selangor vs Kelantan (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/103577_english_hls_8624ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103579_4259_JOH_NES_fc-web.png",Johor vs Negeri Sembilan (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/103579_english_hls_6922ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111104_4575_WB-D_VID-D_fc-web.jpg",West Bengal Divyang vs Vidarbha Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111104_english_hls_8467ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111100_4575_GUJ-D_UP-D_fc-web.jpg",Gujarat Divyang vs Uttar Pradesh Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111100_english_hls_5400ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111098_4575_MAH-D_HP-D_fc-web.jpg",Maharashtra Divyang vs Himachal Pradesh Divyang (4th National Physical Disability T20 Championship )
+https://dai.fancode.com/primary/111098_english_hls_5841ta-di/index.m3u8
