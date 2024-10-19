@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",Stack CC vs CECC (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110495_english_hls_8677ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",New York Mets vs Los Angeles Dodgers (MLB)
-https://dai.fancode.com/primary/111525_english_hls_6065ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Court 2, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/110881_english_hls_2659ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/110880_english_hls_7740ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-UNITED-STATES-GRAND-PRIX-2024-TV-old-match-card.png",Sprint Qualifying vs United States of America (F1 PIRELLI UNITED STATES GRAND PRIX 2024)
-https://dai.fancode.com/primary/95229_english_hls_5629ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109815_CASACARDS_APP.png",Leeds United vs Sheffield United (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109815_english_hls_5828ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",Cleveland Guardians vs New York Yankees (MLB)
+https://dai.fancode.com/primary/111526_english_hls_5980ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103584_4259_KL_JOH_fc-web.png",Kuala Lumpur vs Johor (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/103584_english_hls_6181ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/06/103583_4259_PER_KEL_fc-web.png",Perak vs Kelantan (MCA Men's 50 Overs Inter-State Championship, 2024)
+https://dai.fancode.com/primary/103583_english_hls_9069ta-di/index.m3u8
