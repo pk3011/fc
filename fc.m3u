@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-2---Old.png",Indonesia vs Maldives (Bhutan T20 International Quadrangular Series)
-https://dai.fancode.com/primary/110602_english_hls_6466ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",Ashtapailu Sports vs Punit Balan Group (Maharashtra Champions Trophy 2024)
-https://dai.fancode.com/primary/110456_english_hls_6593ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/110245_CASACARDS_APP.png",Tokyo Verdy vs Urawa Red Diamonds (J League 2024)
-https://dai.fancode.com/primary/110245_english_hls_6172adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111390_4575_TN-D_VID-D_fc-web.jpg",Tamil Nadu Divyang vs Vidarbha Divyang (4th National Physical Disability T20 Championship )
-https://dai.fancode.com/primary/111390_english_hls_9028ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111394_4575_OD-D_WB-D_fc-web.jpg",Odisha Divyang vs West Bengal Divyang (4th National Physical Disability T20 Championship )
-https://dai.fancode.com/primary/111394_english_hls_2348ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110624_4557_GAM_RWA_fc-web-2_1729304747057.jpg",Kenya vs Mozambique (ICC Men's T20 WC Africa Sub Regional Qualifier B)
+https://dai.fancode.com/primary/110626_english_hls_5252ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110624_4557_GAM_RWA_fc-web-1_1729304833026.jpg",Zimbabwe vs Seychelles (ICC Men's T20 WC Africa Sub Regional Qualifier B)
+https://dai.fancode.com/primary/110625_english_hls_8736ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oxford-United-vs-West-Bromwich-Albion)_fc-wpp.jpg",Oxford United vs West Bromwich Albion (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109816_english_hls_6751ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111396_4575_AP-D_KAR-D_fc-web.jpg",Andhra Pradesh Divyang vs Karnataka Divyang (4th National Physical Disability T20 Championship )
 https://dai.fancode.com/primary/111396_english_hls_7594ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110896_4567_SYW_SYD_fc-web_1728983127482.jpg",Western Sydney Wanderers vs Sydney FC (A League 2024-25)
-https://dai.fancode.com/primary/110896_english_hls_5769ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_old.jpg",Indian Racing Festival 2024 vs Kari Motor Speedway, Coimbatore (Indian Racing Festival 2024)
-https://dai.fancode.com/primary/110522_english_hls_8742ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BG_QH_Old_fc_web.jpg",Beijing Guoan vs Qingdao Hainiu (Chinese Super League 2024)
+https://dai.fancode.com/primary/109884_english_hls_5467adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/109576_CASACARDS_APP.png",Netherlands XI vs England XI (Dream11 European Cricket Championship, 2024)
+https://dai.fancode.com/primary/109576_english_hls_6020ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",Race 1 vs Hockenheimring (DTM 2024)
+https://dai.fancode.com/primary/111347_english_hls_2566ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Estrella-Damm-NA-Andalucia-Masters_old-match-card.jpg",Day 3 vs Real Club de Golf Sotogrande, Andalucia (Estrella Damm N.A. Andalucía Masters)
+https://dai.fancode.com/primary/110861_english_hls_8764ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(1)_1729305614126.png",Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)
+https://dai.fancode.com/primary/111894_english_hls_5833ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(1)_1729305614126.png",Court 2, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)
+https://dai.fancode.com/primary/111893_english_hls_8563ta-di/index.m3u8
