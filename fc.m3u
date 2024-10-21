@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/111927_CASACARDS_APP.png",Los Angeles Dodgers vs New York Mets (MLB)
-https://dai.fancode.com/primary/111927_english_hls_5632ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)
+https://dai.fancode.com/primary/110622_english_hls_5666ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110459_4545_PBG_APS_fc-web.jpg",Ashtapailu Sports vs Punit Balan Group (Maharashtra Champions Trophy 2024)
+https://dai.fancode.com/primary/110459_english_hls_5879ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111382_4575_PUN-D_HYD-D_fc-web.jpg",Punjab Divyang vs Hyderabad Divyang (4th National Physical Disability T20 Championship )
 https://dai.fancode.com/primary/111382_english_hls_5783ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111381_4575_MP-D_CHA-D_fc-web.jpg",Madhya Pradesh Divyang vs Chattisgarh Divyang (4th National Physical Disability T20 Championship )
