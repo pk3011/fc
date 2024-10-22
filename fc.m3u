@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110462_4545_JET_JAI_fc-web.jpg",Jets CC vs Jain Irrigation (Maharashtra Champions Trophy 2024)
-https://dai.fancode.com/primary/110462_english_hls_5888ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",Overseas vs MMA Titans (ECS Malta, 2024)
-https://dai.fancode.com/primary/111537_english_hls_6766ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108659_4475_SHD_YKFM_fc-web.jpg",Shandong Taishan vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108659_english_hls_8843ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg",Buriram United vs Pohang Steelers (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108660_english_hls_5889ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110638_4557_ZIM_RWA_fc-web.jpg",Zimbabwe vs Rwanda (ICC Men's T20 WC Africa Sub Regional Qualifier B)
-https://dai.fancode.com/primary/111934_english_hls_6265ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110637_4557_KEN_GAM_fc-web.jpg",Kenya vs Gambia (ICC Men's T20 WC Africa Sub Regional Qualifier B)
-https://dai.fancode.com/primary/111933_english_hls_8846ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",Al Hajery Team XI vs NCM Investment (KCC T20 Elite Cup, 2024)
+https://dai.fancode.com/primary/110499_english_hls_6408ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111661_4589_SHA_DUB_fc-web.jpg",Sharjah vs Dubai (Emirates D20, 2024)
+https://dai.fancode.com/primary/111661_english_hls_6233ta-no/index.m3u8
