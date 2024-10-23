@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",West Indies vs Sri Lanka (West Indies tour of Sri Lanka, 2024)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSWI/master.m3u8?hdnea=exp=1729711543~acl=*~id=1556784483112233~hmac=4d77677a40746160d7bd6a1d6628890d7fc0d285a6f2df1295f278a4d271b6e6
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111662_4589_AJM_EMB_fc-web.jpg",Ajman vs Emirates Blues (Emirates D20, 2024)
-https://dai.fancode.com/primary/111662_english_hls_5824ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg",Royal Strikers vs Gzira United (ECS Malta, 2024)
-https://dai.fancode.com/primary/111542_english_hls_6291ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108728_4476_TFC_RK_fc-web.jpg",Ravshan Kulob vs Tractor (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108728_english_hls_6242ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",Stack CC vs Kuwait Swedish (KCC T20 Elite Cup, 2024)
+https://dai.fancode.com/primary/110500_english_hls_6869ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111663_4589_FUJ_SHA_fc-web.jpg",Sharjah vs Fujairah (Emirates D20, 2024)
+https://dai.fancode.com/primary/111663_english_hls_6598ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108740_4476_AFC_KHA_fc-web.jpg",Al Quwa Al Jawiya vs Khaldiya (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108740_english_hls_5879ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108739_4476_ALTW_AA_fc-web.jpg",Al-Taawoun vs Altyn Asyr (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108739_english_hls_8845ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",Partizan NIS Belgrade vs Virtus Bologna (Euro League 2024-25)
+https://dai.fancode.com/primary/111736_english_hls_5927ta-no/index.m3u8
