@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",Stack CC vs Kuwait Swedish (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110500_english_hls_6869ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111663_4589_FUJ_SHA_fc-web.jpg",Sharjah vs Fujairah (Emirates D20, 2024)
 https://dai.fancode.com/primary/111663_english_hls_6598ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108740_4476_AFC_KHA_fc-web.jpg",Al Quwa Al Jawiya vs Khaldiya (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108740_english_hls_5879ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108739_4476_ALTW_AA_fc-web.jpg",Al-Taawoun vs Altyn Asyr (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108739_english_hls_8845ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",Partizan NIS Belgrade vs Virtus Bologna (Euro League 2024-25)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/111736_CASACARDS_APP.png",Partizan NIS Belgrade vs Virtus Bologna (Euro League 2024-25)
 https://dai.fancode.com/primary/111736_english_hls_5927ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109818_4352_MIDD_SHF_fc-web.jpg",Middlesbrough vs Sheffield United (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109818_english_hls_6171ta-di/index.m3u8
