@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111666_4589_FUJ_DUB_fc-web.jpg",Fujairah vs Dubai (Emirates D20, 2024)
-https://dai.fancode.com/primary/111666_english_hls_6901ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",MMA Titans vs Mater Dei (ECS Malta, 2024)
-https://dai.fancode.com/primary/111550_english_hls_5566ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",NCM Investment vs CECC (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110503_english_hls_5745ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Mexico-GP-OLD.jpg",Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111782_4593_GAM_CBC_fc-web.jpg",CBCC vs Galfar Al Misnad (Qatar Pro League, 2024)
+https://dai.fancode.com/primary/111782_english_hls_6351ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111667_4589_SHA_ABD_fc-web.jpg",Abu Dhabi vs Sharjah (Emirates D20, 2024)
+https://dai.fancode.com/primary/111667_english_hls_5899ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110639_3908_USA_SCO_fc-web.jpg",USA vs Scotland (ICC CWC League 2, 2023-27)
+https://dai.fancode.com/primary/110639_english_hls_7878ta-di/index.m3u8
