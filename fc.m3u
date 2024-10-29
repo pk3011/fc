@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112001_CASACARDS_APP.png",New York Yankees vs Los Angeles Dodgers (MLB)
-https://dai.fancode.com/primary/112001_english_hls_4584ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",South Africa vs Bangladesh (South Africa tour of Bangladesh, 2024)
+https://dai.fancode.com/primary/110623_english_hls_5250ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",Ashtapailu Sports vs Punit Balan Group (Maharashtra Champions Trophy 2024)
+https://dai.fancode.com/primary/110475_english_hls_5267ta-di/index.m3u8
