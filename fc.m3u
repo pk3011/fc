@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",South Africa vs Bangladesh (South Africa tour of Bangladesh, 2024)
 https://dai.fancode.com/primary/110623_english_hls_5250ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",Rwanda Women vs Kenya Women (Kenya Women tour of Rwanda, 2024)
+https://dai.fancode.com/primary/112003_english_hls_5479ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",Ashtapailu Sports vs Punit Balan Group (Maharashtra Champions Trophy 2024)
 https://dai.fancode.com/primary/110475_english_hls_5267ta-di/index.m3u8
