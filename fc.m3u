@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_IND_fc-web.jpg",New Zealand vs India (Hong Kong Sixes, 2024)
-https://dai.fancode.com/primary/111913_english_hls_8569ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111797_4593_HUR_CBC_fc-web.jpg",CBCC vs Hurricanes (Qatar Pro League, 2024)
-https://dai.fancode.com/primary/111797_english_hls_6196ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110907_4567_CCM_PG_fc-web_1728983128243.jpg",Central Coast Mariners vs Perth Glory (A League 2024-25)
-https://dai.fancode.com/primary/110907_english_hls_5419ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-BANG_fc-web.jpg",Bangladesh vs United Arab Emirates (Hong Kong Sixes, 2024)
+https://dai.fancode.com/primary/111916_english_hls_8885ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg",Malta Women vs Bulgaria Women (ECI-W Malta-Bulgaria, 2024)
+https://dai.fancode.com/primary/112387_english_hls_5362ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",Kenya Women vs Rwanda Women (Kenya Women tour of Rwanda, 2024)
+https://dai.fancode.com/primary/112006_english_hls_8391ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SP_TJT_Old_fc_web.jpg",Shanghai Port vs Tianjin Jinmen Tiger (Chinese Super League 2024)
+https://dai.fancode.com/primary/109887_english_hls_5345adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110908_4567_SYW_ADL_fc-web_1728983127249.jpg",Western Sydney Wanderers vs Adelaide United (A League 2024-25)
+https://dai.fancode.com/primary/110908_english_hls_5871ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/LET-Aramco-Team-Series_old-match-card.jpg",Day 3 vs Riyadh Golf Club (Aramco Team Series Presented by PIF - Riyadh)
+https://dai.fancode.com/primary/112178_english_hls_6261ta-di/index.m3u8
