@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112012_4596_BAR_LEI_fc-web.jpg",Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2024)
-https://dai.fancode.com/primary/112012_english_hls_6092ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111679_4589_DUB_FUJ_fc-web.jpg",Fujairah vs Dubai (Emirates D20, 2024)
-https://dai.fancode.com/primary/111679_english_hls_6462ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",CECC vs Stack CC (KCC T20 Elite Cup, 2024)
-https://dai.fancode.com/primary/110513_english_hls_5675ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109826_4352_LUT_WBA_fc-web.jpg",Luton Town vs West Bromwich Albion (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109826_english_hls_6889ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/111744_CASACARDS_APP.png",Paris vs Vitoria Gasteiz Baskonia (EuroLeague 2024-25)
-https://dai.fancode.com/primary/111744_english_hls_5861ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111907_4594_AUS_NEP_fc-web.jpg",Nepal vs Australia (Hong Kong Sixes, 2024)
+https://dai.fancode.com/primary/111907_english_hls_5627ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111908_4594_IND_UAE_fc-web.jpg",United Arab Emirates vs India (Hong Kong Sixes, 2024)
+https://dai.fancode.com/primary/111908_english_hls_5602ta-di/index.m3u8
