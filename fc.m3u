@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nepal-vs-UAE-OLD.jpg",Nepal vs United Arab Emirates (Hong Kong Sixes, 2024)
-https://dai.fancode.com/primary/111919_english_hls_5613ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_OMN_fc-web.jpg",India vs Oman (Hong Kong Sixes, 2024)
-https://dai.fancode.com/primary/111920_english_hls_4901ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_BANG_fc-web.jpg",Bangladesh vs Sri Lanka (Hong Kong Sixes, 2024)
+https://dai.fancode.com/primary/111922_english_hls_5553ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111768_3908_UAE_NED_fc-web.jpg",United Arab Emirates vs Netherlands (ICC CWC League 2, 2023-27)
+https://dai.fancode.com/primary/111768_english_hls_5002ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110909_4567_MLV_MAC_fc-web_1728983127207.jpg",Melbourne Victory vs Macarthur (A League 2024-25)
+https://dai.fancode.com/primary/110909_english_hls_8163ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMn-vs-ENG_fc-web.jpg",England vs Oman (Hong Kong Sixes, 2024)
+https://dai.fancode.com/primary/111923_english_hls_5586ta-no/index.m3u8
