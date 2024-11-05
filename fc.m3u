@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg",Titans vs CBCC (Qatar Pro League, 2024)
-https://dai.fancode.com/primary/111804_english_hls_8376ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108668_4475_ANF_AAI_fc-web.jpg",Al-Nassr vs Al Ain (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108668_english_hls_8748ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",Phantom CC vs Fireox Unit CC (Qatar Pro League, 2024)
+https://dai.fancode.com/primary/111805_english_hls_8737ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112396_4616_MBT_GAT_fc-web.jpg",GAT vs Marafie Bengal Tigers (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112396_english_hls_6212ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111687_4589_EMB_AJM_fc-web.jpg",Ajman vs Emirates Blues (Emirates D20, 2024)
+https://dai.fancode.com/primary/111687_english_hls_6092ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg",Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2024)
 https://dai.fancode.com/primary/112016_english_hls_5404ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111686_4589_DUB_SHA_fc-web.jpg",Dubai vs Sharjah (Emirates D20, 2024)
-https://dai.fancode.com/primary/111686_english_hls_5534ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",Gozo Zalmi vs Red Stars (ECS Malta, 2024)
-https://dai.fancode.com/primary/111585_english_hls_6340ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108667_4475_PT_RAY_fc-web.jpg",Pakhtakor Tashkent vs Al Rayyan (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108667_english_hls_5199ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108753_4476_SEP_SHJ_fc-web.jpg",Sepahan vs Sharjah (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108753_english_hls_6693ta-no/index.m3u8
