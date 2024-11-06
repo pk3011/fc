@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112313_4608_MVA_APS_fc-app_fc-web_1730730017787.jpg",Ashtapailu Sports vs Mavericks Academy (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112313_english_hls_6128ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112314_4608_RRC_RCU_fc-app_fc-web_1730730017774.jpg",Rajasthan Royals Academy vs Recreation Club (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112314_english_hls_5570ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112296_english_hls_5770ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",Southern Crusaders vs American University of Malta (ECS Malta, 2024)
+https://dai.fancode.com/primary/111587_english_hls_5577ta-di/index.m3u8
