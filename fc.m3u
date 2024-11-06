@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112314_4608_RRC_RCU_fc-app_fc-web_1730730017774.jpg",Rajasthan Royals Academy vs Recreation Club (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112314_english_hls_5570ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)
-https://dai.fancode.com/primary/112296_english_hls_5770ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",Southern Crusaders vs American University of Malta (ECS Malta, 2024)
-https://dai.fancode.com/primary/111587_english_hls_5577ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",Afghanistan vs Bangladesh (Afghanistan vs Bangladesh tour in UAE, 2024)
+https://dai.fancode.com/primary/110863_english_hls_2430ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",Bugibba Blasters vs Red Stars (ECS Malta, 2024)
+https://dai.fancode.com/primary/111588_english_hls_6113ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111784_4593_PHC_ACC_fc-web.jpg",Asian CC vs Phantom CC (Qatar Pro League, 2024)
+https://dai.fancode.com/primary/111806_english_hls_3236ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108802_4476_BU_LM_fc-web.jpg",Bangkok United vs Lee Man (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108802_english_hls_7058ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108801_4476_ND_TAM_fc-web.jpg",Nam Dinh vs Tampines Rovers FC (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108801_english_hls_9896ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",Court 2, Brazil vs Rio de Janerio (Volleyball Beach Pro Tour)
+https://dai.fancode.com/primary/112799_english_hls_8379ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",Central Court, Brazil vs Rio de Janerio (Volleyball Beach Pro Tour)
+https://dai.fancode.com/primary/112798_english_hls_3619ta-no/index.m3u8
