@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112317_4608_SCA_MVA_fc-app_fc-web_1730730043359.jpg",SDCA vs Mavericks Academy (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112317_english_hls_5588ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112399_4616_AF_MBT_fc-web.jpg",Marafie Bengal Tigers vs A Four CC (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112399_english_hls_5766ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_2.jpg",Featured Feed - Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
+https://dai.fancode.com/primary/112837_english_hls_5638ta-no/index.m3u8
