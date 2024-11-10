@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112321_4608_RCU_MVA_fc-app_fc-web_1730730990012.jpg",Mavericks Academy vs Recreation Club (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112321_english_hls_5574ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_01.jpg",TCC Bhubneshwar vs U.P Shri Sahayak Cricket Academy (Bijay Kumar Saha Memorial T20)
-https://dai.fancode.com/primary/113010_english_hls_8094ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tokyo-Verdy-VS-Vissel-Kobe_fc-web.jpg",Tokyo Verdy vs Vissel Kobe (J League 2024)
-https://dai.fancode.com/primary/112470_english_hls_8135adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Urawa-Red-Diamonds-VS-Sanfrecce-Hiroshima_fc-web.jpg",Urawa Red Diamonds vs Sanfrecce Hiroshima (J League 2024)
-https://dai.fancode.com/primary/112469_english_hls_5383adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110915_4567_CCM_WEL_fc-web_1728983127905.jpg",Central Coast Mariners vs Wellington Phoenix (A League 2024-25)
-https://dai.fancode.com/primary/110915_english_hls_5108ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",Featured Feed - Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
-https://dai.fancode.com/primary/112839_english_hls_4921ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg",Singapore vs Bahrain (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112302_english_hls_7846ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112301_4607_UGA_HK_fc-web.jpg",Uganda vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112301_english_hls_1828ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112322_4608_SCA_APS_fc-app_fc-web_1730731027674.jpg",SDCA vs Ashtapailu Sports (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112322_english_hls_5096ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_1731135450010.jpg",Siliguri Agragamee Sangha vs TCC Bhubneshwar (Bijay Kumar Saha Memorial T20)
+https://dai.fancode.com/primary/113011_english_hls_7874ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
 https://dai.fancode.com/primary/112182_english_hls_5219ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",Marsa vs Overseas (ECS Malta, 2024)
+https://dai.fancode.com/primary/111603_english_hls_4691ta-no/index.m3u8
