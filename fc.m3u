@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112403_4616_SZN_COH_fc-web.jpg",Cochin Hurricanes vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112403_english_hls_4587ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112020_4596_JAM_CCC_fc-web.jpg",Jamaica Scorpions vs Combined Campuses and Colleges (CG United Super50 Cup, 2024)
-https://dai.fancode.com/primary/112020_english_hls_7959ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",Central Court, Brazil vs Rio de Janeiro (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113021_english_hls_5247ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",West Indies vs England (England tour of West Indies, 2024)
+https://dai.fancode.com/primary/109444_english_hls_4988ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",Central Court, Brazil vs Rio de Janerio (Volleyball Beach Pro Tour)
+https://dai.fancode.com/primary/113020_english_hls_4463ta-di/index.m3u8
