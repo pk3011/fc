@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",Royal Strikers vs Msida Warriors (ECS Malta, 2024)
-https://dai.fancode.com/primary/111606_english_hls_4959ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112324_4608_RRC_SCA_fc-app_fc-web_1730731117057.jpg",Rajasthan Royals Academy vs SDCA (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112324_english_hls_5062ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",Msida Warriors vs American University of Malta (ECS Malta, 2024)
-https://dai.fancode.com/primary/111607_english_hls_4695ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",Bangladesh vs Afghanistan (Afghanistan vs Bangladesh tour in UAE, 2024)
+https://dai.fancode.com/primary/110865_english_hls_4824ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111772_3908_OMN_NED_fc-web.jpg",Oman vs Netherlands (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/111772_english_hls_4720ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_1731135450010.jpg",Sporting Union Calcutta vs Sabuj Sangha Bhabanipur (Bijay Kumar Saha Memorial T20)
-https://dai.fancode.com/primary/113013_english_hls_5256ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_01.jpg",Mohammedan Sporting Club vs Deoghar Cricket Academy (Bijay Kumar Saha Memorial T20)
+https://dai.fancode.com/primary/113014_english_hls_6457ta-no/index.m3u8
