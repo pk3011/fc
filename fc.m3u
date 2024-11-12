@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112304_4607_TAN_HK_fc-web.jpg",Tanzania vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)
-https://dai.fancode.com/primary/112304_english_hls_5582ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",Msida Warriors vs Marsa (ECS Malta, 2024)
-https://dai.fancode.com/primary/111612_english_hls_5180ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_1731135450010.jpg",JS-XI vs Sabuj Sangha Bhabanipur (Bijay Kumar Saha Memorial T20)
 https://dai.fancode.com/primary/113016_english_hls_5321ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112304_4607_TAN_HK_fc-web.jpg",Tanzania vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112304_english_hls_5582ta-di/index.m3u8
