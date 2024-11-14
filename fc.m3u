@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112407_4616_AGT_SZN_fc-web_1731569489424.jpg",Afghan Tigers vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112407_english_hls_5535ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112895_CASACARDS_APP.png",Qatar vs Uzbekistan (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/112895_english_hls_5729ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112893_CASACARDS_APP.png",United Arab Emirates vs Kyrgyz Republic (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/112893_english_hls_8815ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108281_3542_URU_PAR_fc-app_1731595672984.jpg",Venezuela vs Brazil (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/112935_english_hls_5422ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",West Indies vs England (England tour of West Indies, 2024)
+https://dai.fancode.com/primary/109445_english_hls_5455ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112408_4616_SBS_RGD_fc-web_1731569489613.jpg",SBS CC vs Cryo Maviricks (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112408_english_hls_5328ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/111751_CASACARDS_APP.png",Bayern Munich vs Alba Berlin (EuroLeague 2024-25)
+https://dai.fancode.com/primary/111751_english_hls_5377ta-no/index.m3u8
