@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112329_4608_RRC_SSX_fc-app_fc-web_1730731459345.jpg",Rajasthan Royals Academy vs Solapur Stars XI (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112329_english_hls_5707ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg",SDCA vs Ashtapailu Sports (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112330_english_hls_6345ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",Edex Knights vs MMA Titans (ECS Malta, 2024)
+https://dai.fancode.com/primary/111619_english_hls_5243ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS_SA_fc-web.jpg",Australia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/112920_english_hls_5616ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",Day 1 vs Jumeirah Golf Estates, Dubai (DP World Tour Championship)
+https://dai.fancode.com/primary/113041_english_hls_5432ta-no/index.m3u8
