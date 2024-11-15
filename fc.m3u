@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112331_4608_RCU_MVA_fc-app_fc-web_1730731547576.jpg",Mavericks Academy vs Recreation Club (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112331_english_hls_5137ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112409_4616_GAT_COH_fc-web_1731569489260.jpg",GAT vs Cochin Hurricanes (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112409_english_hls_5326ta-no/index.m3u8
