@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112333_4608_SSX_RCU_fc-app_fc-web_1730731838875.jpg",Recreation Club vs Solapur Stars XI (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112333_english_hls_5479ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg",Uganda vs Bahrain (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112310_english_hls_5241ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112309_4607_SIN_ITA_fc-web.jpg",Singapore vs Italy (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/112309_english_hls_8039ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112802_4626_NL_ETW_fc-web_1731668240259.jpg",Etosha Wildcats vs Naankuse Lions (Castle Lite T20, 2024)
+https://dai.fancode.com/primary/112802_english_hls_4505ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112334_4608_RRC_APS_fc-app_fc-web_1730731884718.jpg",Rajasthan Royals Academy vs Ashtapailu Sports (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112334_english_hls_7650ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",Day 3 vs Jumeirah Golf Estates, Dubai (DP World Tour Championship)
+https://dai.fancode.com/primary/113043_english_hls_1592ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Racing-Festival_Round_6_old.jpg",Indian Racing Festival 2024 vs Kari Motor Speedway, Coimbatore (Indian Racing Festival 2024)
+https://dai.fancode.com/primary/110524_english_hls_4647ta-di/index.m3u8
