@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",New Zealand vs Sri Lanka (New Zealand tour of Sri Lanka, 2024)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSNZ/master.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113028_4635_ABD_DUB_fc-web.jpg",Abu Dhabi vs Dubai (Emirates D50, 2024)
-https://dai.fancode.com/primary/113028_english_hls_4772ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112805_4626_NL_FRE_fc-web_1731668240346.jpg",Fish River Eagles vs Naankuse Lions (Castle Lite T20, 2024)
-https://dai.fancode.com/primary/112805_english_hls_5052ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112026_4596_WIC_WIS_fc-web.jpg",Windward Islands Volcanoes vs West Indies Academy (CG United Super50 Cup, 2024)
-https://dai.fancode.com/primary/112026_english_hls_4509ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/113100_CASACARDS_APP.png",Badalona Shaheen vs Men in Blue (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113100_english_hls_4866ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112338_4608_SSX_APS_fc-app_fc-web_1730732079346.jpg",Solapur Stars XI vs Ashtapailu Sports (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112338_english_hls_5997ta-di/index.m3u8
