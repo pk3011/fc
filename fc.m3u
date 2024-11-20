@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",New Zealand vs Sri Lanka (New Zealand tour of Sri Lanka, 2024)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSNZ/master.m3u8?hdnea=exp=1732045270~acl=*~id=155678448410001965141731995270181~hmac=d3a8a74bd8f79f73aaef0a5bd9ab327a6c6fdf69f02665eb511829597153143f
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112365_4613_BAH_SAU_fc-web.jpg",Bahrain vs Saudi Arabia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
-https://dai.fancode.com/primary/112365_english_hls_5047ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113107_4641_MIB_BI_fc-web.jpg",Barcelona International vs Men in Blue (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113107_english_hls_5368ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112925_CASACARDS_APP.png",DPR Korea vs Uzbekistan (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/112925_english_hls_4748ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112932_CASACARDS_APP.png",China PR vs Japan (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/112932_english_hls_8222ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112931_CASACARDS_APP.png",Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/112931_english_hls_1863ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112025_4596_TNT_BAR_fc-web.jpg",Barbados Pride vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2024)
+https://dai.fancode.com/primary/112027_english_hls_5489ta-no/index.m3u8
