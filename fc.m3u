@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112587_4620_MSA_BT_fc-web.jpg",Bangla Tigers vs Morrisville Samp Army (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112587_english_hls_6242ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113033_4635_ABD_SHA_fc-web.jpg",Sharjah vs Abu Dhabi (Emirates D50, 2024)
 https://dai.fancode.com/primary/113033_english_hls_8514ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113118_4641_BI_UCC_fc-web_1732092152247.jpg",Barcelona International vs United CC Olot (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113118_english_hls_8711ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Court 2, Chennai vs Chennai, India (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113791_english_hls_5694ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Central Court, Chennai vs Chennai, India (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113789_english_hls_8271ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112412_4616_KRM_AEC_fc-web_1731569489780.jpg",ACE KRM Panthers vs Al Mulla Exchange (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112412_english_hls_6299ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112024_4596_LEI_JAM_fc-web.jpg",Jamaica Scorpions vs Leeward Islands Hurricanes (CG United Super50 Cup, 2024)
+https://dai.fancode.com/primary/112028_english_hls_6429ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113547_CASACARDS_APP.png",Anadolu Efes Istanbul vs Paris (EuroLeague 2024-25)
+https://dai.fancode.com/primary/113547_english_hls_5880ta-di/index.m3u8
