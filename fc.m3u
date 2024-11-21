@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg",Mavericks Academy vs Rajasthan Royals Academy (Ecole T20 Cup, 2024)
-https://dai.fancode.com/primary/112341_english_hls_5403ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Spain-Czechia_Womens_Old-Match-card_v3_1731934081052.jpg",Rising Royals Women vs Victorious 11 Women (Gujarat Women's Championship)
-https://dai.fancode.com/primary/113676_english_hls_2177ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113115_4641_PIC_BSH_fc-web_1732092152256.jpg",Pak I Care Badalona vs Badalona Shaheen (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113115_english_hls_5913ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg",Ashtapailu Sports vs SDCA (Ecole T20 Cup, 2024)
+https://dai.fancode.com/primary/112342_english_hls_5412ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113116_4641_PIC_BSH_fc-web_1732092152262.jpg",Pak I Care Badalona vs Badalona Shaheen (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113116_english_hls_5515ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Spain-Czechia_Womens_old-Match-card_v2.jpg",Garvi Women vs Rebel Queens Women (Gujarat Women's Championship)
+https://dai.fancode.com/primary/113678_english_hls_5400ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Court 2, Chennai vs Chennai, India (Volleyball Beach Pro Tour)
 https://dai.fancode.com/primary/113791_english_hls_5694ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Court 4, Chennai vs Chennai, India (Volleyball Beach Pro Tour)
