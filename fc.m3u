@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113033_4635_ABD_SHA_fc-web.jpg",Sharjah vs Abu Dhabi (Emirates D50, 2024)
-https://dai.fancode.com/primary/113033_english_hls_8514ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112412_4616_KRM_AEC_fc-web_1731569489780.jpg",ACE KRM Panthers vs Al Mulla Exchange (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112412_english_hls_6299ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112413_4616_AS_CEC-B_fc-web_1731569489588.jpg",Afghan Stars vs CECC-B (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112413_english_hls_5926ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112024_4596_LEI_JAM_fc-web.jpg",Jamaica Scorpions vs Leeward Islands Hurricanes (CG United Super50 Cup, 2024)
 https://dai.fancode.com/primary/112028_english_hls_6429ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113547_CASACARDS_APP.png",Anadolu Efes Istanbul vs Paris (EuroLeague 2024-25)
-https://dai.fancode.com/primary/113547_english_hls_5880ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113548_CASACARDS_APP.png",Crvena Zvezda mts Belgrade vs Partizan NIS Belgrade (EuroLeague 2024-25)
+https://dai.fancode.com/primary/113548_english_hls_5839ta-di/index.m3u8
