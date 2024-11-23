@@ -1,21 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)
 https://dai.fancode.com/primary/112344_english_hls_8369ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112595_4620_CB_NW_fc-web.jpg",Chennai Brave Jaguars vs Northern Warriors (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112595_english_hls_5450ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113773_4659_NIG_SH_fc-web.jpg",Nigeria vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier C)
-https://dai.fancode.com/primary/113773_english_hls_5463ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113772_4659_SIE_CIV_fc-web.jpg",Sierra Leone vs Ivory Coast (ICC Men's T20 WC Africa Sub Regional Qualifier C)
-https://dai.fancode.com/primary/113772_english_hls_8679ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113128_4641_PKB_CCO_fc-web_1732093368452.jpg",Catalunya Coalesce vs Pak Barcelona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113128_english_hls_8262ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113197_4642_NYC_NJT_fc-web.jpg",New York Cowboys vs NJ Titans (US Premier League, 2024)
-https://dai.fancode.com/primary/113197_english_hls_5174ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109838_4352_OU_MIDD_fc-web.jpg",Oxford United vs Middlesbrough (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109838_english_hls_5175ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Volleyball Beach Pro Tour vs Chennai, India (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113979_english_hls_7612ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Volleyball Beach Pro Tour vs Chennai, India (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113981_english_hls_8319ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113771_4659_SWZ_BOT_fc-web.jpg",Botswana vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier C)
-https://dai.fancode.com/primary/113771_english_hls_5384ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112596_4620_DG_TAD_fc-web.jpg",Deccan Gladiators vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112596_english_hls_4823ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",Kuwait Emerging Stars vs Al Hajery Team XI (KCC T20 Elite Championship 2nd Edition, 2024)
+https://dai.fancode.com/primary/112574_english_hls_4636ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113198_4642_CAE_MAV_fc-web.jpg",Maryland Mavericks vs Carolina Eagles (US Premier League, 2024)
+https://dai.fancode.com/primary/113198_english_hls_4831ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112029_CASACARDS_APP.png",Barbados Pride vs Jamaica Scorpions (CG United Super50 Cup, 2024)
+https://dai.fancode.com/primary/112029_english_hls_4904ta-no/index.m3u8
