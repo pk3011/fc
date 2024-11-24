@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg",Race vs United States of America (F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024)
-https://dai.fancode.com/primary/95247_english_hls_2094ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Spain-Czechia_Womens_Old-Match-card_v3_1731934081052.jpg",Rebel Queens Women vs Garvi Women (Gujarat Women's Championship)
-https://dai.fancode.com/primary/113681_english_hls_8385ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110922_4567_MAC_AFC_fc-web_1728983128335.jpg",Macarthur vs Auckland (A League 2024-25)
-https://dai.fancode.com/primary/110922_english_hls_5142ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)
+https://dai.fancode.com/primary/112355_english_hls_4838ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112598_4620_DB_AB_fc-web.jpg",Delhi Bulls vs Ajman Bolts (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112598_english_hls_5116ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113132_4641_MIB_PIC_fc-web_1732094530327.jpg",Pak I Care Badalona vs Men in Blue (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113132_english_hls_5411ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112811_4626_GWJ_ETW_fc-web_1731668240312.jpg",Etosha Wildcats vs Green Windhoek Jets (Castle Lite T20, 2024)
+https://dai.fancode.com/primary/112811_english_hls_5058ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113785_4659_SH_SWZ_fc-web.jpg",Eswatini vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113785_english_hls_4671ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113784_4659_NIG_CIV_fc-web.jpg",Nigeria vs Ivory Coast (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113784_english_hls_8327ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",Volleyball Beach Pro Tour vs Chennai, India (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/113982_english_hls_8352ta-di/index.m3u8
+https://dai.fancode.com/primary/113983_english_hls_4868ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg",North East Frontier Railways SA vs Red Bees Inc (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113797_english_hls_6982ta-di/index.m3u8
