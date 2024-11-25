@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112375_CASACARDS_APP.png",Qatar vs Bahrain (ICC Men's T20 World Cup Asia Qualifier B, 2024)
-https://dai.fancode.com/primary/112375_english_hls_8279ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113135_4641_UCC_BSH_fc-web_1732095063022.jpg",United CC Olot vs Badalona Shaheen (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113135_english_hls_5053ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",Gauhati Town Club vs FC Green Valley (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113798_english_hls_5392ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112601_4620_TAD_NYS_fc-web.jpg",Team Abu Dhabi vs New York Strikers (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112601_english_hls_5328ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112377_4613_BHU_TL_fc-web.jpg",Thailand vs Bhutan (ICC Men's T20 World Cup Asia Qualifier B, 2024)
+https://dai.fancode.com/primary/112377_english_hls_5653ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113137_4641_BSH_CCO_fc-web_1732094530287.jpg",Badalona Shaheen vs Catalunya Coalesce (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113137_english_hls_5124ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg",Abu Dhabi vs Fujairah (Emirates D50, 2024)
+https://dai.fancode.com/primary/113038_english_hls_5370ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg",Assam Police vs Pride East Mavericks (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113799_english_hls_6004ta-di/index.m3u8
