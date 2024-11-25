@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112602_4620_CB_AB_fc-web.jpg",Ajman Bolts vs Chennai Brave Jaguars (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112602_english_hls_5078ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg",Abu Dhabi vs Fujairah (Emirates D50, 2024)
-https://dai.fancode.com/primary/113038_english_hls_5370ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113138_4641_UCC_CCO_fc-web_1732094530287.jpg",Catalunya Coalesce vs United CC Olot (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113138_english_hls_8505ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113203_4642_MAV_CGE_fc-web.jpg",Maryland Mavericks vs California Golden Eagles (US Premier League, 2024)
-https://dai.fancode.com/primary/113203_english_hls_8773ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108675_4475_AAI_AAS_fc-web.jpg",Al Ain vs Al-Ahli (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108675_english_hls_5349ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113553_4653_TLS_BLD_fc-web.jpg",Trillions System Ltd Strikers vs Blue Devils (Dream11 Trinidad T10 Blast, 6th Edition, 2024)
+https://dai.fancode.com/primary/113553_english_hls_6250ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",Kuwait Swedish vs Kuwait Emerging Stars (KCC T20 Elite Championship 2nd Edition, 2024)
+https://dai.fancode.com/primary/112575_english_hls_6239ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113204_4642_CAE_NJT_fc-web.jpg",NJ Titans vs Carolina Eagles (US Premier League, 2024)
+https://dai.fancode.com/primary/113204_english_hls_8600ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108678_4475_RAY_PPL_fc-web.jpg",Al Rayyan vs Persepolis FC (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108678_english_hls_6538ta-di/index.m3u8
