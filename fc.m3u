@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112379_CASACARDS_APP.png",Bahrain vs Cambodia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
+https://dai.fancode.com/primary/112379_english_hls_5879ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112378_CASACARDS_APP.png",Thailand vs Saudi Arabia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
+https://dai.fancode.com/primary/112378_english_hls_8689ta-no/index.m3u8
