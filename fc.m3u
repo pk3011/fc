@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)
-https://dai.fancode.com/primary/112356_english_hls_5567ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112379_CASACARDS_APP.png",Bahrain vs Cambodia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
-https://dai.fancode.com/primary/112379_english_hls_5879ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112378_CASACARDS_APP.png",Thailand vs Saudi Arabia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
-https://dai.fancode.com/primary/112378_english_hls_8689ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113777_4659_SH_SIE_fc-web.jpg",Saint Helena vs Sierra Leone (ICC Men's T20 WC Africa Sub Regional Qualifier C)
-https://dai.fancode.com/primary/113777_english_hls_5940ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Oil India Limited vs G Plus Athletic (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113803_english_hls_5826ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112604_4620_UPN_DG_fc-web.jpg",Deccan Gladiators vs UP Nawabs (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112604_english_hls_5278ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112380_4613_QAT_UAE_fc-web.jpg",United Arab Emirates vs Qatar (ICC Men's T20 World Cup Asia Qualifier B, 2024)
+https://dai.fancode.com/primary/112380_english_hls_5719ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113142_4641_HAW_RB_fc-web_1732095502010.jpg",Hawks XI Catalunya vs Royal Barcelona (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113142_english_hls_5624ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108684_4475_BU_KAW_fc-web.jpg",Buriram United vs Kawasaki Frontale (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108684_english_hls_6399ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108683_4475_SHD_JDT_fc-web.jpg",Shandong Taishan vs Johor Darul Ta'zim (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108683_english_hls_8443ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113778_4659_NIG_SWZ_fc-web.jpg",Eswatini vs Nigeria (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113778_english_hls_8938ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113779_4659_CIV_BOT_fc-web.jpg",Ivory Coast vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113779_english_hls_6166ta-di/index.m3u8
