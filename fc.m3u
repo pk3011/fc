@@ -1,5 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)
+https://dai.fancode.com/primary/112356_english_hls_5567ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112379_CASACARDS_APP.png",Bahrain vs Cambodia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
 https://dai.fancode.com/primary/112379_english_hls_5879ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112378_CASACARDS_APP.png",Thailand vs Saudi Arabia (ICC Men's T20 World Cup Asia Qualifier B, 2024)
 https://dai.fancode.com/primary/112378_english_hls_8689ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113777_4659_SH_SIE_fc-web.jpg",Saint Helena vs Sierra Leone (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113777_english_hls_5940ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Oil India Limited vs G Plus Athletic (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113803_english_hls_5826ta-no/index.m3u8
