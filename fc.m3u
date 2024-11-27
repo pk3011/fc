@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112607_4620_AB_BT_fc-web.jpg",Ajman Bolts vs Bangla Tigers (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112607_english_hls_6198ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113146_4641_BQL_RIW_fc-web_1732095501978.jpg",Barcelona Qalandar vs Ripoll Warriors (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113146_english_hls_5347ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108803_4476_ND_LM_fc-web.jpg",Nam Dinh vs Lee Man (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108803_english_hls_8553ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108804_4476_TAM_BU_fc-web.jpg",Tampines Rovers FC vs Bangkok United (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108804_english_hls_5518ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Assam Police vs NorthEast United (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113806_english_hls_5863ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112608_4620_TAD_CB_fc-web.jpg",Chennai Brave Jaguars vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112608_english_hls_5463ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113781_4659_SH_BOT_fc-web.jpg",Saint Helena vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier C)
+https://dai.fancode.com/primary/113781_english_hls_8873ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113147_4641_RAS_RIW_fc-web_1732095502001.jpg",Raval Sporting vs Ripoll Warriors (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113147_english_hls_8787ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg",Maryland Mavericks vs NJ Titans (US Premier League, 2024)
+https://dai.fancode.com/primary/113208_english_hls_2348ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108767_4476_NQ_KSC_fc-web.jpg",Nasaf vs Kuwait SC (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108767_english_hls_5591ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108743_4476_AA_AFC_fc-web.jpg",Altyn Asyr vs Al Quwa Al Jawiya (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/108743_english_hls_8617ta-no/index.m3u8
