@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112617_4620_BT_UPN_fc-web.jpg",Bangla Tigers vs UP Nawabs (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112617_english_hls_5621ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)
-https://dai.fancode.com/primary/113501_english_hls_8753ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113724_english_hls_5464ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113159_4641_GIR_BQL_fc-web_1732095327624.jpg",Barcelona Qalandar vs Girona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113159_english_hls_5003ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",India A vs India Seniors (DCCI Challenger Trophy 2024)
-https://dai.fancode.com/primary/114198_english_hls_8249ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110927_4567_MAC_BRB_fc-web_1728983127566.jpg",Macarthur vs Brisbane Roar (A League 2024-25)
-https://dai.fancode.com/primary/110927_english_hls_4751ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",ASEB Sports Club vs Oil India Limited (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113811_english_hls_4989ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)
+https://dai.fancode.com/primary/112345_english_hls_8262ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113492_4648_HAM_LAH_fc-web.jpg",Lahore Qalandars vs Hampshire (Global Super League, 2024)
+https://dai.fancode.com/primary/113492_english_hls_8543ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112619_4620_AB_MSA_fc-web.jpg",Morrisville Samp Army vs Ajman Bolts (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112619_english_hls_5054ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113162_4641_RB_RAS_fc-web_1732095488805.jpg",Raval Sporting vs Royal Barcelona (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113162_english_hls_8311ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",New York Cowboys vs NJ Titans (US Premier League, 2024)
+https://dai.fancode.com/primary/113213_english_hls_1948ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109843_4352_NOR_LUT_fc-web.jpg",Norwich City vs Luton Town (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109843_english_hls_4924ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",Day 3 vs Spain (Andalucia Costa Del Sol Open De Espana)
+https://dai.fancode.com/primary/113815_english_hls_4838ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png",Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2024)
+https://dai.fancode.com/primary/95251_english_hls_5529ta-no/index.m3u8
