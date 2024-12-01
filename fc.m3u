@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113164_4641_MGC_RAS_fc-web_1732095659557.jpg",Raval Sporting vs Magic CC Badalona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113164_english_hls_4647ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",India C vs India Seniors (DCCI Challenger Trophy 2024)
-https://dai.fancode.com/primary/114200_english_hls_5171ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",North East Frontier Railways SA vs Sunrise Athletic Club (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113821_english_hls_5052ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Pakistan vs Zimbabwe (Pakistan tour of Zimbabwe, 2024)
+https://dai.fancode.com/primary/112358_english_hls_4996ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Deccan-Gladiators-VS-Morrisville-Samp-Army_old.jpg",Deccan Gladiators vs Morrisville Samp Army (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112621_english_hls_8198ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113166_4641_MGC_GIR_fc-web_1732095862412.jpg",Magic CC Badalona vs Girona (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113166_english_hls_5500ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Numaligarh Refinery Limited vs NorthEast United (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113822_english_hls_4986ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",Day 4 vs Spain (Andalucia Costa Del Sol Open De Espana)
+https://dai.fancode.com/primary/113816_english_hls_4835ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg",Feature Race vs Qatar (F2 QATAR 2024)
+https://dai.fancode.com/primary/95373_english_hls_4619adfreeta-di/index.m3u8
