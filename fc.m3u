@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",India A vs India B (DCCI Challenger Trophy 2024)
 https://dai.fancode.com/primary/114199_english_hls_5728ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113511_3921_HIR_SAP_fc-web.jpg",Sanfrecce Hiroshima vs Consadole Sapporo (J League 2024)
+https://dai.fancode.com/primary/113511_english_hls_8261adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110926_4567_WST_MLV_fc-web_1728983127260.jpg",Western United vs Melbourne Victory (A League 2024-25)
+https://dai.fancode.com/primary/110926_english_hls_5337ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg",Day 4 vs Kingston Heath GC, Melbourne (ISPS Handa Australian Open)
 https://dai.fancode.com/primary/114056_english_hls_5016ta-no/index.m3u8
