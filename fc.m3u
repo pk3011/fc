@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Pakistan vs Zimbabwe (Pakistan tour of Zimbabwe, 2024)
-https://dai.fancode.com/primary/112358_english_hls_4996ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Deccan-Gladiators-VS-Morrisville-Samp-Army_old.jpg",Deccan Gladiators vs Morrisville Samp Army (Abu Dhabi T10 League, 2024)
-https://dai.fancode.com/primary/112621_english_hls_8198ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113166_4641_MGC_GIR_fc-web_1732095862412.jpg",Magic CC Badalona vs Girona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113166_english_hls_5500ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Numaligarh Refinery Limited vs NorthEast United (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113822_english_hls_4986ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png",Race vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2024)
+https://dai.fancode.com/primary/95252_english_hls_1740ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
+https://dai.fancode.com/primary/112345_english_hls_7307ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UP-Nawabs-VS-Delhi-Bulls_old.jpg",UP Nawabs vs Delhi Bulls (Abu Dhabi T10 League, 2024)
+https://dai.fancode.com/primary/112622_english_hls_5679ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg",Victoria vs Rangpur Riders (Global Super League, 2024)
+https://dai.fancode.com/primary/113493_english_hls_5188ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113167_4641_RIW_GIR_fc-web_1732095957163.jpg",Ripoll Warriors vs Girona (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113167_english_hls_8444ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113200_4642_MAV_NYC_fc-web.jpg",Maryland Mavericks vs New York Cowboys (US Premier League, 2024)
+https://dai.fancode.com/primary/113212_english_hls_7963ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109889_4352_DER_SHFF_fc-web.jpg",Derby County vs Sheffield Wednesday (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109889_english_hls_4764ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",Day 4 vs Spain (Andalucia Costa Del Sol Open De Espana)
 https://dai.fancode.com/primary/113816_english_hls_4835ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg",Feature Race vs Qatar (F2 QATAR 2024)
-https://dai.fancode.com/primary/95373_english_hls_4619adfreeta-di/index.m3u8
