@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109150_4492_TAS_QUN_fc-web.jpg",Queensland vs Tasmania (One Day Cup, 2024-25)
 https://dai.fancode.com/primary/109150_english_hls_5799ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113727_4657_SPR_BK_fc-Web.jpg",Sudurpaschim Royals vs Biratnagar Kings (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113727_english_hls_8212ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113728_4657_CWR_PKA_fc-Web.jpg",Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113728_english_hls_5473ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113174_4641_BQL_MGC_fc-web_1732096157522.jpg",Magic CC Badalona vs Barcelona Qalandar (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113174_english_hls_5021ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108693_4475_CCM_YKFM_fc-web.jpg",Central Coast Mariners vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108693_english_hls_5634ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",India Seniors vs India A (DCCI Challenger Trophy 2024)
 https://dai.fancode.com/primary/114211_english_hls_5958ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",Pride East Mavericks vs NorthEast United (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113825_english_hls_8383ta-di/index.m3u8
