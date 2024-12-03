@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109150_4492_TAS_QUN_fc-web.jpg",Queensland vs Tasmania (One Day Cup, 2024-25)
+https://dai.fancode.com/primary/109150_english_hls_5799ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113727_4657_SPR_BK_fc-Web.jpg",Sudurpaschim Royals vs Biratnagar Kings (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113727_english_hls_8212ta-no/index.m3u8
