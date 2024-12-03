@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
 https://dai.fancode.com/primary/112345_english_hls_6024ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113177_4641_BQL_RB_fc-web_1733231886134.jpg",Barcelona Qalandar vs Royal Barcelona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113177_english_hls_5835ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113570_4653_SPK_BLD_fc-web.jpg",Blue Devils vs Woodland Steelpan Players (Dream11 Trinidad T10 Blast, 6th Edition, 2024)
-https://dai.fancode.com/primary/113570_english_hls_7761ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108691_4475_PT_AAI_fc-web.jpg",Pakhtakor Tashkent vs Al Ain (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108691_english_hls_2555ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108758_4476_ISK_SEP_fc-web.jpg",Istiklol vs Sepahan (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108758_english_hls_5496ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108757_4476_ALW_SHJ_fc-web.jpg",Al Wehdat vs Sharjah (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108757_english_hls_8782ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112421_4616_CEC-B_KMW_fc-web_1731569489774.jpg",Kuwait Mavericks vs CECC-B (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112421_english_hls_5431ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSV-Jahn-Regensburg-vs-VfB-Stuttgart-old_1733235649009.jpg",SSV Jahn Regensburg vs VfB Stuttgart (DFB Pokal)
+https://dai.fancode.com/primary/114215_english_hls_5587ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108692_4475_AHS_AGH_fc-web.jpg",Al-Hilal vs Al Gharafa (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108692_english_hls_5729ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113592_CASACARDS_APP.png",Anadolu Efes Istanbul vs Bayern Munich (EuroLeague 2024-25)
+https://dai.fancode.com/primary/113592_english_hls_8636ta-di/index.m3u8
