@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
-https://dai.fancode.com/primary/112345_english_hls_6024ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112421_4616_CEC-B_KMW_fc-web_1731569489774.jpg",Kuwait Mavericks vs CECC-B (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112421_english_hls_5431ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC-Bayern-Munich-vs-Bayer-04-Leverkusen-old_1733235649000.jpg",FC Bayern München vs Bayer 04 Leverkusen (DFB Pokal)
-https://dai.fancode.com/primary/114212_english_hls_5759ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",Huddersfield Town vs Wigan Athletic (League One 2024-25)
-https://dai.fancode.com/primary/110098_english_hls_6179ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113495_4648_VCT_LAH_fc-web.jpg",Lahore Qalandars vs Victoria (Global Super League, 2024)
+https://dai.fancode.com/primary/113495_english_hls_5579ta-no/index.m3u8
