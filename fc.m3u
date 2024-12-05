@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",Pakistan vs Zimbabwe (Pakistan tour of Zimbabwe, 2024)
-https://dai.fancode.com/primary/112360_english_hls_5723ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113498_4648_HAM_VCT_fc-web.jpg",Victoria vs Hampshire (Global Super League, 2024)
+https://dai.fancode.com/primary/113498_english_hls_8596ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114451_4675_RWA_UGA_fc-web.jpg",Uganda vs Rwanda (Africa T20I Continent Cup, 2024)
 https://dai.fancode.com/primary/114451_english_hls_5703ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113186_CASACARDS_APP.png",Pak I Care Badalona vs Royal Barcelona (ECS Spain, Encore, 2024)
-https://dai.fancode.com/primary/113186_english_hls_6102ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108793_4476_PER_ZHP_fc-web.jpg",Persib Bandung vs Zhejiang (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108793_english_hls_8607ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108794_4476_LIO_POR_fc-web.jpg",Lion City Sailors vs Port (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/108794_english_hls_5660ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",Day 1 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)
-https://dai.fancode.com/primary/114572_english_hls_5861ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113187_CASACARDS_APP.png",Barcelona Qalandar vs United CC Olot (ECS Spain, Encore, 2024)
+https://dai.fancode.com/primary/113187_english_hls_5739ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113576_4653_SLS_CCL_fc-web.jpg",Samp Army Cocrico Cavaliers vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 6th Edition, 2024)
+https://dai.fancode.com/primary/113576_english_hls_5601ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Court 2, Doha vs Qatar (Volleyball Beach Pro Tour)
 https://dai.fancode.com/primary/114676_english_hls_2526ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Central Court, Doha vs Qatar (Volleyball Beach Pro Tour)
