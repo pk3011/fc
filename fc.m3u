@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web_1733412429451.jpg",Day 1 vs New Providence, Bahamas (Hero World Challenge)
 https://dai.fancode.com/primary/114621_english_hls_5567ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",Kuwait Swedish vs CECC (KCC T20 Elite Championship 2nd Edition, 2024)
-https://dai.fancode.com/primary/112583_english_hls_6010ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113577_4653_BLD_SCK_fc-web.jpg",Soca Kings vs Blue Devils (Dream11 Trinidad T10 Blast, 6th Edition, 2024)
-https://dai.fancode.com/primary/113577_english_hls_9287ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Central Court, Doha vs Qatar (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/114675_english_hls_7736ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",Court 2, Doha vs Qatar (Volleyball Beach Pro Tour)
-https://dai.fancode.com/primary/114676_english_hls_2526ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113595_CASACARDS_APP.png",Zalgiris Kaunas vs Anadolu Efes Istanbul (EuroLeague 2024-25)
-https://dai.fancode.com/primary/113595_english_hls_6019ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",NCM Investment vs Al Hajery Team XI (KCC T20 Elite Championship 2nd Edition, 2024)
+https://dai.fancode.com/primary/112584_english_hls_6069ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113596_CASACARDS_APP.png",Real Madrid vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)
+https://dai.fancode.com/primary/113596_english_hls_8824ta-di/index.m3u8
