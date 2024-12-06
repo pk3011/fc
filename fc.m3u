@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web_1733412429451.jpg",Day 1 vs New Providence, Bahamas (Hero World Challenge)
-https://dai.fancode.com/primary/114621_english_hls_5567ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",NCM Investment vs Al Hajery Team XI (KCC T20 Elite Championship 2nd Edition, 2024)
-https://dai.fancode.com/primary/112584_english_hls_6069ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113596_CASACARDS_APP.png",Real Madrid vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)
-https://dai.fancode.com/primary/113596_english_hls_8824ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113497_4648_LAH_RAN_fc-web.jpg",Rangpur Riders vs Lahore Qalandars (Global Super League, 2024)
+https://dai.fancode.com/primary/113497_english_hls_5684ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110406_english_hls_2743ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110408_english_hls_6005ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",Queensland vs Victoria (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110407_english_hls_8929ta-no/index.m3u8
