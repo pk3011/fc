@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110408_english_hls_6005ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",Queensland vs Victoria (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110407_english_hls_8929ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110406_english_hls_2743ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg",Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2024)
 https://dai.fancode.com/primary/113733_english_hls_5685ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113497_4648_LAH_RAN_fc-web.jpg",Rangpur Riders vs Lahore Qalandars (Global Super League, 2024)
-https://dai.fancode.com/primary/113497_english_hls_5684ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110408_english_hls_6005ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110406_english_hls_2743ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg",ACE KRM Panthers vs CECC-B (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112423_english_hls_6131ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_UAE_Old_match-card.jpg",Free Practice vs United Arab Emirates (F1 ACADEMY ABU DHABI 2024)
+None
