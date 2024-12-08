@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110406_english_hls_5129ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
 https://dai.fancode.com/primary/110408_english_hls_2198ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",Queensland vs Victoria (Sheffield Shield, 2024-25)
 https://dai.fancode.com/primary/110407_english_hls_8308ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110406_english_hls_5129ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113737_4657_JKB_LBL_fc-Web.jpg",Janakpur Bolts vs Lumbini Lions (Nepal Premier League, 2024)
 https://dai.fancode.com/primary/113737_english_hls_4749ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Gamba Osaka vs Sanfrecce Hiroshima (J League 2024)
+https://dai.fancode.com/primary/114228_english_hls_7110adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Urawa Red Diamonds vs Albirex Niigata (J League 2024)
+https://dai.fancode.com/primary/114685_english_hls_5007adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Kashima Antlers vs Machida Zelvia (J League 2024)
+https://dai.fancode.com/primary/114684_english_hls_8144adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Vissel Kobe vs Shonan Bellmare (J League 2024)
+https://dai.fancode.com/primary/114691_english_hls_2022adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110933_4567_MLV_PG_fc-web_1728983127404.jpg",Melbourne Victory vs Perth Glory (A League 2024-25)
+https://dai.fancode.com/primary/110933_english_hls_4899ta-di/index.m3u8
