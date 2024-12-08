@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg",Engro Dolphins vs Lake City Panthers (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114592_english_hls_7963ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113738_4657_SPR_CWR_fc-Web.jpg",Chitwan Rhinos vs Sudurpaschim Royals (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113738_english_hls_5201ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg",Nigeria vs Uganda (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114457_english_hls_8086ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114617_4682_ITA_SPA_fc-Web.jpg",Spain vs Italy (ECI Spain, 2024)
-https://dai.fancode.com/primary/114617_english_hls_5626ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",Barekuri FC vs North East Frontier Railways SA (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113835_english_hls_5176ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114619_4682_CRO_SPA_fc-Web.jpg",Croatia vs Spain (ECI Spain, 2024)
+https://dai.fancode.com/primary/114619_english_hls_7777ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",Rwanda vs Botswana (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114458_english_hls_4851ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",Day 4 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)
 https://dai.fancode.com/primary/114575_english_hls_4653ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",Feature Race vs United Arab Emirates (F2 ABU DHABI 2024)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Numaligarh Refinery Limited vs Sunrise Athletic Club (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113836_english_hls_5717ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg",Race vs United Arab Emirates (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024)
+https://dai.fancode.com/primary/95278_english_hls_4864ta-no/index.m3u8
