@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110408_english_hls_2198ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",Queensland vs Victoria (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110407_english_hls_8308ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110406_english_hls_5129ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113737_4657_JKB_LBL_fc-Web.jpg",Janakpur Bolts vs Lumbini Lions (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113737_english_hls_4749ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Gamba Osaka vs Sanfrecce Hiroshima (J League 2024)
-https://dai.fancode.com/primary/114228_english_hls_7110adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Urawa Red Diamonds vs Albirex Niigata (J League 2024)
-https://dai.fancode.com/primary/114685_english_hls_5007adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Kashima Antlers vs Machida Zelvia (J League 2024)
-https://dai.fancode.com/primary/114684_english_hls_8144adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",Vissel Kobe vs Shonan Bellmare (J League 2024)
-https://dai.fancode.com/primary/114691_english_hls_2022adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110933_4567_MLV_PG_fc-web_1728983127404.jpg",Melbourne Victory vs Perth Glory (A League 2024-25)
-https://dai.fancode.com/primary/110933_english_hls_4899ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg",Engro Dolphins vs Lake City Panthers (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114592_english_hls_7963ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113738_4657_SPR_CWR_fc-Web.jpg",Chitwan Rhinos vs Sudurpaschim Royals (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113738_english_hls_5201ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg",Nigeria vs Uganda (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114457_english_hls_8086ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114617_4682_ITA_SPA_fc-Web.jpg",Spain vs Italy (ECI Spain, 2024)
+https://dai.fancode.com/primary/114617_english_hls_5626ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",Barekuri FC vs North East Frontier Railways SA (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113835_english_hls_5176ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",Day 4 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)
+https://dai.fancode.com/primary/114575_english_hls_4653ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",Feature Race vs United Arab Emirates (F2 ABU DHABI 2024)
+None
