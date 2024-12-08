@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114619_4682_CRO_SPA_fc-Web.jpg",Croatia vs Spain (ECI Spain, 2024)
-https://dai.fancode.com/primary/114619_english_hls_7777ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",Rwanda vs Botswana (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114458_english_hls_4851ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",Day 4 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)
-https://dai.fancode.com/primary/114575_english_hls_4653ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Numaligarh Refinery Limited vs Sunrise Athletic Club (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113836_english_hls_5717ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
+https://dai.fancode.com/primary/112346_english_hls_4991ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114023_4664_BAH_ARG_fc-web.jpg",Bahamas vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114023_english_hls_7807ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114022_4664_BER_PAN_fc-web.jpg",Panama vs Bermuda (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114022_english_hls_1641ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114620_4682_ITA_SPA_fc-Web.jpg",Italy vs Spain (ECI Spain, 2024)
+https://dai.fancode.com/primary/114620_english_hls_4960ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109893_4352_WBA_SHF_fc-web.jpg",West Bromwich Albion vs Sheffield United (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109893_english_hls_4846ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg",Race vs United Arab Emirates (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024)
 https://dai.fancode.com/primary/95278_english_hls_4864ta-no/index.m3u8
