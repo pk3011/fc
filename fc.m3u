@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114593_4681_AST_NUR_fc-web.jpg",ABL Stallions vs Nurpur Lions (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114593_english_hls_5563ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114459_4675_BOT_UGA_fc-web.jpg",Uganda vs Botswana (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114459_english_hls_5882ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114629_4684_ESP-W_AUT-W_fc-web_1733735800992.jpg",Austria Women vs Spain Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114629_english_hls_5257ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",FC Green Valley vs Sports Authority of India (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113837_english_hls_4869ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114460_4675_NIG_RWA_fc-web.jpg",Nigeria vs Rwanda (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114460_english_hls_5562ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114638_4684_GER-W_AUT-W_fc-web.jpg",Austria Women vs Germany Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114638_english_hls_4947ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Avenida Titans vs Raghubansh (SB Memorial Cup)
+https://dai.fancode.com/primary/115072_english_hls_4886ta-no/index.m3u8
