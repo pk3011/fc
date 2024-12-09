@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
-https://dai.fancode.com/primary/112346_english_hls_4991ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113581_4653_SLS_SCK_fc-web.jpg",Soca Kings vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 6th Edition, 2024)
-https://dai.fancode.com/primary/113586_english_hls_4753ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web.jpg",Day 4 vs New Providence, Bahamas (Hero World Challenge)
-https://dai.fancode.com/primary/114624_english_hls_4891ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114025_4664_CAY_BEL_fc-web.jpg",Cayman Islands vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114025_english_hls_4506ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110406_english_hls_4353ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110408_english_hls_7845ta-no/index.m3u8
