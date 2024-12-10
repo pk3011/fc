@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
-https://dai.fancode.com/primary/112347_english_hls_7322ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112429_4616_AGT_COH_fc-web_1731569490099.jpg",Afghan Tigers vs Cochin Hurricanes (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112429_english_hls_6804ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114029_4664_PAN_ARG_fc-web.jpg",Panama vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114029_english_hls_5665ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114028_4664_MEX_BER_fc-web.jpg",Mexico vs Bermuda (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114028_english_hls_8950ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",Titou Gorge Splashers vs Indian River Rowers (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114150_english_hls_6356ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/115090_CASACARDS_APP.png",Foolad Sirjan Iranian vs Cucine Lube Civitanova (Men's Club World Champs 2024)
-https://dai.fancode.com/primary/115090_english_hls_6850ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109894_4352_LU_MIDD_fc-web.jpg",Leeds United vs Middlesbrough (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109894_english_hls_6395ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/115091_CASACARDS_APP.png",Praia Clube vs Al Ahly SC (Men's Club World Champs 2024)
+https://dai.fancode.com/primary/115091_english_hls_8962ta-no/index.m3u8
