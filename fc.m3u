@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113739_4657_CWR_LBL_fc-Web.jpg",Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113739_english_hls_6055ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114594_4681_END_UMA_fc-web.jpg",Engro Dolphins vs UMT Markhors (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114594_english_hls_6407ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113740_4657_KNY_PKA_fc-Web.jpg",Pokhara Avengers vs Karnali Yaks (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113740_english_hls_5610ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114633_4684_GER-W_JER-W_fc-web.jpg",Germany Women vs Jersey Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114633_english_hls_6063ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Harris-Shield_old.jpg",Second Semi Final vs Sharad Pawar Academy, BKC (MSSA Harris Shield)
 https://dai.fancode.com/primary/115083_english_hls_5380ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Harris-Shield_old.jpg",First Semi Final vs Parsee Gymkhana (MSSA Harris Shield)
 https://dai.fancode.com/primary/115082_english_hls_8560ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",DBI SC vs Gplus Athletic (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113839_english_hls_5528ta-di/index.m3u8
