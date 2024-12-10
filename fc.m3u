@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114635_4684_ESP-W_GER-W_fc-web.jpg",Germany Women vs Spain Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114635_english_hls_6518ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Vishal Brothers vs Nirwana (SB Memorial Cup)
-https://dai.fancode.com/primary/115074_english_hls_6096ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
+https://dai.fancode.com/primary/112347_english_hls_7322ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114027_4664_BEL_BAH_fc-web.jpg",Bahamas vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114027_english_hls_9075ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114026_4664_SRN_CAY_fc-web.jpg",Cayman Islands vs Suriname (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114026_english_hls_3395ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114636_4684_JER-W_CZE-W_fc-web.jpg",Czechia Women vs Jersey Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114636_english_hls_6193ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",Seven United vs Madora (SB Memorial Cup)
+https://dai.fancode.com/primary/115075_english_hls_6261ta-no/index.m3u8
