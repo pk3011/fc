@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg",Lake City Panthers vs Nurpur Lions (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114595_english_hls_6533ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg",Kathmandu Gurkhas vs Lumbini Lions (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113742_english_hls_6231ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg",Khulna Division vs Rajshahi Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114919_english_hls_8938ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg",Rwanda vs Botswana (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114461_english_hls_8928ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114920_4691_RD_CD_fc-web_1733857501957.jpg",Chattogram Division vs Rangpur Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114920_english_hls_6061ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114637_4684_CZE-W_ESP-W_fc-web.jpg",Czechia Women vs Spain Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114637_english_hls_6306ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",ASEB Sports Club vs United Chirangduar FC (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113841_english_hls_6589ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
+https://dai.fancode.com/primary/113539_english_hls_5945ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113990_4663_NEK_CJ_fc-web_1733813070590.jpg",Nuwara Eliya Kings vs Colombo Jaguars (Lanka T10 Super League, 2024)
+https://dai.fancode.com/primary/113990_english_hls_9477ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg",Uganda vs Nigeria (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114462_english_hls_5727ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114639_4684_ESP-W_JER-W_fc-web.jpg",Spain Women vs Jersey Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114639_english_hls_6971ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Avenida Titans vs Seven United (SB Memorial Cup)
+https://dai.fancode.com/primary/115076_english_hls_6081ta-di/index.m3u8
