@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
 https://dai.fancode.com/primary/113539_english_hls_5945ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113990_4663_NEK_CJ_fc-web_1733813070590.jpg",Nuwara Eliya Kings vs Colombo Jaguars (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113990_english_hls_9477ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",Kandy Bolts vs Galle Marvels (Lanka T10 Super League, 2024)
+https://dai.fancode.com/primary/113991_english_hls_6110ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg",Uganda vs Nigeria (Africa T20I Continent Cup, 2024)
 https://dai.fancode.com/primary/114462_english_hls_5727ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114639_4684_ESP-W_JER-W_fc-web.jpg",Spain Women vs Jersey Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114639_english_hls_6971ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114030_4664_CAY_MEX_fc-web.jpg",Mexico vs Cayman Islands (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114030_english_hls_9515ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114031_4664_BAH_PAN_fc-web.jpg",Bahamas vs Panama (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114031_english_hls_6164ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114640_4684_CZE-W_GER-W_fc-web.jpg",Czechia Women vs Germany Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114640_english_hls_6286ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Avenida Titans vs Seven United (SB Memorial Cup)
 https://dai.fancode.com/primary/115076_english_hls_6081ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",Nirwana vs Red Wings (SB Memorial Cup)
+https://dai.fancode.com/primary/115077_english_hls_6416ta-di/index.m3u8
