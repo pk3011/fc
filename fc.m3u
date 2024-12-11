@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114918_4691_DM_BD_fc-web_1733857501914.jpg",Dhaka Metropolis vs Barisal Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114918_english_hls_5358ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114917_4691_DD_SD_fc-web_1733857501943.jpg",Sylhet Division vs Dhaka Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114917_english_hls_5979ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Harris-Shield_old.jpg",Second Semi Final vs Sharad Pawar Academy, BKC (MSSA Harris Shield)
-https://dai.fancode.com/primary/115083_english_hls_47ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg",Lake City Panthers vs Nurpur Lions (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114595_english_hls_6533ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg",Kathmandu Gurkhas vs Lumbini Lions (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113742_english_hls_6231ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg",Khulna Division vs Rajshahi Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114919_english_hls_8938ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg",Rwanda vs Botswana (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114461_english_hls_8928ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114920_4691_RD_CD_fc-web_1733857501957.jpg",Chattogram Division vs Rangpur Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114920_english_hls_6061ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114637_4684_CZE-W_ESP-W_fc-web.jpg",Czechia Women vs Spain Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114637_english_hls_6306ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",ASEB Sports Club vs United Chirangduar FC (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113841_english_hls_6589ta-no/index.m3u8
