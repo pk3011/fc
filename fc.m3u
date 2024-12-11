@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113539_english_hls_5945ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",Kandy Bolts vs Galle Marvels (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113991_english_hls_6110ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg",Uganda vs Nigeria (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114462_english_hls_5727ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114030_4664_CAY_MEX_fc-web.jpg",Mexico vs Cayman Islands (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114030_english_hls_9515ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114031_4664_BAH_PAN_fc-web.jpg",Bahamas vs Panama (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114031_english_hls_6164ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114640_4684_CZE-W_GER-W_fc-web.jpg",Czechia Women vs Germany Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114640_english_hls_6286ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Avenida Titans vs Seven United (SB Memorial Cup)
-https://dai.fancode.com/primary/115076_english_hls_6081ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112430_4616_CEC-B_RGD_fc-web_1731569489996.jpg",CECC-B vs Cyro Maviricks (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112430_english_hls_6282ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114032_4664_BER_BRA_fc-web.jpg",Bermuda vs Brazil (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114032_english_hls_9085ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114033_4664_ARG_SRN_fc-web.jpg",Suriname vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114033_english_hls_6157ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",Champagne Reef Divers vs Sari Sari Sunrisers (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114152_english_hls_6251ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",Nirwana vs Red Wings (SB Memorial Cup)
 https://dai.fancode.com/primary/115077_english_hls_6416ta-di/index.m3u8
