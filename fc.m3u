@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113743_4657_PKA_BK_fc-Web.jpg",Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2024)
 https://dai.fancode.com/primary/113743_english_hls_5712ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-Women's-tour-of-Malaysia-old-match-card.png",Malaysia Women vs Namibia Women (Namibia Women tour of Malaysia, 2024)
-https://dai.fancode.com/primary/114916_english_hls_5547ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114921_4691_SD_CD_fc-web_1733857501970.jpg",Sylhet Division vs Chattogram Division (National Cricket League T20, 2024)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114596_4681_AST_UMA_fc-web.jpg",UMT Markhors vs ABL Stallions (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114596_english_hls_5700ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114921_4691_SD_CD_fc-web_1733857501970.jpg",Chattogram Division vs Sylhet Division (National Cricket League T20, 2024)
 https://dai.fancode.com/primary/114921_english_hls_5168ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114922_4691_KD_BD_fc-web_1733857501976.jpg",Khulna Division vs Barisal Division (National Cricket League T20, 2024)
 https://dai.fancode.com/primary/114922_english_hls_5818ta-di/index.m3u8
