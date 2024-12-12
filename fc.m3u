@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114596_4681_AST_UMA_fc-web.jpg",UMT Markhors vs ABL Stallions (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114596_english_hls_5700ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113744_4657_JKB_KMG_fc-Web.jpg",Kathmandu Gurkhas vs Janakpur Bolts (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113744_english_hls_5276ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114923_4691_DD_RD_fc-web_1733857501933.jpg",Rangpur Division vs Dhaka Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114923_english_hls_5879ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114463_4675_RWA_UGA_fc-web.jpg",Uganda vs Rwanda (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114463_english_hls_8644ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114924_4691_DM_RAD_fc-web_1733857502030.jpg",Dhaka Metropolis vs Rajshahi Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114924_english_hls_6090ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",Assam Police vs Sunrise Athletic Club (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113843_english_hls_5765ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114597_4681_END_NUR_fc-web.jpg",Nurpur Lions vs Engro Dolphins (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114597_english_hls_3151ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114464_4675_BOT_NIG_fc-web.jpg",Botswana vs Nigeria (Africa T20I Continent Cup, 2024)
+https://dai.fancode.com/primary/114464_english_hls_6191ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",Seven United vs Nirwana (SB Memorial Cup)
+https://dai.fancode.com/primary/115078_english_hls_6360ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg",Day 1 vs Leopard Creek CC, Malelane, South Africa (Alfred Dunhill Championship)
+https://dai.fancode.com/primary/114576_english_hls_6373ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Numaligarh Refinery Limited vs Red Bees Inc (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113844_english_hls_6262ta-no/index.m3u8
