@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113996_4663_CJ_HBT_fc-web_1733813070432.jpg",Colombo Jaguars vs Hambantota Bangla Tigers (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113996_english_hls_6315ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",Titou Gorge Splashers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114155_english_hls_7090ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114839_4688_UPBS_MM_fc-Web.jpg",UP Brij Stars vs Mumbai Marines (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114839_english_hls_6517ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112435_4616_AEC_SBS_fc-web_1731569490498.jpg",Al Mulla Exchange vs SBS CC (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112435_english_hls_6537ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114648_4684_ESP-W_AUT-W_fc-web.jpg",Austria Women vs Spain Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114648_english_hls_6706ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",Moira Royals vs Moira Titans (SCINDIA Cup MP Development League)
-https://dai.fancode.com/primary/115319_english_hls_5964ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg",Day 2 vs Leopard Creek CC, Malelane, South Africa (Alfred Dunhill Championship)
-https://dai.fancode.com/primary/114577_english_hls_6386ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112436_4616_AF_GAT_fc-web_1731569490406.jpg",GAT vs A Four CC (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112436_english_hls_5811ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/113644_CASACARDS_APP.png",Anadolu Efes Istanbul vs Panathinaikos OPAP Athens (EuroLeague 2024-25)
+https://dai.fancode.com/primary/113644_english_hls_5961ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-(1).jpg",Day 1 vs Florrida (Grant Thornton Invitational)
+https://dai.fancode.com/primary/115079_english_hls_5787ta-no/index.m3u8
