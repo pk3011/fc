@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113745_4657_LBL_KNY_fc-Web.jpg",Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2024)
 https://dai.fancode.com/primary/113745_english_hls_6419ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Mumbai Suburban vs Thane (Inter Zonal Cricket Women Tournament)
-https://dai.fancode.com/primary/115323_english_hls_6576ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115011_4695_BAH_UAE_fc-Web.jpg",Bahrain vs United Arab Emirates (Men's Gulf Cricket T20I Championship 2024)
+https://dai.fancode.com/primary/115011_english_hls_9308ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112433_4616_MBT_AGT_fc-web_1731569490168.jpg",Afghan Tigers vs Marafie Bengal Tigers (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112433_english_hls_6430ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114598_4681_AST_END_fc-web.jpg",ABL Stallions vs Engro Dolphins (Champions T20 Cup, 2024)
+https://dai.fancode.com/primary/114598_english_hls_6129ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg",Mumbai City vs Konkan (Mumbai University Women Cricket Tournament)
+https://dai.fancode.com/primary/115324_english_hls_6695ta-no/index.m3u8
