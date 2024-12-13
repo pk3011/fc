@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113540_english_hls_6480ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113995_4663_KB_JT_fc-web_1733813070465.jpg",Kandy Bolts vs Jaffna Titans (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113995_english_hls_9330ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114838_4688_RR_SS_fc-Web.jpg",Rajasthan Regals vs Southern Spartans (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114838_english_hls_7091ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115012_4695_KUW_SAU_fc-Web.jpg",Saudi Arabia vs Kuwait (Men's Gulf Cricket T20I Championship 2024)
-https://dai.fancode.com/primary/115012_english_hls_9764ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112434_4616_AS_RGD_fc-web_1731569490189.jpg",Cyro Maviricks vs Afghan Stars (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112434_english_hls_6733ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114599_4681_LCP_UMA_fc-web.jpg",UMT Markhors vs Lake City Panthers (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114599_english_hls_8411ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114465_4675_UGA_BOT_fc-web.jpg",Uganda vs Botswana (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114465_english_hls_6386ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114647_4684_JER-W_CZE-W_fc-web.jpg",Czechia Women vs Jersey Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114647_english_hls_6072ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113996_4663_CJ_HBT_fc-web_1733813070432.jpg",Colombo Jaguars vs Hambantota Bangla Tigers (Lanka T10 Super League, 2024)
+https://dai.fancode.com/primary/113996_english_hls_6315ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",Titou Gorge Splashers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114155_english_hls_7090ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114839_4688_UPBS_MM_fc-Web.jpg",UP Brij Stars vs Mumbai Marines (Big Cricket League, 2024)
+https://dai.fancode.com/primary/114839_english_hls_6517ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112435_4616_AEC_SBS_fc-web_1731569490498.jpg",Al Mulla Exchange vs SBS CC (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112435_english_hls_6537ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114648_4684_ESP-W_AUT-W_fc-web.jpg",Austria Women vs Spain Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114648_english_hls_6706ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",Moira Royals vs Moira Titans (SCINDIA Cup MP Development League)
+https://dai.fancode.com/primary/115319_english_hls_5964ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg",Day 2 vs Leopard Creek CC, Malelane, South Africa (Alfred Dunhill Championship)
 https://dai.fancode.com/primary/114577_english_hls_6386ta-di/index.m3u8
