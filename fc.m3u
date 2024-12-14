@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113747_4657_PKA_KMG_fc-Web.jpg",Pokhara Avengers vs Kathmandu Gurkhas (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113747_english_hls_6346ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109393_4508_TASW_NSWB_fc-web.jpg",Tasmania Women vs New South Wales Breakers (WNCL, 2024-25)
 https://dai.fancode.com/primary/109393_english_hls_6114ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115100_CASACARDS_APP.png",Cucine Lube Civitanova vs Al Ahly SC (Men's Club World Champs 2024)
-https://dai.fancode.com/primary/115100_english_hls_9569ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",Dhaka Metropolis vs Khulna Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114925_english_hls_6085ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114926_4691_DD_CD_fc-web_1733857501962.jpg",Dhaka Division vs Chattogram Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114926_english_hls_7138ta-no/index.m3u8
