@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112437_4616_GGL_PHR_fc-web_1731569490580.jpg",Phoenix Riders vs Going Global (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112437_english_hls_6101ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114041_4664_MEX_ARG_fc-web.jpg",Argentina vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)
 https://dai.fancode.com/primary/114041_english_hls_5742ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114040_4664_PAN_BEL_fc-web.jpg",Panama vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114040_english_hls_9153ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",The Valley Hikers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114160_english_hls_6165ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png",Professional Fighters League vs Lyon, France (Professional Fighters League)
 https://dai.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Foolad Sirjan Iranian vs Sada Cruzeiro (Men's Club World Champs 2024)
-https://dai.fancode.com/primary/115101_english_hls_6057ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-(1).jpg",Day 2 vs Florrida (Grant Thornton Invitational)
+https://dai.fancode.com/primary/115080_english_hls_5861ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Trentino Itas vs Cucine Lube Civitanova (Men's Club World Champs 2024)
+https://dai.fancode.com/primary/115102_english_hls_5520ta-di/index.m3u8
