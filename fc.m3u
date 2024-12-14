@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113541_english_hls_6497ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113998_4663_GM_JT_fc-web_1733813070756.jpg",Galle Marvels vs Jaffna Titans (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113998_english_hls_6068ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113999_4663_HBT_NEK_fc-web_1733813070545.jpg",Nuwara Eliya Kings vs Hambantota Bangla Tigers (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/113999_english_hls_9169ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg",Nigeria vs Uganda (Africa T20I Continent Cup, 2024)
-https://dai.fancode.com/primary/114469_english_hls_9333ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114038_4664_BRA_CAY_fc-web.jpg",Cayman Islands vs Brazil (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114038_english_hls_9676ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",Indian River Rowers vs Sari Sari Sunrisers (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114158_english_hls_3435ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114039_4664_SRN_BAH_fc-web.jpg",Bahamas vs Suriname (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114039_english_hls_6363ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114841_4688_RR_MPT_fc-Web.jpg",MP Tigers vs Rajasthan Regals (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114841_english_hls_5836ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/114651_CASACARDS_APP.png",Jersey Women vs Germany Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114651_english_hls_6631ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109897_4352_MIDD_MLW_fc-web.jpg",Middlesbrough vs Millwall (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109897_english_hls_6160ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",Moira Titans vs Moira Warriors (MPL Player Development Program)
-https://dai.fancode.com/primary/115321_english_hls_6488ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112437_4616_GGL_PHR_fc-web_1731569490580.jpg",Phoenix Riders vs Going Global (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112437_english_hls_6101ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114041_4664_MEX_ARG_fc-web.jpg",Argentina vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114041_english_hls_5742ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114040_4664_PAN_BEL_fc-web.jpg",Panama vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114040_english_hls_9153ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",The Valley Hikers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114160_english_hls_6165ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png",Professional Fighters League vs Lyon, France (Professional Fighters League)
+https://dai.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Foolad Sirjan Iranian vs Sada Cruzeiro (Men's Club World Champs 2024)
+https://dai.fancode.com/primary/115101_english_hls_6057ta-no/index.m3u8
