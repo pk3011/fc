@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114002_4663_JT_NEK_fc-web_1733813070427.jpg",Jaffna Titans vs Nuwara Eliya Kings (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/114002_english_hls_9172ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114043_4664_ARG_CAY_fc-web.jpg",Cayman Islands vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114043_english_hls_5858ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114042_4664_BEL_BRA_fc-web.jpg",Brazil vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114042_english_hls_9027ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114843_4688_MM_RR_fc-Web.jpg",Mumbai Marines vs Rajasthan Regals (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114843_english_hls_5088ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114655_4684_EXI-W_SCXI-W_fc-web.jpg",England XI Women vs Scotland XI-W (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114655_english_hls_6025ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109898_4352_NOR_BUR_fc-web.jpg",Norwich City vs Burnley (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109898_english_hls_5671ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Foolad Sirjan Iranian vs Cucine Lube Civitanova (Men's Club World Champs 2024)
-https://dai.fancode.com/primary/115103_english_hls_8577ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112438_4616_SZN_GAT_fc-web_1731569490761.jpg",GAT vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112438_english_hls_5826ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114044_4664_BAH_BER_fc-web.jpg",Bermuda vs Bahamas (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114044_english_hls_9085ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114045_4664_PAN_MEX_fc-web.jpg",Panama vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114045_english_hls_5447ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",The Valley Hikers vs Indian River Rowers (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114162_english_hls_6243ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Sada Cruzeiro vs Trentino Itas (Men's Club World Champs 2024)
+https://dai.fancode.com/primary/115104_english_hls_5846ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-(1).jpg",Day 3 vs Florida (Grant Thornton Invitational)
+https://dai.fancode.com/primary/115081_english_hls_2970ta-no/index.m3u8
