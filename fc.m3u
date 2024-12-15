@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114000_4663_HBT_KB_fc-web_1733813070797.jpg",Hambantota Bangla Tigers vs Kandy Bolts (Lanka T10 Super League, 2024)
-https://dai.fancode.com/primary/114000_english_hls_9170ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114842_4688_UPBS_MPT_fc-Web.jpg",MP Tigers vs UP Brij Stars (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114842_english_hls_9034ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115016_4695_SAU_QAT_fc-Web.jpg",Qatar vs Saudi Arabia (Men's Gulf Cricket T20I Championship 2024)
-https://dai.fancode.com/primary/115016_english_hls_7100ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114601_4681_NUR_UMA_fc-web.jpg",Nurpur Lions vs UMT Markhors (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114601_english_hls_2832ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114654_4684_ITA-W_NDXI-W_fc-web.jpg",Netherlands XI-W vs Italy Women (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114654_english_hls_5667ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114747_4687_DDS_TTS_fc-web.jpg",Dehradun Dynamos vs Tadoba Tigers (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114747_english_hls_5168ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg",Day 4 vs Leopard Creek CC, Malelane, South Africa (Alfred Dunhill Championship)
-https://dai.fancode.com/primary/114579_english_hls_5721ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",Oil India Limited vs FC Green Valley (2nd Protech Guwahati Premier League 2024)
-https://dai.fancode.com/primary/113850_english_hls_5785ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114002_4663_JT_NEK_fc-web_1733813070427.jpg",Jaffna Titans vs Nuwara Eliya Kings (Lanka T10 Super League, 2024)
+https://dai.fancode.com/primary/114002_english_hls_9172ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114043_4664_ARG_CAY_fc-web.jpg",Cayman Islands vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114043_english_hls_5858ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114042_4664_BEL_BRA_fc-web.jpg",Brazil vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)
+https://dai.fancode.com/primary/114042_english_hls_9027ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114843_4688_MM_RR_fc-Web.jpg",Mumbai Marines vs Rajasthan Regals (Big Cricket League, 2024)
+https://dai.fancode.com/primary/114843_english_hls_5088ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114655_4684_EXI-W_SCXI-W_fc-web.jpg",England XI Women vs Scotland XI-W (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114655_english_hls_6025ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109898_4352_NOR_BUR_fc-web.jpg",Norwich City vs Burnley (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109898_english_hls_5671ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Volleyball-1440-x-360.jpg",Foolad Sirjan Iranian vs Cucine Lube Civitanova (Men's Club World Champs 2024)
+https://dai.fancode.com/primary/115103_english_hls_8577ta-di/index.m3u8
