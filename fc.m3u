@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113749_4657_BK_KMG_fc-Web.jpg",Biratnagar Kings vs Kathmandu Gurkhas (Nepal Premier League, 2024)
-https://dai.fancode.com/primary/113749_english_hls_5761ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114929_4691_DD_DM_fc-web_1733857501963.jpg",Dhaka Metropolis vs Dhaka Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114929_english_hls_6098ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114930_4691_RD_RAD_fc-web_1733857502265.jpg",Rajshahi Division vs Rangpur Division (National Cricket League T20, 2024)
-https://dai.fancode.com/primary/114930_english_hls_5656ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115015_4695_UAE_OMN_fc-Web.jpg",United Arab Emirates vs Oman (Men's Gulf Cricket T20I Championship 2024)
-https://dai.fancode.com/primary/115015_english_hls_6183ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113750_4657_PKA_SPR_fc-Web.jpg",Sudurpaschim Royals vs Pokhara Avengers (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113750_english_hls_5757ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114600_4681_AST_LCP_fc-web.jpg",Lake City Panthers vs ABL Stallions (Champions T20 Cup, 2024)
 https://dai.fancode.com/primary/114600_english_hls_8959ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114745_4687_HIM_VVS_fc-web.jpg",Himalayan Tahrs vs Vasco Vipers (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114745_english_hls_2780ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114931_4691_SD_KD_fc-web_1733857501972.jpg",Khulna Division vs Sylhet Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114931_english_hls_5672ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114932_4691_CD_BD_fc-web_1733857502038.jpg",Chattogram Division vs Barisal Division (National Cricket League T20, 2024)
+https://dai.fancode.com/primary/114932_english_hls_6016ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114652_4684_EXI-W_NDXI-W_fc-web.jpg",Netherlands XI-W vs England XI Women (European Cricket Championship-W, 2024)
+https://dai.fancode.com/primary/114652_english_hls_5721ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114842_4688_UPBS_MPT_fc-Web.jpg",MP Tigers vs UP Brij Stars (Big Cricket League, 2024)
+https://dai.fancode.com/primary/114842_english_hls_9034ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115016_4695_SAU_QAT_fc-Web.jpg",Qatar vs Saudi Arabia (Men's Gulf Cricket T20I Championship 2024)
+https://dai.fancode.com/primary/115016_english_hls_7100ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg",Mumbai City vs Thane (Mumbai University Women Cricket Tournament)
 https://dai.fancode.com/primary/115326_english_hls_5893ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110939_4567_MLC_AFC_fc-web_1728983127433.jpg",Melbourne City vs Auckland (A League 2024-25)
-https://dai.fancode.com/primary/110939_english_hls_5637ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",Moira Superkings vs Moira Titans (MPL Player Development Program)
+https://dai.fancode.com/primary/115322_english_hls_9128ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114736_4687_CHA_LWS_fc-web.jpg",Chambal Challengers vs Ladakh Wolves (Yuva Kabaddi Series Edition 11 - Division Rounds)
+https://dai.fancode.com/primary/115357_english_hls_8789ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",ASEB Sports Club vs Gplus Athletic (2nd Protech Guwahati Premier League 2024)
+https://dai.fancode.com/primary/113849_english_hls_5643ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg",Day 4 vs Leopard Creek CC, Malelane, South Africa (Alfred Dunhill Championship)
+https://dai.fancode.com/primary/114579_english_hls_5721ta-di/index.m3u8
