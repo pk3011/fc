@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)
 https://dai.fancode.com/primary/112349_english_hls_4813ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113751_4657_SPR_KNY_fc-Web.jpg",Karnali Yaks vs Sudurpaschim Royals (Nepal Premier League, 2024)
+https://dai.fancode.com/primary/113751_english_hls_5563ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109394_4508_TASW_NSWB_fc-web.jpg",New South Wales Breakers vs Tasmania Women (WNCL, 2024-25)
 https://dai.fancode.com/primary/109394_english_hls_4958ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg",Thane vs Konkan (Mumbai University Women Cricket Tournament)
+https://dai.fancode.com/primary/115327_english_hls_5730ta-di/index.m3u8
