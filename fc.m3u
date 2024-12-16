@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112458_4616_AF_COH_fc-web_1731569490531.jpg",Cochin Hurricanes vs A Four CC (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112458_english_hls_5792ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114049_4664_BRA_ARG_fc-web.jpg",Argentina vs Brazil (ICC Men's T20 WC Sub Regional Americas Qualifier)
 https://dai.fancode.com/primary/114049_english_hls_6369ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114048_4664_SRN_BEL_fc-web.jpg",Belize vs Suriname (ICC Men's T20 WC Sub Regional Americas Qualifier)
-https://dai.fancode.com/primary/114048_english_hls_69ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",The Valley Hikers vs Champagne Reef Divers (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114164_english_hls_6891ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114845_4688_SS_UPBS_fc-Web.jpg",UP Brij Stars vs Southern Spartans (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114845_english_hls_5422ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",Fleetwood Town vs Accrington Stanley (League Two 2024-25)
+https://dai.fancode.com/primary/110104_english_hls_6115ta-di/index.m3u8
