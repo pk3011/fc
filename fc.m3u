@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115457_4713_FUJ_ABD_fc-web.jpg",Fujairah vs Abu Dhabi (Emirates D10 2024)
-https://dai.fancode.com/primary/115457_english_hls_5537ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",Barana Aute Warriors vs Champagne Reef Divers (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114172_english_hls_5275ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115459_4713_ABD_AJM_fc-web.jpg",Abu Dhabi vs Ajman (Emirates D10 2024)
+https://dai.fancode.com/primary/115459_english_hls_5688ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112446_4616_CEC-B_SBS_fc-web_1731569490117.jpg",SBS CC vs CECC-B (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112446_english_hls_6407ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",Indian River Rowers vs Titou Gorge Splashers (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114173_english_hls_9478ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",Day 1 vs Orlando, FL (PNC Championship)
+https://dai.fancode.com/primary/115086_english_hls_5675ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115587_CASACARDS_APP.png",Zalgiris Kaunas vs LDLC ASVEL Villeurbanne (EuroLeague 2024-25)
+https://dai.fancode.com/primary/115587_english_hls_5949ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112445_4616_AGT_GGL_fc-web_1731569490030.jpg",Going Global vs Afghan Tigers (KCC T20 Challengers A League, 2024-25)
 https://dai.fancode.com/primary/112445_english_hls_6693ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114652_4684_EXI-W_NDXI-W_fc-web.jpg",Netherlands XI-W vs England XI-W (European Cricket Championship-W, 2024)
-https://dai.fancode.com/primary/114674_english_hls_6202ta-di/index.m3u8
