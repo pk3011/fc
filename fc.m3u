@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg",Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113544_english_hls_6198ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114851_4688_MM_MPT_fc-Web.jpg",Mumbai Marines vs MP Tigers (Big Cricket League, 2024)
-https://dai.fancode.com/primary/114852_english_hls_6316ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114609_4681_AST_END_fc-web.jpg",Engro Dolphins vs ABL Stallions (Champions T20 Cup, 2024)
-https://dai.fancode.com/primary/114609_english_hls_5751ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115460_4713_EMB_EMR_fc-web.jpg",Emirates Blues vs Emirates Red (Emirates D10 2024)
-https://dai.fancode.com/primary/115460_english_hls_5765ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109901_4352_PRM_CVC_fc-web.jpg",Portsmouth vs Coventry City (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109901_english_hls_5583ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",Day 3 vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)
-https://dai.fancode.com/primary/114582_english_hls_5718ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115164_CASACARDS_APP.png",Prosecco Doc Imoco Conegliano vs Numia Vero Volley Milano (Women's Club World Champs 2024)
-https://dai.fancode.com/primary/115164_english_hls_5948ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114837_4688_SS_NC_fc-Web.jpg",Northern Challengers vs Southern Spartans (Big Cricket League, 2024)
+https://dai.fancode.com/primary/114853_english_hls_5737ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115018_4695_UAE_KUW_fc-Web.jpg",United Arab Emirates vs Kuwait (Men's Gulf Cricket T20I Championship 2024)
+https://dai.fancode.com/primary/115026_english_hls_8497ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109902_4352_QPR_PST_fc-web.jpg",Queens Park Rangers vs Preston North End (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109902_english_hls_5286ta-di/index.m3u8
