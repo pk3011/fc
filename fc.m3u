@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114847_4688_SS_MM_fc-Web.jpg",Southern Spartans vs Mumbai Marines (Big Cricket League, 2024)
 https://dai.fancode.com/secondary/114854_english_hls_8390ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",Indian River Rowers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
-https://dai.fancode.com/primary/114174_english_hls_1459ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109903_4352_WBA_BRI_fc-web.jpg",West Bromwich Albion vs Bristol City (EFL Championship 2024-25)
-https://mls3.fancode.com/687259fb-9a92-44df-9fab-04e3e26fa8dd/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115466_4713_ABD_DUB_fc-web.jpg",Dubai vs Abu Dhabi (Emirates D10 2024)
-https://dai.fancode.com/primary/115466_english_hls_201ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115467_4713_FUJ_SHA_fc-web.jpg",Fujairah vs Sharjah (Emirates D10 2024)
+https://dai.fancode.com/primary/115467_english_hls_4679ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",Champagne Reef Divers vs Barana Aute Warriors (Dream11 Nature Isle T10, 6th Edition, 2024)
+https://dai.fancode.com/primary/114175_english_hls_5023ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",Day 3 vs Orlando, FL (PNC Championship)
+https://dai.fancode.com/primary/115088_english_hls_4646ta-no/index.m3u8
