@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113545_english_hls_5220ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109904_4352_CVC_PLY_fc-web_1734938758807.jpg",Coventry City vs Plymouth Argyle (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109904_english_hls_5699ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/League-One-2024-25-old-2-match-card.png",Charlton Athletic vs Cambridge United (League One 2024-25)
-https://dai.fancode.com/primary/110108_english_hls_8675ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/112452_CASACARDS_APP.png",Going Global vs Strikers Afghan (KCC T20 Challengers A League, 2024-25)
+https://dai.fancode.com/primary/112452_english_hls_5309ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115479_4713_ABD_EMB_fc-web.jpg",Abu Dhabi vs Emirates Blues (Emirates D10 2024)
+https://dai.fancode.com/primary/115479_english_hls_5319ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111991_4352_DER_WBA_fc-web.jpg",Derby County vs West Bromwich Albion (EFL Championship 2024-25)
+https://dai.fancode.com/primary/111991_english_hls_5791ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115589_CASACARDS_APP.png",Monaco vs Anadolu Efes Istanbul (EuroLeague 2024-25)
+https://dai.fancode.com/primary/115589_english_hls_5888ta-di/index.m3u8
