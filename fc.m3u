@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113545_english_hls_6042ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115689_4721_ARI_GUC_fc-web.jpg",Al-Rashed Shipping Co vs Gulf Cable (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115689_english_hls_5706ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115667_4720_COM_RAM_fc-web.jpg",Coimbatore vs Ramanathapuram (TNCA S S Rajan T20 Trophy 2024-2025)
-https://dai.fancode.com/primary/115667_english_hls_5108ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115480_4713_SHA_DUB_fc-web.jpg",Sharjah vs Dubai (Emirates D10 2024)
-https://dai.fancode.com/primary/115480_english_hls_5479ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114788_4687_SS_VVZ_fc-web.jpg",Sindh Sonics vs Vizag Victors (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114788_english_hls_8693ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110947_4567_PG_MAC_fc-web_1728983127758.jpg",Perth Glory vs Macarthur (A League 2024-25)
-https://dai.fancode.com/primary/110947_english_hls_5507ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115690_4721_CHK_MEC_fc-web.jpg",Chennai Kings CA vs MEC Study Group (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115690_english_hls_5856ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115668_4720_THR_KAR_fc-web.jpg",Thiruvallur vs Karur (TNCA S S Rajan T20 Trophy 2024-2025)
+https://dai.fancode.com/primary/115668_english_hls_7564ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115482_4713_AJM_DUB_fc-web.jpg",Dubai vs Ajman (Emirates D10 2024)
+https://dai.fancode.com/primary/115482_english_hls_5470ta-di/index.m3u8
