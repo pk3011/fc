@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115691_4721_TGS_YSS_fc-web.jpg",YSSC vs Team TGS (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115691_english_hls_5752ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115728_4722_PEL_TIT_fc-web.jpg",Titans vs Pelicans (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115728_english_hls_5553ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115591_CASACARDS_APP.png",Vitoria Gasteiz Baskonia vs Paris (EuroLeague 2024-25)
-https://dai.fancode.com/primary/115591_english_hls_5637ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115896_4727_SHW_SWW_fc-web.jpg",Sabah Women vs Sarawak Women (MCA Women's T20 Inter-State Championship, 2024-25)
+https://dai.fancode.com/primary/115896_english_hls_5353ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115895_4727_PRW_JOW_fc-web.jpg",Perak Women vs Johor Women (MCA Women's T20 Inter-State Championship, 2024-25)
+https://dai.fancode.com/primary/115895_english_hls_8939ta-di/index.m3u8
