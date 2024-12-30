@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115734_4722_TIT_WAR_fc-web.jpg",Warriors vs Titans (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115734_english_hls_4648ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112426_4616_AEC_STX_fc-web_1731569490199.jpg",Strikers Afghan vs Al Mulla Exchange (KCC T20 Challengers A League, 2024-25)
-https://dai.fancode.com/primary/112456_english_hls_5037ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115485_4713_FUJ_SHA_fc-web.jpg",Sharjah vs Fujairah (Emirates D10 2024)
-https://dai.fancode.com/primary/115492_english_hls_5073ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115735_4722_VOY_PEL_fc-web.jpg",Voyagers vs Pelicans (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115735_english_hls_5008ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",AFC Wimbledon vs Gillingham (League Two 2024-25)
+https://dai.fancode.com/primary/110105_english_hls_4612ta-di/index.m3u8
