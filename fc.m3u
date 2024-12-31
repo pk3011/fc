@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113350_4644_KHT_CHK_fc-web.jpg",Khulna Tigers vs Chittagong Kings (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113350_english_hls_4870ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114474_4676_OV_CS_fc-Web_1735207964854.jpg",Otago Volts vs Central Stags (Dream11 Super Smash, 2024-25)
 https://dai.fancode.com/primary/114474_english_hls_4967ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114802_4687_HMH_PPE_fc-web.jpg",Hampi Heroes vs Panchala Pride (Yuva Kabaddi Series Edition 11 - Division Rounds)
+https://dai.fancode.com/primary/114802_english_hls_8270ta-di/index.m3u8
