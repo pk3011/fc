@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113352_4644_DBR_DC_fc-web.jpg",Dhaka Capitals vs Durbar Rajshahi (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113352_english_hls_6052ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
 https://dai.fancode.com/primary/113546_english_hls_5531ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113353_4644_FBA_RAN_fc-web.jpg",Fortune Barishal vs Rangpur Riders (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113353_english_hls_5438ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/115679_CASACARDS_APP.png",Dindigul vs Sivagangai (TNCA S S Rajan T20 Trophy 2024-2025)
 https://dai.fancode.com/primary/115679_english_hls_5698ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Raghubansh vs Kolkata Incredibles (BOX Office White Ball T20)
+https://dai.fancode.com/primary/116275_english_hls_4937ta-di/index.m3u8
