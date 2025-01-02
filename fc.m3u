@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
-https://dai.fancode.com/primary/113546_english_hls_5531ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113353_4644_FBA_RAN_fc-web.jpg",Fortune Barishal vs Rangpur Riders (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113353_english_hls_5438ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/115680_CASACARDS_APP.png",Tirunelveli vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)
-https://dai.fancode.com/primary/115680_english_hls_6113ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115695_4721_GC_PCT_fc-web.jpg",Global Champs vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115695_english_hls_5757ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115739_4722_SET_PEL_fc-web.jpg",Settlers vs Pelicans (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115739_english_hls_6240ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",The Spartan Squad vs Phoenix (BOX Office T20 Test Pink Ball)
 https://dai.fancode.com/primary/116272_english_hls_5709ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115738_4722_VOY_TIT_fc-web.jpg",Titans vs Voyagers (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115738_english_hls_5493ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 1 vs Kapalua Plantation Course, Hawaii (The Sentry)
+https://dai.fancode.com/primary/116252_english_hls_6208ta-di/index.m3u8
