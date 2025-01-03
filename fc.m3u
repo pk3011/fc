@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114476_4676_AA_CTB_fc-Web_1735207964815.jpg",Auckland Aces vs Canterbury (Dream11 Super Smash, 2024-25)
 https://dai.fancode.com/primary/114476_english_hls_5874ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115913_CASACARDS_APP.png",Kuala Lumpur Women vs Johor Women (MCA Women's T20 Inter-State Championship, 2024-25)
-https://dai.fancode.com/primary/115913_english_hls_5527ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115912_CASACARDS_APP.png",Perak Women vs Pahang Women (MCA Women's T20 Inter-State Championship, 2024-25)
-https://dai.fancode.com/primary/115912_english_hls_8909ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 1, Feature Group vs Kapalua Plantation Course, Hawaii (The Sentry)
-https://mls3.fancode.com/7ab3cc4b-0d91-467f-81c9-fbb12a903a4d/master.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115697_4721_RLC_SUL_fc-web.jpg",Super Lanka vs Royal Lions CC (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115697_english_hls_5557ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115914_CASACARDS_APP.png",Sabah Women vs Negeri Sembilan Women (MCA Women's T20 Inter-State Championship, 2024-25)
+https://dai.fancode.com/primary/115914_english_hls_9609ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115915_CASACARDS_APP.png",Sarawak Women vs Selangor Women (MCA Women's T20 Inter-State Championship, 2024-25)
+https://dai.fancode.com/primary/115915_english_hls_5645ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114807_4687_KWS_AAS_fc-web.jpg",Kurukshetra Warriors vs Aravalli Arrows (Yuva Kabaddi Series Edition 11 - Division Rounds)
+https://dai.fancode.com/primary/114807_english_hls_9557ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110957_4567_MLC_WEL_fc-web_1728983127623.jpg",Melbourne City vs Wellington Phoenix (A League 2024-25)
+https://dai.fancode.com/primary/110957_english_hls_6288ta-no/index.m3u8
