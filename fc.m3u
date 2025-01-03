@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114508_4677_AH-W_CM-W_fc-web.jpg",Auckland Hearts vs Canterbury Magicians (Dream11 Women's Super Smash, 2024-25)
-https://dai.fancode.com/primary/114508_english_hls_4922ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115912_CASACARDS_APP.png",Pahang Women vs Perak Women (MCA Women's T20 Inter-State Championship, 2024-25)
-https://dai.fancode.com/primary/115912_english_hls_8909ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114476_4676_AA_CTB_fc-Web_1735207964815.jpg",Auckland Aces vs Canterbury (Dream11 Super Smash, 2024-25)
+https://dai.fancode.com/primary/114476_english_hls_5874ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115913_CASACARDS_APP.png",Kuala Lumpur Women vs Johor Women (MCA Women's T20 Inter-State Championship, 2024-25)
 https://dai.fancode.com/primary/115913_english_hls_5527ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115912_CASACARDS_APP.png",Perak Women vs Pahang Women (MCA Women's T20 Inter-State Championship, 2024-25)
+https://dai.fancode.com/primary/115912_english_hls_8909ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 1, Feature Group vs Kapalua Plantation Course, Hawaii (The Sentry)
 https://mls3.fancode.com/7ab3cc4b-0d91-467f-81c9-fbb12a903a4d/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 1 vs Kapalua Plantation Course, Hawaii (The Sentry)
-https://dai.fancode.com/primary/116252_english_hls_6208ta-di/index.m3u8
