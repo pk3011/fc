@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116342_4747_DESS_TBS_fc-Web.jpg",Desert Eagles vs Thunder Blasters (SPL T12)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110961_4567_MLV_SYW_fc-web_1728983128182.jpg",Melbourne Victory vs Western Sydney Wanderers (A League 2024-25)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",Dindigul vs Coimbatore (TNCA S S Rajan T20 Trophy 2024-2025)
+https://dai.fancode.com/primary/115683_english_hls_4994ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",Blackburn Rovers vs Burnley (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109913_english_hls_5329ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114813_4687_JTS_KRS_fc-web_1735646310784.jpg",Jaipur Thunders vs Karpagam Raiders (Yuva Kabaddi Series Edition 11 - Division Rounds)
+https://dai.fancode.com/primary/114813_english_hls_5171ta-no/index.m3u8
