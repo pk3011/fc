@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",Dindigul vs Coimbatore (TNCA S S Rajan T20 Trophy 2024-2025)
-https://dai.fancode.com/primary/115683_english_hls_4994ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",Blackburn Rovers vs Burnley (EFL Championship 2024-25)
-https://dai.fancode.com/primary/109913_english_hls_5329ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114813_4687_JTS_KRS_fc-web_1735646310784.jpg",Jaipur Thunders vs Karpagam Raiders (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114813_english_hls_5171ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Huesca-VS-Real-Betis_old.jpg",Huesca vs Real Betis (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115607_english_hls_5287ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tenerife-VS-Osasuna_old.jpg",Tenerife vs Osasuna (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115614_english_hls_5462ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115742_4722_GUA_WAR_fc-web.jpg",Guardians vs Warriors (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115742_english_hls_9159ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115684_CASACARDS_APP.png",Thoothukudi vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)
+https://dai.fancode.com/primary/115684_english_hls_5338ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109916_4352_WAT_SHF_fc-web_1734938759207.jpg",Watford vs Sheffield United (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109916_english_hls_5093ta-di/index.m3u8
