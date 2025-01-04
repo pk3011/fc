@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Almeria-VS-Sevilla_old.jpg",Almería vs Sevilla (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115610_english_hls_5455ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barbastro-VS-Barcelona_old.jpg",Barbastro vs Barcelona (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115599_english_hls_5108ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115699_4721_ARI_CHK_fc-web.jpg",Al-Rashed Shipping Co vs Chennai Kings CA (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115699_english_hls_5928ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115743_4722_VOY_SET_fc-web.jpg",Voyagers vs Settlers (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115743_english_hls_5804ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115744_4722_TIT_PEL_fc-web.jpg",Titans vs Pelicans (Barbados T10, 2024-25)
 https://dai.fancode.com/primary/115744_english_hls_5827ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Marbella-VS-Atletico-de-Madrid_old.jpg",Marbella vs Atlético de Madrid (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115603_english_hls_4472ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UD-Logrones-VS-Athletic-Club_old.jpg",UD Logroñés vs Athletic Club (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115602_english_hls_8577ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 3 vs Kapalua Plantation Course, Hawaii (The Sentry)
 https://dai.fancode.com/primary/116254_english_hls_8889ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 3, Feature Group vs Kapalua Plantation Course, Hawaii (The Sentry)
+https://dai.fancode.com/primary/116340_english_hls_5308ta-di/index.m3u8
