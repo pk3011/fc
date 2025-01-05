@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ourense-CF-VS-Real-Valladolid_old.jpg",Ourense CF vs Real Valladolid (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115604_english_hls_9091ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Elche-VS-Las-Palmas_old.jpg",Elche vs Las Palmas (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115612_english_hls_5374ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114817_4687_KRS_CTS_fc-web.jpg",Karpagam Raiders vs Chennai Tamizhans (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114817_english_hls_5732ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC-Cartagena-VS-Leganes_old.jpg",FC Cartagena vs Leganés (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115613_english_hls_5625ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Racing-de-Santander-VS-Celta-de-Vigo_old.jpg",Racing de Santander vs Celta de Vigo (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115608_english_hls_8832ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ponferradina-VS-Real-Sociedad_old.jpg",Ponferradina vs Real Sociedad (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115605_english_hls_2918ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115685_CASACARDS_APP.png",Coimbatore vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)
+https://dai.fancode.com/primary/115685_english_hls_4641ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109915_4352_SUN_PRM_fc-web_1734938759534.jpg",Sunderland vs Portsmouth (EFL Championship 2024-25)
+https://dai.fancode.com/primary/109915_english_hls_5715ta-no/index.m3u8
