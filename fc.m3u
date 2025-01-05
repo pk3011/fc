@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115744_4722_TIT_PEL_fc-web.jpg",Titans vs Pelicans (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115744_english_hls_5827ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Marbella-VS-Atletico-de-Madrid_old.jpg",Marbella vs Atlético de Madrid (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115603_english_hls_4472ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UD-Logrones-VS-Athletic-Club_old.jpg",UD Logroñés vs Athletic Club (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/115602_english_hls_8577ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 3 vs Kapalua Plantation Course, Hawaii (The Sentry)
-https://dai.fancode.com/primary/116254_english_hls_8889ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",Day 3, Feature Group vs Kapalua Plantation Course, Hawaii (The Sentry)
-https://dai.fancode.com/primary/116340_english_hls_5308ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card.jpg",Sri Lanka vs New Zealand (Sri Lanka tour of New Zealand, 2024-25)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736047797~acl=*~id=155678448410001965141735997797112~hmac=8309885d229508a10ae16d3a071730f271a4405cc7fda2d00d2871426ff016ae
