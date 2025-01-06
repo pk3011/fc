@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113357_4644_FBA_DBR_fc-web.jpg",Durbar Rajshahi vs Fortune Barishal (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113357_english_hls_5147ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115701_4721_GC_RLC_fc-web.jpg",Global Champs vs Royal Lions CC (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115701_english_hls_5679ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115748_4722_GUA_SET_fc-web.jpg",Guardians vs Settlers (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115748_english_hls_5403ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Deportiva-Minera-VS-Real-Madrid_Old.jpg",Deportiva Minera vs Real Madrid (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/115601_english_hls_5499ta-no/index.m3u8
