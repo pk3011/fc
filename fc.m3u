@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115749_4722_WAR_TIT_fc-web.jpg",Warriors vs Titans (Barbados T10, 2024-25)
-https://dai.fancode.com/primary/115749_english_hls_4893ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115702_4721_PCT_SAS_fc-web.jpg",Salmiya Strikers vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115702_english_hls_5025ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115750_4722_PEL_VOY_fc-web.jpg",Pelicans vs Voyagers (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115750_english_hls_5615ta-di/index.m3u8
