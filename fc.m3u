@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113358_4644_RAN_DC_fc-web.jpg",Dhaka Capitals vs Rangpur Riders (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113358_english_hls_6564ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/116354_CASACARDS_APP.png",Royal Gladiators vs Desert Eagles (SPL T12)
-https://dai.fancode.com/primary/116354_english_hls_8717ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",Yanam XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)
-https://dai.fancode.com/primary/116222_english_hls_5583ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110955_4567_BRB_NJ_fc-web_1728983127588.jpg",Brisbane Roar vs Newcastle Jets (A League 2024-25)
-https://dai.fancode.com/primary/110955_english_hls_5205ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113359_4644_FBA_SYL_fc-web.jpg",Sylhet Strikers vs Fortune Barishal (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113359_english_hls_5583ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114825_4687_CTS_KWS_fc-web.jpg",Chennai Tamizhans vs Kurukshetra Warriors (Yuva Kabaddi Series Edition 11 - Division Rounds)
+https://dai.fancode.com/primary/114825_english_hls_4847ta-di/index.m3u8
