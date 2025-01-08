@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg",New Zealand vs Sri Lanka (Sri Lanka tour of New Zealand, 2024-25)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736346250~acl=*~id=155678448410001965141736296249109~hmac=f504578b824c536fe5c15c1d98bd40079eab54121f247d8b46664f6bd909d816
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/116355_CASACARDS_APP.png",Marwar Warriors vs Thar Defenders (SPL T12)
-https://dai.fancode.com/primary/116355_english_hls_5473ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",Mahe XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)
-https://dai.fancode.com/primary/116224_english_hls_8474ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114827_4687_KRS_SPS_fc-web.jpg",Karpagam Raiders vs Sonipat Spartans (Yuva Kabaddi Series Edition 11 - Division Rounds)
-https://dai.fancode.com/primary/114827_english_hls_5694ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/116356_CASACARDS_APP.png",Thar Defenders vs Royal Gladiators (SPL T12)
+https://dai.fancode.com/primary/116356_english_hls_5571ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110956_4567_SYD_PG_fc-web_1728983128933.jpg",Sydney FC vs Perth Glory (A League 2024-25)
+https://dai.fancode.com/primary/110956_english_hls_5071ta-di/index.m3u8
