@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113363_4644_DC_SYL_fc-web.jpg",Dhaka Capitals vs Sylhet Strikers (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113363_english_hls_4996ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115708_4721_SUL_YSS_fc-web.jpg",Super Lanka vs YSSC (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115708_english_hls_5276ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116297_4745_SRO_CWA_fc-Web.jpg",Surrey Royals vs Cornwall Warriors (Jamaica T10, 2025)
+https://dai.fancode.com/primary/116297_english_hls_5183ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115756_4722_TIT_GUA_fc-web.jpg",Titans vs Guardians (Barbados T10, 2024-25)
+https://dai.fancode.com/primary/115756_english_hls_5714ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg",Featured Feed - Day 2 vs Hawaii (Sony Open in Hawaii)
+https://dai.fancode.com/primary/116626_english_hls_6293ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115597_CASACARDS_APP.png",Zalgiris Kaunas vs Real Madrid (EuroLeague 2024-25)
+https://dai.fancode.com/primary/115597_english_hls_4982ta-di/index.m3u8
