@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",Walsall vs Tranmere Rovers (League Two 2024-25)
-https://dai.fancode.com/primary/116577_english_hls_4828ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110967_4567_PG_AFC_fc-web_1728983129976.jpg",Perth Glory vs Auckland (A League 2024-25)
-https://dai.fancode.com/primary/110967_english_hls_4760ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",Day 2 vs Abu Dhabi Golf Resort (Team Cup)
-https://dai.fancode.com/primary/116630_english_hls_4945ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115952_4730_DC_MIE_fc-web.jpg",Dubai Capitals vs MI Emirates (DP World International League T20, 2025)
+https://dai.fancode.com/primary/115952_english_hls_4748ta-di/index.m3u8
