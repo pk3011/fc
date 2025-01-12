@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113364_4644_KHT_SYL_fc-web.jpg",Sylhet Strikers vs Khulna Tigers (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113364_english_hls_5659ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116748_4758_IND_PAK_fc-web.jpg",India vs Pakistan (PD Champions Trophy)
-https://dai.fancode.com/primary/116748_english_hls_5005ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116760_4759_MAT_MUT_fc-Web.jpg",Muscat Thunders vs Majees Titans (Oman D50 League, 2025)
+https://dai.fancode.com/primary/116760_english_hls_8801ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115953_4730_ADKR_DV_fc-web.jpg",Abu Dhabi Knight Riders vs Desert Vipers (DP World International League T20, 2025)
+https://dai.fancode.com/primary/115953_english_hls_5068ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113365_4644_DBR_DC_fc-web.jpg",Dhaka Capitals vs Durbar Rajshahi (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113365_english_hls_4687ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",Day 3 vs Abu Dhabi Golf Resort (Team Cup)
 https://dai.fancode.com/primary/116631_english_hls_5648ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Hockey_Old_match-card.jpg",Don Bosco High School, Matunga vs Antonio D’Silva High School (Dream Sports MSSA Hockey Tournament)
+https://dai.fancode.com/primary/116932_english_hls_5103ta-di/index.m3u8
