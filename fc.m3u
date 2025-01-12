@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg",Featured Feed - Day 3 vs Hawaii (Sony Open in Hawaii)
-https://dai.fancode.com/primary/116627_english_hls_5039ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg",Day 3 vs Hawaii (Sony Open in Hawaii)
-https://dai.fancode.com/primary/116622_english_hls_4547ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/114514_CASACARDS_APP.png",Central Hinds vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)
+https://dai.fancode.com/primary/114514_english_hls_5889ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg",Victoria Women vs ACT Meteors (WNCL, 2024-25)
+https://dai.fancode.com/primary/109399_english_hls_5025ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg",Tasmania Women vs Queensland Fire (WNCL, 2024-25)
+https://dai.fancode.com/primary/109400_english_hls_5520ta-no/index.m3u8
