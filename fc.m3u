@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",India - Bansod vs China - Han Y. vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",ENG vs IND - Men's Doubles vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)
 https://dai.fancode.com/primary/117043_english_hls_8455ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg",India PD vs Sri Lanka PD (PD Champions Trophy)
-https://dai.fancode.com/primary/116752_english_hls_6190ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",Pondicherry North XI vs Yanam XI (CAP Masters T10 Tournament, 2025)
-https://dai.fancode.com/primary/116245_english_hls_5848ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",JK Super Strikers vs JK Maxx Titans (MPL Player Development Program)
-https://dai.fancode.com/primary/117006_english_hls_9662ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PM-CUP-WNCL_old_V2.jpg",Sudur Paschim Province Women vs Lumbini Province Women (Women's PM Cup, 2025)
-https://dai.fancode.com/primary/116779_english_hls_7076ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116763_4759_MAT_ROS_fc-Web.jpg",Majees Titans vs Royal Oman Stallions (Oman D50 League, 2025)
+https://dai.fancode.com/primary/116763_english_hls_5819ta-no/index.m3u8
