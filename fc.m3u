@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Celta-Vigo_old.jpg",Real Madrid vs Celta de Vigo (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/116844_english_hls_6194ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115716_4721_YSS_PCT_fc-web.jpg",YSSC vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115716_english_hls_5621ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",Shrewsbury Town vs Wrexham (League One 2024-25)
-https://dai.fancode.com/primary/116569_english_hls_5894ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_2_1737009689566.jpg",Feed B - Day 1 vs LA Quinta, CA, USA (The American Express)
-https://dai.fancode.com/primary/116948_english_hls_9937ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_4_1737009690388.jpg",Feed E - Day 1 vs LA Quinta, CA, USA (The American Express)
-https://dai.fancode.com/primary/117009_english_hls_516ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_3_1737009689550.jpg",Feed D - Day 1 vs LA Quinta, CA, USA (The American Express)
-https://dai.fancode.com/primary/116950_english_hls_6337ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_1737009689586.jpg",Feed C - Day 1 vs LA Quinta, CA, USA (The American Express)
-https://dai.fancode.com/primary/116949_english_hls_6556ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/116263_CASACARDS_APP.png",Real Madrid vs Olympiacos Piraeus (EuroLeague 2024-25)
-https://dai.fancode.com/primary/116263_english_hls_9317ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_2_1737009689566.jpg",Feed A - Day 1 vs LA Quinta, CA, USA (The American Express)
-https://dai.fancode.com/primary/116947_english_hls_6033ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114519_4677_CH-W_CM-W_fc-web.jpg",Canterbury Magicians vs Central Hinds (Dream11 Women's Super Smash, 2024-25)
+https://dai.fancode.com/primary/114519_english_hls_5530ta-di/index.m3u8
