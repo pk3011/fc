@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116314_4745_SKI_UNS_fc-Web.jpg",Surrey Kings vs Middlesex United Stars (Jamaica T10, 2025)
-https://dai.fancode.com/primary/116314_english_hls_5751ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115721_4721_PCT_TGS_fc-web.jpg",Phoenix Cricketers vs Team TGS (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115721_english_hls_5702ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_4_1737010949061.jpg",Feed B - Day 3 vs LA Quinta, CA, USA (The American Express)
 https://dai.fancode.com/primary/116965_english_hls_4946ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_1737010949057.jpg",Feed D - Day 3 vs LA Quinta, CA, USA (The American Express)
@@ -11,3 +7,5 @@ https://dai.fancode.com/primary/117011_english_hls_8806ta-no/index.m3u8
 https://dai.fancode.com/primary/116968_english_hls_5162ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_3_1737010949033.jpg",Feed C - Day 3 vs LA Quinta, CA, USA (The American Express)
 https://dai.fancode.com/primary/116967_english_hls_9865ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_4_1737010949061.jpg",Feed A - Day 3 vs LA Quinta, CA, USA (The American Express)
+https://dai.fancode.com/primary/116962_english_hls_4603ta-no/index.m3u8
