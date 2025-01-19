@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",Pakistan vs West Indies (West Indies tour of Pakistan, 2025)
 https://dai.fancode.com/primary/116279_english_hls_6366ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/114489_CASACARDS_APP.png",Canterbury vs Northern Districts (Dream11 Super Smash, 2024-25)
-https://dai.fancode.com/primary/114489_english_hls_5234ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116757_4758_PAK_ENG_fc-web.jpg",Pakistan PD vs England PD (PD Champions Trophy)
-https://dai.fancode.com/primary/116757_english_hls_8653ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117027_CASACARDS_APP.png",91 Yards Club vs Cricket Club of Dibrugarh (Guwahati Sixes Tournament, 2025)
-https://dai.fancode.com/primary/117027_english_hls_4794ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",Court 1 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_old_1737272529716.jpg",Final vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)
 https://dai.fancode.com/primary/117049_english_hls_5080ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113372_4644_FBA_CHK_fc-web.jpg",Chittagong Kings vs Fortune Barishal (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113372_english_hls_6039ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116758_4758_IND_SL_fc-web.jpg",India PD vs Sri Lanka PD (PD Champions Trophy)
+https://dai.fancode.com/primary/116758_english_hls_9523ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117029_CASACARDS_APP.png",Corner Kick vs Icon Cricket Academy (Guwahati Sixes Tournament, 2025)
+https://dai.fancode.com/primary/117029_english_hls_5491ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card-op-2-(1)_1736509613633.png",Day 4 vs Emirates GC, Dubai, UAE (Hero Dubai Desert Classic)
+https://dai.fancode.com/primary/116853_english_hls_5263ta-di/index.m3u8
