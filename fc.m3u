@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113375_4644_DBR_CHK_fc-web.jpg",Chittagong Kings vs Durbar Rajshahi (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113375_english_hls_5218ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg",Desert Vipers vs Dubai Capitals (DP World International League T20, 2025)
-https://dai.fancode.com/primary/115964_english_hls_4518ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116767_4759_RNC_MAT_fc-Web.jpg",Renaissance Challengers vs Majees Titans (Oman D50 League, 2025)
-https://dai.fancode.com/primary/116767_english_hls_4142ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116318_4745_SRI_SKI_fc-Web.jpg",Surrey Risers vs Surrey Kings (Jamaica T10, 2025)
+https://dai.fancode.com/primary/116318_english_hls_5245ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115723_4721_OSM_LEX_fc-web.jpg",Lexus vs Osmani CC (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115723_english_hls_4670ta-di/index.m3u8
