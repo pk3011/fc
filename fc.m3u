@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116545_4352_PLY_BUR_fc-web.jpg",Plymouth Argyle vs Burnley (EFL Championship 2024-25)
-https://dai.fancode.com/primary/116545_english_hls_6030ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",Feed B - Day 1 vs San Diego, CA (Farmers Insurance Open)
-https://dai.fancode.com/primary/117313_english_hls_5427ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737480359200.jpg",Feed E - Day 1 vs San Diego, CA (Farmers Insurance Open)
-https://dai.fancode.com/primary/117394_english_hls_5792ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v3_1737480359168.jpg",Feed D - Day 1 vs San Diego, CA (Farmers Insurance Open)
-https://dai.fancode.com/primary/117393_english_hls_5821ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",Feed C - Day 1 vs San Diego, CA (Farmers Insurance Open)
-https://dai.fancode.com/primary/117392_english_hls_6207ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",Partizan NIS Belgrade vs Paris (EuroLeague 2024-25)
-https://dai.fancode.com/primary/116266_english_hls_5939ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737382574241.jpg",Feed A - Day 1 vs San Diego, CA (Farmers Insurance Open)
-https://dai.fancode.com/primary/117312_english_hls_9167ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114525_4677_AH-W_OS-W_fc-web.jpg",Auckland Hearts vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)
+https://dai.fancode.com/primary/114525_english_hls_5359ta-no/index.m3u8
