@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117080_4773_BB_CN_fc-Web_1737710235395.jpg",Bengaluru vs Chennai (World Pickleball League)
-https://dai.fancode.com/primary/117080_english_hls_5955ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Women's-tour-of-West-Indies-2025-old-match-card.png",Bangladesh Women vs West Indies Women (Bangladesh Women tour of West Indies, 2025)
+https://dai.fancode.com/primary/116650_english_hls_5825ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116326_4745_MIT_SKI_fc-Web.jpg",Surrey Kings vs Middlesex Titans (Jamaica T10, 2025)
+https://dai.fancode.com/primary/116326_english_hls_6536ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115817_4721_RLC_THN_fc-web.jpg",Thunder Cats vs Royal Lions CC (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115817_english_hls_6293ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737480359200.jpg",Feed B - Day 3 vs San Diego, CA (Farmers Insurance Open)
+https://dai.fancode.com/primary/117401_english_hls_6115ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v3_1737480359168.jpg",Feed E - Day 3 vs San Diego, CA (Farmers Insurance Open)
+https://dai.fancode.com/primary/117404_english_hls_5612ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",Feed D - Day 3 vs San Diego, CA (Farmers Insurance Open)
+https://dai.fancode.com/primary/117403_english_hls_6311ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737480359200.jpg",Feed C - Day 3 vs San Diego, CA (Farmers Insurance Open)
+https://dai.fancode.com/primary/117402_english_hls_598ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115965_4730_ADKR_MIE_fc-web.jpg",Abu Dhabi Knight Riders vs MI Emirates (DP World International League T20, 2025)
 https://dai.fancode.com/primary/115968_english_hls_9700ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116770_4759_MAT_IAI_fc-Web.jpg",Majees Titans vs IAS Invincibles (Oman D50 League, 2025)
-https://dai.fancode.com/primary/116770_english_hls_6190ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115816_4721_PCT_SUL_fc-web.jpg",Super Lanka vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115816_english_hls_5801ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SPrint-Football-Tournament-Men's-old-match-catd-.png",Day 1 vs SP Jain (SPrint Football Tournament Men's)
-https://dai.fancode.com/primary/117465_english_hls_5262ta-no/index.m3u8
