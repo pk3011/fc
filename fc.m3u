@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117087_4773_MB_PN_fc-Web_1737710235295.jpg",Mumbai vs Pune (World Pickleball League)
-https://dai.fancode.com/primary/117087_english_hls_5639ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117080_4773_BB_CN_fc-Web_1737710235395.jpg",Bengaluru vs Chennai (World Pickleball League)
+https://dai.fancode.com/primary/117080_english_hls_5955ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115965_4730_ADKR_MIE_fc-web.jpg",Abu Dhabi Knight Riders vs MI Emirates (DP World International League T20, 2025)
+https://dai.fancode.com/primary/115968_english_hls_9700ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116770_4759_MAT_IAI_fc-Web.jpg",Majees Titans vs IAS Invincibles (Oman D50 League, 2025)
 https://dai.fancode.com/primary/116770_english_hls_6190ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115839_4721_GUC_KUCC_fc-web.jpg",Gulf Cable vs Karavali United (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115839_english_hls_6403ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaimah-Championship_old_v2.jpg",Day 2 vs Al Hamra GC, Ras Al Khaimah, UAE (Ras Al Khaimah Championship)
-https://dai.fancode.com/primary/116855_english_hls_5865ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115816_4721_PCT_SUL_fc-web.jpg",Super Lanka vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115816_english_hls_5801ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SPrint-Football-Tournament-Men's-old-match-catd-.png",Day 1 vs SP Jain (SPrint Football Tournament Men's)
+https://dai.fancode.com/primary/117465_english_hls_5262ta-no/index.m3u8
