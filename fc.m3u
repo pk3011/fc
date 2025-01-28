@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v2.jpg",Mangalore Lions vs Team Bava Surathkal (Karnataka Coastal Big Bash League T20)
-https://dai.fancode.com/primary/117066_english_hls_5185ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117084_4773_BB_DL_fc-Web_1737710235376.jpg",Bengaluru vs Delhi (World Pickleball League)
+https://dai.fancode.com/primary/117084_english_hls_5900ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116773_4759_YSG_MAT_fc-Web.jpg",Majees Titans vs Yalla Shabab Giants (Oman D50 League, 2025)
+https://dai.fancode.com/primary/116773_english_hls_5907ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg",Mathsyaraj Trescon Malpe vs Karavali Tigers (Karnataka Coastal Big Bash League T20)
+https://dai.fancode.com/primary/117067_english_hls_5817ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Nirwana vs Avenida Titans (BOX Office White Ball T20)
+https://dai.fancode.com/primary/117679_english_hls_6066ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/University-Inter-collegiate-Zone-2-Football_match-card.jpg",Day 2 - University Football vs VIVA College, Virar (University Football)
 https://dai.fancode.com/primary/117628_english_hls_5374ta-di/index.m3u8
