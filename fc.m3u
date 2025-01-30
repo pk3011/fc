@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117092_4773_MB_BB_fc-Web_1738154983864.jpg",Mumbai vs Bengaluru (World Pickleball League)
-https://dai.fancode.com/primary/117092_english_hls_6043ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117093_4773_PN_DL_fc-Web_1738154983221.jpg",Pune vs Delhi (World Pickleball League)
+https://dai.fancode.com/primary/117093_english_hls_6114ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113387_4644_CHK_SYL_fc-web.jpg",Chittagong Kings vs Sylhet Strikers (Bangladesh Premier League, 2024-25)
 https://dai.fancode.com/primary/113387_english_hls_6109ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117435_4781_GUG_RRC_fc-web.jpg",River Rine Club vs Guwahati Giants (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117435_english_hls_5811ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115976_4730_SWR_ADKR_fc-web.jpg",Abu Dhabi Knight Riders vs Sharjah Warriorz (DP World International League T20, 2025)
+https://dai.fancode.com/primary/115976_english_hls_6046ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg",United Ullal vs Mangalore Lions (Karnataka Coastal Big Bash League T20)
 https://dai.fancode.com/primary/117073_english_hls_6171ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg",Raghubansh vs Kolkata Incredibles (Box Office T20 Red Ball)
-https://dai.fancode.com/primary/117829_english_hls_5519ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",Day 1 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)
-https://dai.fancode.com/primary/117645_english_hls_6303ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",St Thomas Day vs Aspex 1 (Box Office ASL T20)
+https://dai.fancode.com/primary/117827_english_hls_9475ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg",Barbados Pride vs Guyana Harpy Eagles (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117749_english_hls_6597ta-no/index.m3u8
