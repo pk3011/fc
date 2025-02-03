@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg",Rangpur Riders vs Khulna Tigers (Bangladesh Premier League, 2024-25)
-https://dai.fancode.com/primary/113390_english_hls_5548ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-5.png",Thailand Women vs Netherlands Women (Nepal Women's T20I Triangular Series)
-https://dai.fancode.com/primary/117640_english_hls_5457ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungary-VS-Malta_old-Match-card.jpg",Hungary vs Malta (ECN Malta T20I Tri-Series, 2025)
-https://dai.fancode.com/primary/117811_english_hls_5932ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113372_4644_FBA_CHK_fc-web.jpg",Chittagong Kings vs Fortune Barishal (Bangladesh Premier League, 2024-25)
+https://dai.fancode.com/primary/113391_english_hls_6396ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117443_4781_LSC_NBC_fc-web.jpg",Legend Sporting Club vs Nabajyoti Club (Guwahati Premier League, 2025)
 https://dai.fancode.com/primary/117443_english_hls_5407ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malta-vs-Austria_old-Match-card.jpg",Malta vs Austria (ECN Malta T20I Tri-Series, 2025)
+https://dai.fancode.com/primary/117812_english_hls_4988ta-di/index.m3u8
