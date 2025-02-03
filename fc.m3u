@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109410_4508_TASW_ACTM_fc-web.jpg",ACT Meteors vs Tasmania Women (WNCL, 2024-25)
-https://dai.fancode.com/primary/109410_english_hls_5339ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109409_4508_SASC_QLF_fc-web.jpg",Queensland Fire vs South Australian Scorpions (WNCL, 2024-25)
 https://dai.fancode.com/primary/109409_english_hls_9328ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117442_4781_BDM_CCC_fc-web.jpg",City Cricket Club vs BDMTCC (Guwahati Premier League, 2025)
+https://dai.fancode.com/primary/117442_english_hls_5036ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-5.png",Thailand Women vs Netherlands Women (Nepal Women's T20I Triangular Series)
+https://dai.fancode.com/primary/117640_english_hls_5457ta-di/index.m3u8
