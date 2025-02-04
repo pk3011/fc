@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117445_4781_BTC_BDM_fc-web.jpg",BDMTCC vs Bokakhat Town Cricket Club (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117445_english_hls_5883ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malta-vs-Hungary_oldMatch-card_1738567893277.jpg",Malta vs Hungary (ECN Malta T20I Tri-Series, 2025)
 https://dai.fancode.com/primary/117814_english_hls_2624ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg",Team Krishshil vs Red Wings (Box Office T20 Red Ball)
-https://dai.fancode.com/primary/118150_english_hls_5373ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118018_4816_KK_AO_fc-Web_1738579784944.jpg",Kolkata Kingz vs Ahmedabad Olympians (Pro Pickleball League)
-https://dai.fancode.com/primary/118018_english_hls_5356ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118044_4817_DS_MCW_fc-Web.jpg",Delhi Snipers vs Mumbai Chhatrapati Warriors (Challenger Pickleball League)
-https://dai.fancode.com/primary/118044_english_hls_8665ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118019_4816_GG_MCW_fc-Web_1738579784957.jpg",Goa Gladiators vs Mumbai Chhatrapati Warriors (Pro Pickleball League)
-https://dai.fancode.com/primary/118019_english_hls_5372ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118045_4817_KK_CCC_fc-Web.jpg",Kolkata Kingz vs Chennai Cool Cats (Challenger Pickleball League)
-https://dai.fancode.com/primary/118045_english_hls_8577ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Alviva Sporting Club vs Starboys (BOX Office White Ball T20)
+https://dai.fancode.com/primary/118151_english_hls_2960ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118046_4817_BB_GG_fc-Web.jpg",Bengaluru Blazers vs Goa Gladiators (Challenger Pickleball League)
+https://dai.fancode.com/primary/118046_english_hls_8644ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118020_4816_HV_CCC_fc-Web_1738579785662.jpg",Hyderabad Vikings vs Chennai Cool Cats (Pro Pickleball League)
+https://dai.fancode.com/primary/118020_english_hls_5621ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118047_4817_AO_KK_fc-Web.jpg",Ahmedabad Olympians vs Kolkata Kingz (Challenger Pickleball League)
+https://dai.fancode.com/primary/118047_english_hls_9620ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118021_4816_NN_JJ_fc-Web_1738579785048.jpg",Nashik Ninjas vs Jaipur Jawans (Pro Pickleball League)
+https://dai.fancode.com/primary/118021_english_hls_6070ta-no/index.m3u8
