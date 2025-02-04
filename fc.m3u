@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malta-vs-Hungary_oldMatch-card_1738567893277.jpg",Malta vs Hungary (ECN Malta T20I Tri-Series, 2025)
-https://dai.fancode.com/primary/117814_english_hls_2624ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117490_4787_YPS_MAT_Fc-Web.jpg",Maties Cricket Club vs Giflo Young Peoples CC (Boland T20 Super League Finals, 2025)
+https://dai.fancode.com/primary/117490_english_hls_5938ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117759_4800_MAL_GOR_fc-web.jpg",Malo vs Gorkha XI (ECSN Portugal, 2025)
+https://dai.fancode.com/primary/117759_english_hls_9553ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108704_4475_AHS_PPL_fc-web.jpg",Al-Hilal vs Persepolis FC (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108704_english_hls_6215ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Alviva Sporting Club vs Starboys (BOX Office White Ball T20)
 https://dai.fancode.com/primary/118151_english_hls_2960ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118046_4817_BB_GG_fc-Web.jpg",Bengaluru Blazers vs Goa Gladiators (Challenger Pickleball League)
-https://dai.fancode.com/primary/118046_english_hls_8644ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118020_4816_HV_CCC_fc-Web_1738579785662.jpg",Hyderabad Vikings vs Chennai Cool Cats (Pro Pickleball League)
-https://dai.fancode.com/primary/118020_english_hls_5621ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118047_4817_AO_KK_fc-Web.jpg",Ahmedabad Olympians vs Kolkata Kingz (Challenger Pickleball League)
-https://dai.fancode.com/primary/118047_english_hls_9620ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118021_4816_NN_JJ_fc-Web_1738579785048.jpg",Nashik Ninjas vs Jaipur Jawans (Pro Pickleball League)
-https://dai.fancode.com/primary/118021_english_hls_6070ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Global Champs vs MEC Study Group (KCC T20 Challengers B League, 2024-25)
+https://dai.fancode.com/primary/115831_english_hls_5742ta-no/index.m3u8
