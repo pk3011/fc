@@ -1,15 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118225_4824_CW_DLR_fc-Web.jpg",Delhi Royals vs Chhattisgarh Warriors (Legend 90, 2025)
+https://dai.fancode.com/primary/118225_english_hls_9751ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)
 https://dai.fancode.com/primary/116935_english_hls_6774ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117819_4805_HUN_AUT_fc-Web.jpg",Hungary vs Austria (ECI Malta, 2025)
-https://dai.fancode.com/primary/117819_english_hls_5879ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",Blue Boys vs Avenida Titans (BOX Office Hundred Ball)
-https://dai.fancode.com/primary/118162_english_hls_6368ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v1.jpg",Day 1 vs Doha GC, Doha, Qatar (Commercial Bank Qatar Masters 2025)
-https://dai.fancode.com/primary/117649_english_hls_5736ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SG-Pipers-Cheetahs-vs-SKE-Panthers_old_Match-card_1738594918051.jpg",Panthers vs Cheetahs (World Padel League - Season 2)
-https://dai.fancode.com/primary/117982_english_hls_5970ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115979_4730_MIE_SWR_fc-web.jpg",MI Emirates vs Sharjah Warriorz (DP World International League T20, 2025)
+https://dai.fancode.com/primary/115983_english_hls_6434ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117820_4805_MAL_AUT_fc-Web.jpg",Malta vs Austria (ECI Malta, 2025)
+https://dai.fancode.com/primary/117820_english_hls_5958ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",Combined Campuses and Colleges vs Guyana Harpy Eagles (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117751_english_hls_6568ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",Hartleys vs NHS (Box Office ASL T20)
+https://dai.fancode.com/primary/118156_english_hls_9392ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118028_4816_MCW_BB_fc-Web_1738579784902.jpg",Mumbai Chhatrapati Warriors vs Bengaluru Blazers (Pro Pickleball League)
 https://dai.fancode.com/primary/118028_english_hls_4625ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118054_4817_JJ_DS_fc-Web.jpg",Jaipur Jawans vs Delhi Snipers (Challenger Pickleball League)
-https://dai.fancode.com/primary/118054_english_hls_8077ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118029_4816_NN_KK_fc-Web_1738579784961.jpg",Nashik Ninjas vs Kolkata Kingz (Pro Pickleball League)
+https://dai.fancode.com/primary/118029_english_hls_6305ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jaguars-vs-Game-Changer-Lion_old-Match-card_1738595237846.jpg",Jaguars vs Lions (World Padel League - Season 2)
+https://dai.fancode.com/primary/117983_english_hls_6361ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118030_4816_GG_HV_fc-Web_1738579785111.jpg",Goa Gladiators vs Hyderabad Vikings (Pro Pickleball League)
+https://dai.fancode.com/primary/118030_english_hls_9350ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed B - Day 1 vs Arizona, United States (WM Phoenix Open)
+https://dai.fancode.com/primary/118130_english_hls_8256ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118056_4817_AO_BB_fc-Web.jpg",Ahmedabad Olympians vs Bengaluru Blazers (Challenger Pickleball League)
+https://dai.fancode.com/primary/118056_english_hls_3081ta-di/index.m3u8
