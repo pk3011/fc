@@ -1,25 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Liverpool_Old.jpg",Liverpool vs Tottenham Hotspur (Carabao Cup 2024-25)
-https://dai.fancode.com/primary/116002_english_hls_6593ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117764_4800_CK_MAL_fc-web.jpg",Malo vs Coimbra Knights (ECSN Portugal, 2025)
-https://dai.fancode.com/primary/117764_english_hls_9912ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valencia-CF-VS-Barcelona_old.jpg",Valencia CF vs Barcelona (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/117370_english_hls_6280ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",Combined Campuses and Colleges vs Guyana Harpy Eagles (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117751_english_hls_6568ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",Barbados Pride vs West Indies Academy (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117752_english_hls_6591ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Salmiya Strikers vs Chennai Kings CA (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115834_english_hls_6890ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed B - Day 1 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118130_english_hls_8256ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed D - Day 1 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118132_english_hls_7399ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed C - Day 1 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118131_english_hls_6456ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118365_CASACARDS_APP.png",Bayern Munich vs LDLC ASVEL Villeurbanne (EuroLeague 2024-25)
-https://dai.fancode.com/primary/118365_english_hls_7249ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed E - Day 1 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118134_english_hls_6223ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed A - Day 1 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118133_english_hls_9443ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109413_4508_VCTW_QLF_fc-web.jpg",Victoria Women vs Queensland Fire (WNCL, 2024-25)
+https://dai.fancode.com/primary/109413_english_hls_6525ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109412_4508_ACTM_WA-W_fc-web.jpg",ACT Meteors vs Western Australia Women (WNCL, 2024-25)
+https://dai.fancode.com/primary/109412_english_hls_9571ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109411_4508_NSWB_SASC_fc-web.jpg",New South Wales Breakers vs South Australian Scorpions (WNCL, 2024-25)
+https://dai.fancode.com/primary/109411_english_hls_3409ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Uganda vs Bahrain (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/118003_english_hls_9065ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg",Tanzania vs Italy (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/118004_english_hls_5912ta-di/index.m3u8
