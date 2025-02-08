@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117496_4787_PRC_VDS_Fc-Web.jpg",Vredenburg/Saldanha CC vs Paarl CC (Boland T20 Super League Finals, 2025)
-https://dai.fancode.com/primary/117496_english_hls_6114ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118069_CASACARDS_APP.png",MEC Study Group vs Kuwait Mavericks (KCC T20 Challengers A League, 2025)
-https://dai.fancode.com/primary/118069_english_hls_5946ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117767_4800_GOR_FIG_fc-web.jpg",Gorkha XI vs Fighters CC (ECSN Portugal, 2025)
-https://dai.fancode.com/primary/117767_english_hls_5339ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",Combined Campuses and Colleges vs Guyana Harpy Eagles (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117751_english_hls_9251ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",Barbados Pride vs West Indies Academy (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117752_english_hls_9433ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117768_4800_GOR_FIG_fc-web.jpg",Fighters CC vs Gorkha XI (ECSN Portugal, 2025)
+https://dai.fancode.com/primary/117768_english_hls_5236ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed B - Day 3 vs Arizona, United States (WM Phoenix Open)
 https://dai.fancode.com/primary/118140_english_hls_5244ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed D - Day 3 vs Arizona, United States (WM Phoenix Open)
@@ -19,3 +11,5 @@ https://dai.fancode.com/primary/118141_english_hls_5437ta-di/index.m3u8
 https://dai.fancode.com/primary/118144_english_hls_9105ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed A - Day 3 vs Arizona, United States (WM Phoenix Open)
 https://dai.fancode.com/primary/118143_english_hls_2995ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118069_CASACARDS_APP.png",MEC Study Group vs Kuwait Mavericks (KCC T20 Challengers A League, 2025)
+https://dai.fancode.com/primary/118069_english_hls_5946ta-no/index.m3u8
