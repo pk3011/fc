@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/117966_CASACARDS_APP.png",Vidarbha vs Chhattisgarh (Rani Suryamukhi Devi T-20 Tournament)
-https://dai.fancode.com/primary/117966_english_hls_4811ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117498_4787_VDS_MAT_Fc-Web.jpg",Maties Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals, 2025)
-https://dai.fancode.com/primary/117498_english_hls_5164ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117769_4800_CK_PNJ_fc-web.jpg",Coimbra Knights vs Punjab CC Amadora (ECSN Portugal, 2025)
-https://dai.fancode.com/primary/117769_english_hls_4968ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/115835_CASACARDS_APP.png",Global Champs vs Team TGS (KCC T20 Challengers B League, 2024-25)
-https://dai.fancode.com/primary/115835_english_hls_4889ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117770_4800_CK_PNJ_fc-web.jpg",Punjab CC Amadora vs Coimbra Knights (ECSN Portugal, 2025)
+https://dai.fancode.com/primary/117770_english_hls_5089ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed B - Day 4 vs Arizona, United States (WM Phoenix Open)
 https://dai.fancode.com/primary/118145_english_hls_8241ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed D - Day 4 vs Arizona, United States (WM Phoenix Open)
@@ -15,7 +9,3 @@ https://dai.fancode.com/primary/118147_english_hls_4988ta-no/index.m3u8
 https://dai.fancode.com/primary/118146_english_hls_9330ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed A - Day 4 vs Arizona, United States (WM Phoenix Open)
 https://dai.fancode.com/primary/118148_english_hls_2134ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed E - Day 4 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118149_english_hls_8471ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg",Desert Vipers vs Dubai Capitals (DP World International League T20, 2025)
-https://dai.fancode.com/primary/115985_english_hls_5696ta-no/index.m3u8
