@@ -1,25 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1739117962~acl=/*~id=40502126049391013571525944470426~hmac=dbd2b222a00d6f406069873c1fb7d23e7f2c1814a616721c826898103aa7db61
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",Tasmania vs Victoria (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110409_english_hls_5499ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",Queensland vs New South Wales (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110410_english_hls_5511ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg",Western Australia vs South Australia (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110411_english_hls_5899ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Bahrain vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)
-https://dai.fancode.com/primary/118006_english_hls_4851ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Singapore vs Italy (ICC CWC Challenge League B, 2024-26)
-https://dai.fancode.com/primary/118005_english_hls_8541ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",Manohar Mavericks vs Punjab Panthers (Chandigarh T20)
-https://dai.fancode.com/primary/118100_english_hls_5771ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117989_4815_JPS_US_fc-Web.jpg",JP Sports vs Union Sporting (Tillo Cup, 2025)
-https://dai.fancode.com/primary/117989_english_hls_5452ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Bud Cricket Club vs Nabajyoti Club (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117454_english_hls_5447ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Bandaghat 11 vs Thrilling (BOX Office White Ball T20)
-https://dai.fancode.com/primary/118548_english_hls_7436ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110997_4567_MAC_WST_fc-web_1728983128657.jpg",Macarthur vs Western United (A League 2024-25)
-https://dai.fancode.com/primary/110997_english_hls_4914ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Global-Sports-Pickleball-Indian-Open-old_1738949933129.jpg",Indian Open 2025 vs Mix Doubles Pro Final (Indian Open 2025)
-https://dai.fancode.com/primary/118188_english_hls_8565ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)
+https://dai.fancode.com/primary/116935_english_hls_5703ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",City Challengers vs Talanoa Tigers (Chandigarh T20)
+https://dai.fancode.com/primary/118101_english_hls_4829ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117990_4815_CB_LGT_fc-Web.jpg",Canara Bank vs Lightning Legends (Tillo Cup, 2025)
+https://dai.fancode.com/primary/117990_english_hls_5253ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",Sloba vs St Thomas Church (Box Office ASL T20)
+https://dai.fancode.com/primary/118549_english_hls_8447ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Global-Sports-Pickleball-Indian-Open-old_1738949933129.jpg",Indian Open 2025 vs Women Doubles Pro Final (Indian Open 2025)
+https://dai.fancode.com/primary/118189_english_hls_8327ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118371_CASACARDS_APP.png",Chennai Cool Cats vs Bengaluru Blazers (Challenger Pickleball League)
+https://dai.fancode.com/primary/118371_english_hls_2414ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v2.jpg",Day 4 vs Doha GC, Doha, Qatar (Commercial Bank Qatar Masters 2025)
+https://dai.fancode.com/primary/117657_english_hls_5493ta-di/index.m3u8
