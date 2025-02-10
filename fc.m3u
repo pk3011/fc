@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg",South Africa vs New Zealand (New Zealand and South Africa tour of Pakistan 2025)
-https://dai.fancode.com/primary/117417_english_hls_4964ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118232_4824_CW_BBY_fc-Web.jpg",Chhattisgarh Warriors vs Big Boys (Legend 90, 2025)
-https://dai.fancode.com/primary/118232_english_hls_5418ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117457_CASACARDS_APP.png",BDMTCC vs New Star Club (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117457_english_hls_5065ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117967_4813_VID_ODS_fc-web.jpg",Vidarbha vs Odisha (Rani Suryamukhi Devi T-20 Tournament)
-https://dai.fancode.com/primary/117967_english_hls_4955ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118257_4825_PWH_MTD_fc-web.jpg",Mater Dei vs Power Hitters (ECS Malta, 2025)
-https://dai.fancode.com/primary/118257_english_hls_4799ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-50_1738836614491.jpg",Namibia vs Oman (ICC CWC League 2, 2023-27)
-https://dai.fancode.com/primary/118176_english_hls_5386ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118233_4824_RK_GJS_fc-Web.jpg",Rajasthan Kings vs Gujarat Samp Army (Legend 90, 2025)
+https://dai.fancode.com/primary/118233_english_hls_5314ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118258_4825_PWH_MTD_fc-web.jpg",Mater Dei vs Power Hitters (ECS Malta, 2025)
+https://dai.fancode.com/primary/118258_english_hls_4602ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117968_4813_MAH_CHA_fc-web.jpg",Maharashtra vs Chhattisgarh (Rani Suryamukhi Devi T-20 Tournament)
+https://dai.fancode.com/primary/117968_english_hls_5514ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",The Spartan Squad vs Madora (BOX Office White Ball T20)
+https://dai.fancode.com/primary/118783_english_hls_5685ta-di/index.m3u8
