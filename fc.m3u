@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117770_4800_CK_PNJ_fc-web.jpg",Punjab CC Amadora vs Coimbra Knights (ECSN Portugal, 2025)
-https://dai.fancode.com/primary/117770_english_hls_5089ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed B - Day 4 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118145_english_hls_8241ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed D - Day 4 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118147_english_hls_4988ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed C - Day 4 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118146_english_hls_9330ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",Feed A - Day 4 vs Arizona, United States (WM Phoenix Open)
-https://dai.fancode.com/primary/118148_english_hls_2134ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",Tasmania vs Victoria (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110409_english_hls_4988ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",Queensland vs New South Wales (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110410_english_hls_4920ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118007_CASACARDS_APP.png",Tanzania vs Bahrain (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/118007_english_hls_8158ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118008_CASACARDS_APP.png",Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)
+https://dai.fancode.com/primary/118008_english_hls_4646ta-di/index.m3u8
