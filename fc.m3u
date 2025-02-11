@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",City Challengers vs Wild Woods Warriors (Chandigarh T20)
-https://dai.fancode.com/primary/118105_english_hls_5044ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117994_4815_INO_SPC_fc-Web.jpg",Sapience vs Indian Oil (Tillo Cup, 2025)
-https://dai.fancode.com/primary/117994_english_hls_5755ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118259_4825_HST_AUM_fc-web.jpg",Hamrun Stallions vs American University of Malta (ECS Malta, 2025)
-https://dai.fancode.com/primary/118259_english_hls_5400ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108705_4475_CCM_JDT_fc-web.jpg",Central Coast Mariners vs Johor Darul Ta'zim (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108705_english_hls_5532ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118234_CASACARDS_APP.png",Punjabi Sher vs Dubai Giants (Legend 90, 2025)
+https://dai.fancode.com/primary/118234_english_hls_5648ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117459_CASACARDS_APP.png",Bud Cricket Club vs Nabajyoti Club (Guwahati Premier League, 2025)
+https://dai.fancode.com/primary/117459_english_hls_5415ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg",Rajnandgaon vs Jharkhand (Rani Suryamukhi Devi T-20 Tournament)
+https://dai.fancode.com/primary/117969_english_hls_5817ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118261_4825_GZU_VLS_fc-web.jpg",Victoria Lions vs Gzira United (ECS Malta, 2025)
+https://dai.fancode.com/primary/118261_english_hls_5628ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108708_4475_SHD_GWN_fc-web.jpg",Shandong Taishan vs Gwangju (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/108708_english_hls_5351ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",Phonex vs Newtown United (BOX Office Hundred Ball)
+https://dai.fancode.com/primary/118886_english_hls_5483ta-di/index.m3u8
