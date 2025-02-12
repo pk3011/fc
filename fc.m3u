@@ -1,23 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_3_1739082781929.jpg",South Africa vs Pakistan (New Zealand and South Africa tour of Pakistan 2025)
 https://dai.fancode.com/primary/117418_english_hls_6214ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118236_4824_RK_BBY_fc-Web.jpg",Rajasthan Kings vs Big Boys (Legend 90, 2025)
-https://dai.fancode.com/primary/118236_english_hls_6557ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117461_CASACARDS_APP.png",91 Yards Club vs Guwahati Giants (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117461_english_hls_6161ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117971_4813_UT_JHA_fc-web.jpg",Jharkhand vs Uttarakhand (Rani Suryamukhi Devi T-20 Tournament)
-https://dai.fancode.com/primary/117971_english_hls_5890ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118237_4824_HYG_CW_fc-Web_1739344679864.jpg",Punjabi Sher vs Chhattisgarh Warriors (Legend 90, 2025)
+https://dai.fancode.com/primary/118237_english_hls_5538ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117481_4787_PRC_MAT_Fc-Web_1739361650334.jpg",Paarl CC vs Maties Cricket Club (Boland T20 Super League Finals, 2025)
 https://dai.fancode.com/primary/117501_english_hls_8784ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118265_4825_SWU_RS_fc-web.jpg",Swieqi United vs Red Stars (ECS Malta, 2025)
-https://dai.fancode.com/primary/118265_english_hls_5639ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/108710_4475_BU_ULS_fc-web.jpg",Buriram United vs Ulsan HD (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/108710_english_hls_5732ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118266_4825_SWU_RS_fc-web.jpg",Red Stars vs Swieqi United (ECS Malta, 2025)
+https://dai.fancode.com/primary/118266_english_hls_5751ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117972_4813_RAJ_RJS_fc-web.jpg",Rajnandgaon vs Rajasthan (Rani Suryamukhi Devi T-20 Tournament)
+https://dai.fancode.com/primary/117972_english_hls_5649ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",Phonex vs Alviva Sporting Club (BOX Office T20 Test Pink Ball)
 https://dai.fancode.com/primary/118957_english_hls_9027ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118816_4882_CHN_QAT_fc-Web.jpg",China PR vs Qatar (AFC U20 Asian Cup China, 2025)
-https://dai.fancode.com/primary/118816_english_hls_5753ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117661_CASACARDS_APP.png",Nam Dinh vs Sanfrecce Hiroshima (AFC Champions League Two 2024-25)
-https://dai.fancode.com/primary/117661_english_hls_2746ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-51_1738836614436.jpg",USA vs Oman (ICC CWC League 2, 2023-27)
-https://dai.fancode.com/primary/118177_english_hls_5943ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117662_CASACARDS_APP.png",Al Wehdat vs Shabab Al Ahli (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/117662_english_hls_5720ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117754_4799_BAR_JAM_fc-Web_1738071641376.jpg",Barbados Pride vs Jamaica Scorpions (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117754_english_hls_8843ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",Hartleys vs Don Bosco (Box Office ASL T20)
+https://dai.fancode.com/primary/118956_english_hls_8898ta-no/index.m3u8
