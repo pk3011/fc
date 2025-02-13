@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109152_4492_QUN_NSW_fc-web.jpg",Queensland vs New South Wales (One Day Cup, 2024-25)
-https://dai.fancode.com/primary/109152_english_hls_5524ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109153_4492_WAU_SAU_fc-web.jpg",South Australia vs Western Australia (One Day Cup, 2024-25)
-https://dai.fancode.com/primary/109153_english_hls_5797ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109154_4492_TAS_VCT_fc-web.jpg",Victoria vs Tasmania (One Day Cup, 2024-25)
 https://dai.fancode.com/primary/109154_english_hls_5410ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118012_4607_HK_UGA_fc-web.jpg",Uganda vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)
-https://dai.fancode.com/primary/118012_english_hls_5699ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117997_4815_SPC_WC_fc-Web.jpg",Sapience vs Wonder Cement (Tillo Cup, 2025)
-https://dai.fancode.com/primary/117997_english_hls_5989ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117462_CASACARDS_APP.png",Bud Cricket Club vs New Star Club (Guwahati Premier League, 2025)
-https://dai.fancode.com/primary/117462_english_hls_6377ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",Hiims Hawks vs Wild Woods Warriors (Chandigarh T20)
-https://dai.fancode.com/primary/118108_english_hls_8645ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",Manohar Mavericks vs Talanoa Tigers (Chandigarh T20)
+https://dai.fancode.com/primary/118109_english_hls_5876ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117998_4815_INO_SPJ_fc-Web.jpg",Indian Oil vs SPJ Cargo (Tillo Cup, 2025)
+https://dai.fancode.com/primary/117998_english_hls_6134ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118267_4825_SOC_GZU_fc-web.jpg",Southern Crusaders vs Gzira United (ECS Malta, 2025)
+https://dai.fancode.com/primary/118267_english_hls_5491ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117463_CASACARDS_APP.png",Guwahati Giants vs Bokakhat Town Cricket Club (Guwahati Premier League, 2025)
+https://dai.fancode.com/primary/117463_english_hls_5887ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg",Uzbekistan U20 vs Yemen U20 (AFC U20 Asian Cup China, 2025)
+https://dai.fancode.com/primary/118818_english_hls_6657ta-no/index.m3u8
