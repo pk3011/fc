@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118235_4824_DLR_GJS_fc-Web.jpg",Delhi Royals vs Gujarat Samp Army (Legend 90, 2025)
-https://dai.fancode.com/primary/119376_english_hls_5044ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118277_4825_GZU_AUM_fc-web.jpg",Gzira United vs American University of Malta (ECS Malta, 2025)
-https://dai.fancode.com/primary/118277_english_hls_4953ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg",Rajasthan Kings vs Chhattisgarh Warriors (Legend 90, 2025)
+https://dai.fancode.com/primary/119377_english_hls_5137ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118939_4891_BD_JCA_fc-web.jpg",Bin Dilmah vs JCA (Saudi Foundation T20 Cup, 2025)
 https://dai.fancode.com/primary/118939_english_hls_8210ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Preston-North-End-VS-Burnley_fc-web.jpg",Preston North End vs Burnley (EFL Championship 2024-25)
-https://dai.fancode.com/primary/116562_english_hls_4761ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",ER Tigers vs Kolkata Incredibles (BOX Office White Ball T20)
-https://dai.fancode.com/primary/119424_english_hls_5300ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118824_4882_KYG_CHN_fc-Web.jpg",Kyrgyz Republic U20 vs China PR U20 (AFC U20 Asian Cup China, 2025)
-https://dai.fancode.com/primary/118824_english_hls_5062ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TNPL_Auction_match-card.jpg",TNPL Auction vs KMK Lobby, M A Chidambaram Stadium (TNPL Auction 2025)
-https://dai.fancode.com/primary/119210_english_hls_8732ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Series-Presented-by-PIF-Riyadh_old_v1.jpg",Day 3 vs Riyadh Golf Club (Aramco Series Presented by PIF – Riyadh)
-https://dai.fancode.com/primary/118865_english_hls_5085ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118278_4825_GZU_AUM_fc-web.jpg",Gzira United vs American University of Malta (ECS Malta, 2025)
+https://dai.fancode.com/primary/118278_english_hls_5245ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/117964_CASACARDS_APP.png",Odisha vs Chhattisgarh (Rani Suryamukhi Devi T-20 Tournament)
+https://dai.fancode.com/primary/117977_english_hls_8100ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Millwall-VS-West-Bromwich-Albion_fc-web.jpg",Millwall vs West Bromwich Albion (EFL Championship 2024-25)
+https://dai.fancode.com/primary/116561_english_hls_4902ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Phoenix vs Bandhaghat 11 (BOX Office White Ball T20)
+https://dai.fancode.com/primary/119425_english_hls_5405ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",Feed B - Day 3 vs Pacific Palisades, CA (The Genesis Inivitational Pacific Palisades, CA)
+https://dai.fancode.com/primary/118887_english_hls_2005ta-no/index.m3u8
