@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)
 https://dai.fancode.com/primary/116937_english_hls_4892ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118281_4825_EDK_RS_fc-web.jpg",Edex Knights vs Red Stars (ECS Malta, 2025)
-https://dai.fancode.com/primary/118281_english_hls_4802ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118228_4824_DLR_RK_fc-Web.jpg",Delhi Royals vs Rajasthan Kings (Legend 90, 2025)
+https://dai.fancode.com/primary/119414_english_hls_4880ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118944_4891_FIR_JCA_fc-web.jpg",JCA vs Fireox (Saudi Foundation T20 Cup, 2025)
 https://dai.fancode.com/primary/118944_english_hls_4695ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118828_4882_KSA_IRQ_fc-Web.jpg",Saudi Arabia U20 vs Iraq U20 (AFC U20 Asian Cup China, 2025)
-https://dai.fancode.com/primary/118828_english_hls_5332ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118827_4882_INA_UZB_fc-Web.jpg",Indonesia U20 vs Uzbekistan U20 (AFC U20 Asian Cup China, 2025)
-https://dai.fancode.com/primary/118827_english_hls_8048ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118282_4825_EDK_RS_fc-web.jpg",Red Stars vs Edex Knights (ECS Malta, 2025)
+https://dai.fancode.com/primary/118282_english_hls_4658ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",Feed B - Day 4 vs Pacific Palisades, CA (The Genesis Inivitational Pacific Palisades, CA)
+https://dai.fancode.com/primary/118893_english_hls_4680ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",Feed E - Day 4 vs Pacific Palisades, CA (The Genesis Inivitational Pacific Palisades, CA)
+https://dai.fancode.com/primary/118896_english_hls_4813ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",Feed C - Day 4 vs Pacific Palisades, CA (The Genesis Inivitational Pacific Palisades, CA)
+https://dai.fancode.com/primary/118895_english_hls_8306ta-di/index.m3u8
