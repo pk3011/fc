@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",Hiims Hawks vs Talanoa Tigers (Chandigarh T20)
-https://dai.fancode.com/primary/118116_english_hls_5254ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119467_CASACARDS_APP.png",Duhabi Capitals vs Itahari Adarsha Giants (Koshi Premier League, 2025)
+https://dai.fancode.com/primary/119467_english_hls_5008ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",City Challengers vs Wild Woods Warriors (Chandigarh T20)
+https://dai.fancode.com/primary/118117_english_hls_5129ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118283_4825_RS_MTD_fc-web.jpg",Red Stars vs Mater Dei (ECS Malta, 2025)
+https://dai.fancode.com/primary/118283_english_hls_5293ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118830_4882_THA_KOR_fc-Web.jpg",Thailand U20 vs Korea Republic U20 (AFC U20 Asian Cup China, 2025)
+https://dai.fancode.com/primary/118830_english_hls_5179ta-di/index.m3u8
