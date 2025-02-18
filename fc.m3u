@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117786_4800_LCA_MAL_fc-web.jpg",Lisbon Capitals vs Malo (ECSN Portugal, 2025)
-https://dai.fancode.com/primary/117786_english_hls_8461ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Leeds-United-VS-Sunderland_fc-web.jpg",Leeds United vs Sunderland (EFL Championship 2024-25)
-https://dai.fancode.com/primary/116560_english_hls_5275ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",New South Wales vs Victoria (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110412_english_hls_5350ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg",Queensland vs Western Australia (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110413_english_hls_4692ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110419_english_hls_8649ta-no/index.m3u8
