@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",New South Wales vs Victoria (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110412_english_hls_5350ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg",Queensland vs Western Australia (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110413_english_hls_4692ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110419_english_hls_8649ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",Hiims Hawks vs Manohar Mavericks (Chandigarh T20)
-https://dai.fancode.com/primary/118118_english_hls_5063ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119468_4966_NMB_BNA_fc-web.jpg",Namuna Blasters vs Bhokraha Narsing Arnas (Koshi Premier League, 2025)
-https://dai.fancode.com/primary/119468_english_hls_4747ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)
+https://dai.fancode.com/primary/116938_english_hls_5267ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",Punjab Panthers vs City Challengers (Chandigarh T20)
+https://dai.fancode.com/primary/118119_english_hls_5174ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119469_4966_BBS_NBS_fc-web.jpg",NBSC Lions vs Balan Bihul Saptari Tiger (Koshi Premier League, 2025)
+https://dai.fancode.com/primary/119469_english_hls_5257ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",Hamrun Stallions vs Edex Knights (ECS Malta, 2025)
+https://dai.fancode.com/primary/118287_english_hls_5822ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-54_1738836614433.jpg",USA vs Oman (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/118180_english_hls_5162ta-di/index.m3u8
