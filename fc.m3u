@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_match-card.jpg",Colorado Rapids vs Los Angeles Football Club (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119350_english_hls_8048ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",New South Wales vs Victoria (Sheffield Shield, 2024-25)
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg",Queensland vs Western Australia (Sheffield Shield, 2024-25)
@@ -9,3 +11,9 @@ None
 https://dai.fancode.com/primary/109417_english_hls_5621ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109418_4508_TASW_VCTW_fc-web.jpg",Tasmania Women vs Victoria Women (WNCL, 2024-25)
 https://dai.fancode.com/primary/109418_english_hls_5426ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109419_4508_WA-W_SASC_fc-web.jpg",South Australian Scorpions vs Western Australia Women (WNCL, 2024-25)
+https://dai.fancode.com/primary/109419_english_hls_5606ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",Talanoa Tigers vs Manohar Mavericks (Chandigarh T20)
+https://dai.fancode.com/primary/118120_english_hls_5269ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119470_4966_PSK_IAG_fc-web.jpg",Purbali Super Kings vs Itahari Adarsha Giants (Koshi Premier League, 2025)
+https://dai.fancode.com/primary/119470_english_hls_5061ta-di/index.m3u8
