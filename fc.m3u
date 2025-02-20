@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Sporting_KC_vs_Inter_Miami_Old-match-cad-2.jpg",Sporting Kansas City vs Inter Miami CF (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119349_english_hls_8283ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",New South Wales vs Victoria (Sheffield Shield, 2024-25)
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg",Queensland vs Western Australia (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Herediano_vs_Real-Salt_Old_match-card.jpg",Herediano vs Real Salt Lake (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119702_english_hls_4627ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Antigua_vs_Seattle_Old_match-card.jpg",Antigua vs Seattle Sounders FC (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119351_english_hls_4941ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",Hiims Hawks vs Wild Woods Warriors (Chandigarh T20)
+https://dai.fancode.com/primary/118122_english_hls_5358ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Motagua_vs_Cincinnati_Old_match-card.jpg",Motagua vs FC Cincinnati (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119356_english_hls_8956ta-di/index.m3u8
