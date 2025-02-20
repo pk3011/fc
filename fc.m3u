@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",ACE KRM Panthers vs Team TGS (KCC T20 Challengers A League, 2025)
-https://dai.fancode.com/primary/118081_english_hls_5298ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118949_4891_CLO_JCA_fc-web.jpg",JCA vs Cloud 7 (Saudi Foundation T20 Cup, 2025)
-https://dai.fancode.com/primary/118949_english_hls_5614ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119497_4967_TEP_ASX_fc-web_1740043669192.jpg",Asian XI vs European XI (Weston Shield, Feb 2025)
-https://dai.fancode.com/primary/119497_english_hls_5728ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v1.jpg",Lexington Shotguns vs Altrad (Abu Dhabi Ramadan Rumble, 2025)
-https://dai.fancode.com/primary/119869_english_hls_9031ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Magical-Kenya-Open_old_v1.jpg",Day 1 vs Muthaiga GC, Nairobi (Magical Kenya Open)
-https://dai.fancode.com/primary/119859_english_hls_2030ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",Lexus vs Kuwait Mavericks (KCC T20 Challengers A League, 2025)
+https://dai.fancode.com/primary/118082_english_hls_5344ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed B - Day 1 vs VidantaWorld, Mexico (Mexico Open)
 https://dai.fancode.com/primary/119843_english_hls_8959ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed D - Day 1 vs VidantaWorld, Mexico (Mexico Open)
 https://dai.fancode.com/primary/119845_english_hls_5732ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed C - Day 1 vs VidantaWorld, Mexico (Mexico Open)
 https://dai.fancode.com/primary/119844_english_hls_5216ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed A - Day 1 vs VidantaWorld, Mexico (Mexico Open)
+https://dai.fancode.com/primary/119863_english_hls_5457ta-no/index.m3u8
