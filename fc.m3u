@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",Lexus vs Kuwait Mavericks (KCC T20 Challengers A League, 2025)
-https://dai.fancode.com/primary/118082_english_hls_5344ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed B - Day 1 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119843_english_hls_8959ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed D - Day 1 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119845_english_hls_5732ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed C - Day 1 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119844_english_hls_5216ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed A - Day 1 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119863_english_hls_5457ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",South Australia vs Tasmania (Sheffield Shield, 2024-25)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109420_4508_NSWB_ACTM_fc-web.jpg",ACT Meteors vs New South Wales Breakers (WNCL, 2024-25)
+https://dai.fancode.com/primary/109420_english_hls_5481ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Saprissa_vs_Whitecaps_FC_Old_match-card.jpg",Saprissa vs Vancouver Whitecaps FC (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119357_english_hls_5025ta-no/index.m3u8
