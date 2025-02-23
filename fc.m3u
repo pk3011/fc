@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed B - Day 3 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119851_english_hls_8329ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed D - Day 3 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119853_english_hls_4521ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed C - Day 3 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119852_english_hls_4930ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed A - Day 3 vs VidantaWorld, Mexico (Mexico Open)
-https://dai.fancode.com/primary/119865_english_hls_8212ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118955_CASACARDS_APP.png",Kanoo Strikers vs Cloud 7 (Saudi Foundation T20 Cup, 2025)
-https://dai.fancode.com/primary/118955_english_hls_4630ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109155_4492_NSW_VCT_fc-web.jpg",New South Wales vs Victoria (One Day Cup, 2024-25)
+https://dai.fancode.com/primary/109155_english_hls_4416ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109157_4492_QUN_WAU_fc-web.jpg",Queensland vs Western Australia (One Day Cup, 2024-25)
+https://dai.fancode.com/primary/109157_english_hls_4127ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109156_4492_SAU_TAS_fc-web.jpg",South Australia vs Tasmania (One Day Cup, 2024-25)
+https://dai.fancode.com/primary/109156_english_hls_4300ta-di/index.m3u8
