@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109155_4492_NSW_VCT_fc-web.jpg",New South Wales vs Victoria (One Day Cup, 2024-25)
-https://dai.fancode.com/primary/109155_english_hls_4416ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109157_4492_QUN_WAU_fc-web.jpg",Queensland vs Western Australia (One Day Cup, 2024-25)
-https://dai.fancode.com/primary/109157_english_hls_4127ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109156_4492_SAU_TAS_fc-web.jpg",South Australia vs Tasmania (One Day Cup, 2024-25)
 https://dai.fancode.com/primary/109156_english_hls_4300ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/118128_CASACARDS_APP.png",Hiims Hawks vs Wild Woods Warriors (Chandigarh T20)
 https://dai.fancode.com/primary/118128_english_hls_4783ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117870_4795_HIR_YKFM_fc-web.jpg",Sanfrecce Hiroshima vs Yokohama F. Marinos (J League 2025)
+https://dai.fancode.com/primary/117870_english_hls_4832ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v2.jpg",ALS Superstars vs Etihad Shaheen (Abu Dhabi Ramadan Rumble, 2025)
+https://dai.fancode.com/primary/119874_english_hls_7979ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111008_4567_WST_ADL_fc-web_1728983128570.jpg",Western United vs Adelaide United (A League 2024-25)
+https://dai.fancode.com/primary/111008_english_hls_5227ta-di/index.m3u8
