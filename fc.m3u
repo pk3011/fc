@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-T20_old.jpg",Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)
-https://dai.fancode.com/primary/116940_english_hls_4837ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119510_4967_TEP_ASX_fc-web_1740043669310.jpg",Asian XI vs European XI (Weston Shield, Feb 2025)
-https://dai.fancode.com/primary/119510_english_hls_4340ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v2.jpg",Wisdom Medical vs Volcano Sports Academy (Abu Dhabi Ramadan Rumble, 2025)
-https://dai.fancode.com/primary/119876_english_hls_4553ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119488_4967_TEP_BIK_fc-web_1740043668956.jpg",British and Irish XI vs European XI (Weston Shield, Feb 2025)
+https://dai.fancode.com/primary/119512_english_hls_3912ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",MEC Study Group vs Team TGS (KCC T20 Challengers A League, 2025)
+https://dai.fancode.com/primary/118088_english_hls_4121ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v1.jpg",Seven Districts vs Karwan Cricket Club (Abu Dhabi Ramadan Rumble, 2025)
+https://dai.fancode.com/primary/119877_english_hls_4046ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed C - Day 4 vs VidantaWorld, Mexico (Mexico Open)
+https://dai.fancode.com/primary/119856_english_hls_4923ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed B - Day 4 vs VidantaWorld, Mexico (Mexico Open)
+https://dai.fancode.com/primary/119855_english_hls_7903ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed D - Day 4 vs VidantaWorld, Mexico (Mexico Open)
+https://dai.fancode.com/primary/119857_english_hls_4163ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",Feed A - Day 4 vs VidantaWorld, Mexico (Mexico Open)
+https://dai.fancode.com/primary/119866_english_hls_4600ta-di/index.m3u8
