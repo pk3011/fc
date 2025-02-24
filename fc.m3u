@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119935_4977_JAM-W_TT-W_fc-web.jpg",Jamaica Women vs Trinidad and Tobago Women (CG United Women's Super50 Cup, 2025)
 https://dai.fancode.com/primary/119935_english_hls_8006ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119934_4977_BAR-W_GY-W_fc-web.jpg",Barbados Women vs Guyana Women (CG United Women's Super50 Cup, 2025)
-https://dai.fancode.com/primary/119934_english_hls_1901ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",ACE KRM Panthers vs Lexus (KCC T20 Challengers A League, 2025)
-https://dai.fancode.com/primary/118089_english_hls_5096ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",ACC Bucharest vs Peel & St Johns (European Cricket League, 2025)
-https://dai.fancode.com/primary/119724_english_hls_4769ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v2.jpg",Altrad vs Karwan Cricket Club (Abu Dhabi Ramadan Rumble, 2025)
-https://dai.fancode.com/primary/119878_english_hls_8174ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-vs-Leeds-United_fc_web.jpg",Sheffield United vs Leeds United (EFL Championship 2024-25)
+https://dai.fancode.com/primary/116566_english_hls_4866ta-di/index.m3u8
