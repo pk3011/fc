@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-T20_old.jpg",Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)
-https://dai.fancode.com/primary/116941_english_hls_5663ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",Team TGS vs SBS CC (KCC T20 Challengers A League, 2025)
-https://dai.fancode.com/primary/118090_english_hls_8515ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",Darmstadt CC vs Stari Grad (European Cricket League, 2025)
-https://dai.fancode.com/primary/119729_english_hls_5292ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v1.jpg",Abu Dhabi Smashers vs ALS Superstars (Abu Dhabi Ramadan Rumble, 2025)
-https://dai.fancode.com/primary/119879_english_hls_8424ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-VS-Madrid_old.jpg",Barcelona vs Atlético de Madrid (Copa del Rey 2024-25)
+https://dai.fancode.com/primary/119314_english_hls_5523ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",MEC Study Group vs Strikers Afghan (KCC T20 Challengers A League, 2025)
+https://dai.fancode.com/primary/118091_english_hls_8200ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arminia-Bielefeld-vs-SV-Werder-Bremen-old.jpg",Arminia Bielefeld vs SV Werder Bremen (DFB Pokal)
+https://dai.fancode.com/primary/116537_english_hls_5186ta-di/index.m3u8
