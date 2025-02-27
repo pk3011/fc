@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",Tuskers XI vs Lions XI (Pondicherry T20, 2025)
-https://dai.fancode.com/primary/119994_english_hls_5356ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Women's-World-Championship---old-match-card.jpg",Day 1 vs Sentosa Golf Club (HSBC Women's World Championship)
-https://dai.fancode.com/primary/120143_english_hls_8921ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Racing_Old_match-card_1740487406816.jpg",Day 2 - AM vs Bahrain International Circuit (F1 Aramco Pre-Season Testing)
+https://dai.fancode.com/primary/119208_english_hls_5410ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v2.jpg",Sharks XI vs Tigers XI (Pondicherry T20, 2025)
+https://dai.fancode.com/primary/119995_english_hls_6308ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",Northern CC vs Austrian Cricket Tigers (European Cricket League, 2025)
+https://dai.fancode.com/primary/119734_english_hls_5759ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",Day 3 vs Somaiya Cricket Ground, Sion (Lakshya)
 https://dai.fancode.com/primary/120100_english_hls_5756ta-no/index.m3u8
