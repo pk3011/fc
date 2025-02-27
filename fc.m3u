@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-VS-Real-Madrid-old.jpg",Real Sociedad vs Real Madrid (Copa del Rey 2024-25)
-https://dai.fancode.com/primary/119315_english_hls_5467ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RB-Leipzig-vs-VfL-Wolfsburg-old.jpg",RB Leipzig vs VfL Wolfsburg (DFB Pokal)
-https://dai.fancode.com/primary/116536_english_hls_6184ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119938_4977_TT-W_LWI-W_fc-web.jpg",Leeward Islands Women vs Trinidad and Tobago Women (CG United Women's Super50 Cup, 2025)
-https://dai.fancode.com/primary/119938_english_hls_8366ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-Peterborough-United_old.jpg",Wrexham vs Peterborough United (EFL Vertu Trophy)
-https://dai.fancode.com/primary/119344_english_hls_5266ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Real-Salt_vs_Herediano_Old_match-card.jpg",Real Salt Lake vs Herediano (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119701_english_hls_6132ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_FC_Cincinnati_vs_Motagua_Old_match-card.jpg",FC Cincinnati vs Motagua (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119700_english_hls_5550ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Women's-World-Championship---old-match-card.jpg",Day 1 vs Sentosa Golf Club (HSBC Women's World Championship)
+https://dai.fancode.com/primary/120143_english_hls_8921ta-no/index.m3u8
