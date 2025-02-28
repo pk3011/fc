@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Vancouver_vs_Saprissa_Old_match-card.jpg",Vancouver Whitecaps FC vs Saprissa (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119698_english_hls_8863ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Women's-World-Championship---old-match-card.jpg",Day 2 vs Sentosa Golf Club (HSBC Women's World Championship)
 https://dai.fancode.com/primary/120144_english_hls_5705ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto2-thailand-old_1740712116984.jpg",Free Practice 1 vs Chang International Circuit (Moto2 Thailand)
+https://dai.fancode.com/primary/118610_english_hls_5520ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",Day 4 vs Somaiya Cricket Ground, Sion (Lakshya)
+https://dai.fancode.com/primary/120101_english_hls_2692ta-di/index.m3u8
