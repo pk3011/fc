@@ -1,9 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",South Australia vs Victoria (One Day Cup, 2024-25)
 https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hallyburton-Johnstone-Final_2025_Old_match-card.jpg",Auckland Hearts vs Otago Sparks (Hallyburton Johnstone Shield, 2024-25)
-https://dai.fancode.com/primary/112881_english_hls_5519ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",Lions XI vs Tigers XI (Pondicherry T20, 2025)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117874_4795_ANL_TKY_fc-web.jpg",Kashima Antlers vs FC Tokyo (J League 2025)
+https://dai.fancode.com/primary/117874_english_hls_5710ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117877_4795_VIS_FKK_fc-web.jpg",Vissel Kobe vs Avispa Fukuoka (J League 2025)
+https://dai.fancode.com/primary/117877_english_hls_2508ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111012_4567_BRB_MLV_fc-web_1728983128728.jpg",Brisbane Roar vs Melbourne Victory (A League 2024-25)
+https://dai.fancode.com/primary/111012_english_hls_8837ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Women's-World-Championship---old-match-card.jpg",Day 3 vs Sentosa Golf Club (HSBC Women's World Championship)
 https://dai.fancode.com/primary/120145_english_hls_8895ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-thailand-old-match-card-New_1740761448260.png",Free Practice 2 vs Chang International Circuit (PT GRAND PRIX OF THAILAND)
-https://dai.fancode.com/primary/117893_english_hls_4960ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_3_Old_match-card.jpg",Qualifying vs Chang International Circuit (Moto3 Thailand)
+https://dai.fancode.com/primary/118618_english_hls_5195ta-di/index.m3u8
