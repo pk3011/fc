@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",Austrian Cricket Tigers vs Northern CC (European Cricket League, 2025)
-https://dai.fancode.com/primary/119746_english_hls_4991ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Derby-County_fc_web.jpg",Middlesbrough vs Derby County (EFL Championship 2024-25)
-https://dai.fancode.com/primary/119966_english_hls_8495ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Open-Championship_old.jpg",Day 3 vs Durban CC, Durban (Investec South African Open Championship)
-https://dai.fancode.com/primary/120149_english_hls_5296ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120362_4996_KS_ALH_fc-web.jpg",Kuwait Swedish vs Al Hajery Team XI (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120362_english_hls_5367ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",Northern CC vs Hornchurch (European Cricket League, 2025)
+https://dai.fancode.com/primary/119747_english_hls_4976ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v1.jpg",Seven Districts vs Altrad (Abu Dhabi Ramadan Rumble, 2025)
+https://dai.fancode.com/primary/119883_english_hls_4698ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-classic-in-the-palm-beaches-old.jpg",Main Feed - Day 3 vs Palm Beach Garden (Cognizant Classic in The Palm Beaches)
 https://dai.fancode.com/primary/119907_english_hls_4627ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-classic-in-the-palm-beaches-old.jpg",Featured Group - Day 3 vs Palm Beach Garden (Cognizant Classic in The Palm Beaches)
@@ -13,3 +13,5 @@ https://dai.fancode.com/primary/119909_english_hls_4480ta-no/index.m3u8
 https://dai.fancode.com/primary/119908_english_hls_8560ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-classic-in-the-palm-beaches-old.jpg",Featured Holes - Day 3 vs Palm Beach Garden (Cognizant Classic in The Palm Beaches)
 https://dai.fancode.com/primary/119910_english_hls_5201ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-classic-in-the-palm-beaches-old.jpg",World Feed - Day 3 vs Palm Beach Garden (Cognizant Classic in The Palm Beaches)
+https://dai.fancode.com/primary/119906_english_hls_8169ta-di/index.m3u8
