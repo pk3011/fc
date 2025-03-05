@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120490_5006_LIO_TIG_fc-Web.jpg",KCA Lions vs KCA Tigers (KCA TCM Presidents Cup T20, 2025)
-https://dai.fancode.com/primary/120490_english_hls_8765ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",Tuskers XI vs Lions XI (Pondicherry T20, 2025)
+https://dai.fancode.com/primary/120005_english_hls_5440ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120491_5006_ROY_PAN_fc-Web.jpg",KCA Royals vs KCA Panthers (KCA TCM Presidents Cup T20, 2025)
+https://dai.fancode.com/primary/120491_english_hls_8697ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",Brno vs Zurich Nomads (European Cricket League, 2025)
+https://dai.fancode.com/primary/119762_english_hls_5645ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Netherlands-VS-Canada_OLD.jpg",Canada vs Netherlands (ICC CWC League 2, 2023-27)
+https://dai.fancode.com/primary/120401_english_hls_5690ta-di/index.m3u8
