@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
-https://dai.fancode.com/primary/110416_english_hls_8766ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120493_5006_PAN_EAG_fc-Web.jpg",KCA Eagles vs KCA Panthers (KCA TCM Presidents Cup T20, 2025)
-https://dai.fancode.com/primary/120493_english_hls_5920ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",Pak I Care Badalona vs Zurich Nomads (European Cricket League, 2025)
-https://dai.fancode.com/primary/119767_english_hls_6276ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",Lions XI vs Tigers XI (Pondicherry T20, 2025)
-https://dai.fancode.com/primary/120006_english_hls_5678ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",Zagreb Assassins vs Brno (European Cricket League, 2025)
+https://dai.fancode.com/primary/119768_english_hls_6254ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",Day 1 vs Houghton GC, Johannesburg (Joburg Open)
+https://dai.fancode.com/primary/120151_english_hls_5933ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120759_5012_PAL_VVS_fc-Web.jpg",Palani Tuskers vs Vasco Vipers (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120759_english_hls_6124ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120209_english_hls_6078ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Holes - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120212_english_hls_5724ta-di/index.m3u8
