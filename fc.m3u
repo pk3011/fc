@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120495_5006_PAN_LIO_fc-Web.jpg",KCA Lions vs KCA Panthers (KCA Presidents Cup T20, 2025)
-https://dai.fancode.com/primary/120495_english_hls_9513ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",Pak I Care Badalona vs Zurich Nomads (European Cricket League, 2025)
+https://dai.fancode.com/primary/119773_english_hls_6462ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120442_5001_VAW_KOT_fc-web_1741330697204.jpg",Vashi Warriors vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)
+https://dai.fancode.com/primary/120442_english_hls_9193ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-Netherlands_OLD.jpg",Netherlands vs Namibia (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/120402_english_hls_6316ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111015_4567_MLC_MAC_fc-web_1728983128785.jpg",Melbourne City vs Macarthur (A League 2024-25)
-https://dai.fancode.com/primary/111015_english_hls_6014ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120854_5013_AIA_KSR_fc-web.jpg",Air India Aviators vs Kolkata Strikers (TBCPL10 Aviation Premier League)
-https://dai.fancode.com/primary/120854_english_hls_5919ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120855_5013_MMV_TTB_fc-web.jpg",Mial Mavericks vs Target Thunderbolts (TBCPL10 Aviation Premier League)
-https://dai.fancode.com/primary/120855_english_hls_6435ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Hong-Kong_old_Match_card-(2).jpg",Day 1 vs Hong Kong (LIV Golf Hong Kong)
-https://dai.fancode.com/primary/120884_english_hls_5597ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120853_5013_AT_CCH_fc-web.jpg",Ahmedabad Titans vs Customs Challengers (TBCPL10 Aviation Premier League)
+https://dai.fancode.com/primary/120853_english_hls_9435ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",Day 2 vs Houghton GC, Johannesburg (Joburg Open)
+https://dai.fancode.com/primary/120152_english_hls_5984ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120763_5012_PAL_JPC_fc-Web.jpg",Palani Tuskers vs Jaipur Pink Cubs (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120763_english_hls_9261ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 2 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120213_english_hls_5840ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Holes - Day 2 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120216_english_hls_5781ta-di/index.m3u8
