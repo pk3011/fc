@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120165_4989_CS_YCC_fc-web_1740662491631.jpg",Yorkshire Cricket Club vs Central Sports Club (Trinidad T20 Festival 2025)
-https://dai.fancode.com/primary/120165_english_hls_6454ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117801_CASACARDS_APP.png",Combined Campuses and Colleges vs Barbados Pride (West Indies Championship, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Inter-Miami-vs-Cavalier-old.jpg",Inter Miami CF vs Cavalier (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119706_english_hls_6083ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",Queensland vs Tasmania (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117802_CASACARDS_APP.png",Guyana Harpy Eagles vs Jamaica Scorpions (West Indies Championship, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",Victoria vs South Australia (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120209_english_hls_6078ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Holes - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120212_english_hls_5724ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Feature Groups - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120211_english_hls_5881ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Marquee Feed - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120210_english_hls_9062ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",World Feed - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120227_english_hls_5967ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120235_CASACARDS_APP.png",Panathinaikos OPAP Athens vs Real Madrid (EuroLeague 2024-25)
-https://dai.fancode.com/primary/120235_english_hls_5865ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741341436~acl=/*~id=46094405712565210924148776585594~hmac=2f550d7673b9e212d3ecaac65eb763932cf3c9435500d23dc421e72033871550
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120166_4989_PSC_QPCC_fc-web_1740662490985.jpg",Preysal SC vs QPCC I (Trinidad T20 Festival 2025)
+https://dai.fancode.com/primary/120166_english_hls_6014ta-no/index.m3u8
