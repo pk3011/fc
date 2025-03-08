@@ -5,7 +5,19 @@ None
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120496_5006_TIG_PAN_fc-Web.jpg",KCA Tigers vs KCA Panthers (KCA Presidents Cup T20, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120496_5006_TIG_PAN_fc-Web.jpg",KCA Panthers vs KCA Tigers (KCA Presidents Cup T20, 2025)
 https://dai.fancode.com/primary/120496_english_hls_5755ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120857_5013_AT_MMV_fc-web.jpg",Ahmedabad Titans vs Mial Mavericks (TBCPL10 Aviation Premier League)
-https://dai.fancode.com/primary/120857_english_hls_5772ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120443_5001_BEB_AMA_fc-web_1741330697179.jpg",Belapur Blasters vs Ambernath Avengers (Navi Mumbai Premier League T20, 2025)
+https://dai.fancode.com/primary/120443_english_hls_5741ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117878_4795_URW_FKO_fc-web.jpg",Urawa Red Diamonds vs Fagiano Okayama (J League 2025)
+https://dai.fancode.com/primary/117878_english_hls_5614ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111016_4567_ADL_BRB_fc-web_1728983128876.jpg",Adelaide United vs Brisbane Roar (A League 2024-25)
+https://dai.fancode.com/primary/111016_english_hls_5462ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117879_4795_OSK_PUL_fc-web.jpg",Gamba Osaka vs Shimizu S-Pulse (J League 2025)
+https://dai.fancode.com/primary/117879_english_hls_8643ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120858_5013_AW_AIA_fc-web.jpg",AESC Warriors vs Air India Aviators (TBCPL10 Aviation Premier League)
+https://dai.fancode.com/primary/120858_english_hls_8821ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Hong-Kong_old_Match_card-(2).jpg",Day 2 vs Hong Kong (LIV Golf Hong Kong)
+https://dai.fancode.com/primary/120885_english_hls_5621ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120765_5012_KWS_JPC_fc-Web.jpg",Kurukshetra Warriors vs Jaipur Pink Cubs (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120765_english_hls_5392ta-no/index.m3u8
