@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120444_5001_THT_KLT_fc-web_1741330697167.jpg",Thane Tigers vs Kalyan Tuskers (Navi Mumbai Premier League T20, 2025)
 https://dai.fancode.com/primary/120444_english_hls_8845ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coventry-city-vs-Stroke-city_fc-web.jpg",Coventry City vs Stoke City (EFL Championship 2024-25)
-https://dai.fancode.com/primary/119968_english_hls_5372ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120861_5013_AT_TTB_fc-web.jpg",Ahmedabad Titans vs Target Thunderbolts (TBCPL10 Aviation Premier League)
-https://dai.fancode.com/primary/120861_english_hls_5534ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Derby-county-vs-Blackburn-rovers_fc-web.jpg",Derby County vs Blackburn Rovers (EFL Championship 2024-25)
+https://dai.fancode.com/primary/119969_english_hls_5845ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117802_CASACARDS_APP.png",Guyana Harpy Eagles vs Jamaica Scorpions (West Indies Championship, 2025)
+None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",Day 3 vs Houghton GC, Johannesburg (Joburg Open)
 https://dai.fancode.com/primary/120153_english_hls_5660ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120767_5012_YPA_UPF_fc-Web.jpg",Yuva Paltan vs UP Falcons (Yuva All Stars Championship)
-https://dai.fancode.com/primary/120767_english_hls_5468ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Marquee Group - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120218_english_hls_5380ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120217_english_hls_5473ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Holes - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120220_english_hls_5135ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Groups - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120219_english_hls_5197ta-no/index.m3u8
