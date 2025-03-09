@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120446_5001_AMA_MBL_fc-web_1741330697191.jpg",Ambernath Avengers vs Mira Bhayandar Lions (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120446_english_hls_4925ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-canada_OLD.jpg",Canada vs Namibia (ICC CWC League 2, 2023-27)
-https://dai.fancode.com/primary/120403_english_hls_5813ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120310_4995_CEC-A_FEK_fc-Web_1740894370371.jpg",CECC vs Fakhr-E-Kashmir (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120310_english_hls_8737ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
 https://dai.fancode.com/primary/120223_english_hls_4894ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Hole - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
 https://dai.fancode.com/primary/120226_english_hls_5003ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Marquee Group - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120224_english_hls_8441ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Groups - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
 https://dai.fancode.com/primary/120225_english_hls_5410ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Marquee Group - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120224_english_hls_8441ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",World Feed - Day 4 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
+https://dai.fancode.com/primary/120230_english_hls_5409ta-no/index.m3u8
