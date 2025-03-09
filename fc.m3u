@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120169_4989_YCC_PSC_fc-web_1741341462079.jpg",Preysal SC vs Yorkshire Cricket Club (Trinidad T20 Festival 2025)
-https://dai.fancode.com/primary/120169_english_hls_5409ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120309_4995_BD-L_KGC_fc-Web_1740894370458.jpg",Keraniganj Challengers vs Bangladesh Legends (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120309_english_hls_5225ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Marquee Group - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120218_english_hls_5380ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Main Feed - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120217_english_hls_5473ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Holes - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120220_english_hls_5135ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",Featured Groups - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120219_english_hls_5197ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",World Feed - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)
-https://dai.fancode.com/primary/120229_english_hls_5105ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741521225~acl=/*~id=71933272053875454284579603685750~hmac=8e3785027650bc155e1fffd88280e0d1c921918cf2b98e365cc36622b4b58856
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",Victoria vs South Australia (Sheffield Shield, 2024-25)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",Queensland vs Tasmania (Sheffield Shield, 2024-25)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120170_4989_CS_MPSC_fc-web_1741341462512.jpg",Bess Motors Marchin Patriots vs Central Sports Club (Trinidad T20 Festival 2025)
+https://dai.fancode.com/primary/120170_english_hls_5397ta-no/index.m3u8
