@@ -3,7 +3,9 @@
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741521225~acl=/*~id=71933272053875454284579603685750~hmac=8e3785027650bc155e1fffd88280e0d1c921918cf2b98e365cc36622b4b58856
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",Victoria vs South Australia (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",Queensland vs Tasmania (Sheffield Shield, 2024-25)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",Western Australia vs New South Wales (Sheffield Shield, 2024-25)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120170_4989_CS_MPSC_fc-web_1741341462512.jpg",Bess Motors Marchin Patriots vs Central Sports Club (Trinidad T20 Festival 2025)
-https://dai.fancode.com/primary/120170_english_hls_5397ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120498_5006_LIO_ROY_fc-Web.jpg",KCA Lions vs KCA Royals (KCA Presidents Cup T20, 2025)
+https://dai.fancode.com/primary/120498_english_hls_5466ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120862_5013_KSR_AW_fc-web.jpg",Kolkata Strikers vs AESC Warriors (TBCPL10 Aviation Premier League)
+https://dai.fancode.com/primary/120862_english_hls_5110ta-no/index.m3u8
