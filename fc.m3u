@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120502_5006_ROY_PAN_fc-Web.jpg",KCA Panthers vs KCA Royals (KCA Presidents Cup T20, 2025)
-https://dai.fancode.com/primary/120502_english_hls_5663ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120449_5001_SAS_AMA_fc-web_1741330697160.jpg",Ambernath Avengers vs Sanpada Scorpions (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120449_english_hls_5412ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120777_5012_SPS_JSS_fc-Web.jpg",Sonipat Spartans vs Junior Steelers (Yuva All Stars Championship)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120503_5006_LIO_TIG_fc-Web.jpg",KCA Lions vs KCA Tigers (KCA Presidents Cup T20, 2025)
+https://dai.fancode.com/primary/120503_english_hls_8527ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canada-vs-Netherlands-OLD.jpg",Canada vs Netherlands (ICC CWC League 2, 2023-27)
+https://dai.fancode.com/primary/120404_english_hls_5500ta-no/index.m3u8
