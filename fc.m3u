@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121045_5019_INR_SLO_fc-Web_1741422833781.jpg",Indian Royals vs Sri Lankan Lions (Asian Legends League, 2025)
-https://dai.fancode.com/primary/121045_english_hls_5691ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120450_5001_KOT_KLT_fc-web_1741330697085.jpg",Kalyan Tuskers vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120450_english_hls_5981ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120421_CASACARDS_APP.png",USA Women vs Brazil Women (ICC Women's T20 World Cup Americas Qualifier, 2025)
-https://dai.fancode.com/primary/120421_english_hls_5311ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120312_4995_MEC_THN_fc-Web_1740894370592.jpg",Thunder Cats vs MEC Study Group (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120312_english_hls_5536ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120422_CASACARDS_APP.png",Argentina Women vs Canada Women (ICC Women's T20 World Cup Americas Qualifier, 2025)
+https://dai.fancode.com/primary/120422_english_hls_5049ta-no/index.m3u8
