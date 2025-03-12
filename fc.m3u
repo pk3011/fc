@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Cruz_Azul_vs_Seattle_Old_match-card.jpg",Cruz Azul vs Seattle Sounders FC (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119716_english_hls_5471ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Columbus_Crew_vs_LAFC_Old_match-card.jpg",Columbus Crew vs Los Angeles Football Club (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119703_english_hls_8763ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mal_HK-old.jpg",Hong Kong, China vs Malaysia (Bahrain and Hong Kong, China tour of Malaysia)
+https://dai.fancode.com/primary/120476_english_hls_5684ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120504_5006_LIO_EAG_fc-Web.jpg",KCA Lions vs KCA Eagles (KCA Presidents Cup T20, 2025)
+https://dai.fancode.com/primary/120504_english_hls_5859ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Tigres_vs_Cincinnati_Old_match-card.jpg",Tigres vs FC Cincinnati (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119718_english_hls_5632ta-no/index.m3u8
