@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120316_4995_KGC_RL_fc-Web_1740894370507.jpg",Keraniganj Challengers vs Royal Lions (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120316_english_hls_3165ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120175_4989_MEC_PVU_fc-web_1741341461764.jpg",Profilbau Victoria United SC vs Merryboys SC (Trinidad T20 Festival 2025)
 https://dai.fancode.com/primary/120175_english_hls_6431ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120424_CASACARDS_APP.png",Brazil Women vs Canada Women (ICC Women's T20 World Cup Americas Qualifier, 2025)
-https://dai.fancode.com/primary/120424_english_hls_9758ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120370_4996_STAX_KRM_fc-web.jpg",Stack CC vs ACE KRM Panthers (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120370_english_hls_9604ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",Bromley vs Walsall (League Two 2024-25)
+https://dai.fancode.com/primary/119979_english_hls_6074ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750_LIH-WC__fc-Web.jpg",Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship, 2025)
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750__LIH_CCC__fc-Web.jpg",Leeward Islands Hurricanes vs Combined Campuses and Colleges (West Indies Championship, 2025)
@@ -19,5 +19,5 @@ https://dai.fancode.com/primary/120382_english_hls_7212ta-no/index.m3u8
 https://dai.fancode.com/primary/120384_english_hls_9484ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",World Feed - Day 1 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120385_english_hls_6098ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120237_CASACARDS_APP.png",Fenerbahce Beko Istanbul vs LDLC ASVEL Villeurbanne (EuroLeague 2024-25)
-https://dai.fancode.com/primary/120237_english_hls_6139ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120238_CASACARDS_APP.png",Virtus Bologna vs Real Madrid (EuroLeague 2024-25)
+https://dai.fancode.com/primary/120238_english_hls_6343ta-no/index.m3u8
