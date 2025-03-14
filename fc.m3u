@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_3_Old_match-card_1741858444076.jpg",Free Practice 1 vs Termas De Rio Hondo (Moto3 Argentina)
-https://dai.fancode.com/primary/118649_english_hls_5975ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121063_5022_NOT_SACA_fc-Web.jpg",South Asian Cricket Academy vs Nottinghamshire (Abu Dhabi T20 Counties Super Cup, 2025)
-https://dai.fancode.com/primary/121063_english_hls_9552ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121072_5023_RUBY_EMD_FC-WEB.jpg",Ruby vs Emerald (Uganda Maxx T20, 2025)
-https://dai.fancode.com/primary/121072_english_hls_6109ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121051_5019_INR_ASS_fc-Web_1741422833987.jpg",Indian Royals vs Rest of Asian Stars (Asian Legends League, 2025)
+https://dai.fancode.com/primary/121051_english_hls_9460ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121189_5026_KW_ISL_fc-web.jpg",Karachi Whites vs Islamabad (National T20 Cup, 2025)
+https://dai.fancode.com/primary/121189_english_hls_9478ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120456_5001_MBL_VAW_fc-web_1741330697106.jpg",Mira Bhayandar Lions vs Vashi Warriors (Navi Mumbai Premier League T20, 2025)
 https://dai.fancode.com/primary/120456_english_hls_9434ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120791_5012_JSS_WKC_fc-Web.jpg",Junior Steelers vs Warriorz K.C (Yuva All Stars Championship)
-https://dai.fancode.com/primary/120791_english_hls_9431ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120425_CASACARDS_APP.png",Canada Women vs Argentina Women (ICC Women's T20 World Cup Americas Qualifier, 2025)
+https://dai.fancode.com/primary/120425_english_hls_6043ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121064_5022_ESS_YOR_fc-Web.jpg",Essex vs Yorkshire (Abu Dhabi T20 Counties Super Cup, 2025)
+https://dai.fancode.com/primary/121064_english_hls_5973ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750_LIH-WC__fc-Web.jpg",Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship, 2025)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750__LIH_CCC__fc-Web.jpg",Leeward Islands Hurricanes vs Combined Campuses and Colleges (West Indies Championship, 2025)
+None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Featured Group - Day 2 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120388_english_hls_5746ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Main Feed - Day 2 vs Ponte Vedra Beach (The Players Championship)
-https://dai.fancode.com/primary/120386_english_hls_5746ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Marquee Group - Day 2 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120387_english_hls_6285ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Main Feed - Day 2 vs Ponte Vedra Beach (The Players Championship)
+https://dai.fancode.com/primary/120386_english_hls_5746ta-di/index.m3u8
