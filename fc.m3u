@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia_F1_GP_Old_match-card-(1).jpg",Practice 1 vs Australia (F1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula3_Old_match-card-(1).jpg",Qualifying vs Melbourne  (F3 AUSTRALIA 2025)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Inter-Miami-vs-Cavalier-old.jpg",Cavalier vs Inter Miami CF (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/119705_english_hls_6081ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bah_HK-old-1.jpg",Hong Kong, China vs Bahrain (Bahrain and Hong Kong, China tour of Malaysia)
+https://dai.fancode.com/primary/120478_english_hls_9507ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pumas-vs-Alajuelense-old.jpg",Alajuelense vs Pumas UNAM (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/119707_english_hls_6411ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120508_5006_TIG_EAG_fc-Web.jpg",KCA Tigers vs KCA Eagles (KCA Presidents Cup T20, 2025)
+https://dai.fancode.com/primary/120508_english_hls_6329ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",Day 1 vs Singapore (LIV Golf Singapore)
 https://dai.fancode.com/primary/120887_english_hls_5864ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia_F1_GP_Old_match-card-(1).jpg",Practice 1 vs Australia (F1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025)
+None
