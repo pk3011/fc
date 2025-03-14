@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_ARGENTINA_Old-Match-card.jpg",Practice vs Termas de Río Hondo (GRAN PREMIO DE LA REPÚBLICA ARGENTINA)
-https://dai.fancode.com/primary/118507_english_hls_6066ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121190_5026_BAH_DMJ_fc-web.jpg",Bahawalpur vs Dera Murad Jamali Region (National T20 Cup, 2025)
 https://dai.fancode.com/primary/121190_english_hls_4052ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120317_4995_CEC-A_YSS_fc-Web_1740894370527.jpg",CECC vs YSSC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120317_english_hls_8565ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120177_4989_QPCC_MPSC_fc-web_1741341461711.jpg",QPCC I vs Bess Motors Marchin Patriots (Trinidad T20 Festival 2025)
-https://dai.fancode.com/primary/120177_english_hls_6141ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120426_CASACARDS_APP.png",USA Women vs Brazil Women (ICC Women's T20 World Cup Americas Qualifier, 2025)
 https://dai.fancode.com/primary/120426_english_hls_9831ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120177_4989_QPCC_MPSC_fc-web_1741341461711.jpg",Bess Motors Marchin Patriots vs QPCC I (Trinidad T20 Festival 2025)
+https://dai.fancode.com/primary/120177_english_hls_6141ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120318_4995_TCC_MEC_fc-Web_1740894370726.jpg",Tally DRFS vs MEC Study Group (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120318_english_hls_6216ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bristol-city-vs-Norwich_fc-web.jpg",Bristol City vs Norwich City (EFL Championship 2024-25)
+https://dai.fancode.com/primary/119974_english_hls_6192ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750_LIH-WC__fc-Web.jpg",Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship, 2025)
 None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750__LIH_CCC__fc-Web.jpg",Leeward Islands Hurricanes vs Combined Campuses and Colleges (West Indies Championship, 2025)
