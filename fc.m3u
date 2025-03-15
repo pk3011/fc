@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121046_5019_SLO_AFP_fc-Web_1741422834009.jpg",Sri Lankan Lions vs Afghanistan Pathans (Asian Legends League, 2025)
-https://dai.fancode.com/primary/121052_english_hls_7180ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121191_5026_LW_PES_fc-web.jpg",Lahore Whites vs Peshawar (National T20 Cup, 2025)
-https://dai.fancode.com/primary/121191_english_hls_8733ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120458_5001_BEB_KLT_fc-web_1741330697309.jpg",Kalyan Tuskers vs Belapur Blasters (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120458_english_hls_3664ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",Independents CC vs Beveren (European Cricket League, 2025)
-https://dai.fancode.com/primary/119809_english_hls_5666ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121067_5022_SOM_NOT_fc-Web.jpg",Somerset vs Nottinghamshire (Abu Dhabi T20 Counties Super Cup, 2025)
-https://dai.fancode.com/primary/121067_english_hls_5178ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Bromwich-Albion-vs-hull-city_fc-web.jpg",West Bromwich Albion vs Hull City (EFL Championship 2024-25)
-https://dai.fancode.com/primary/119976_english_hls_5150ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canada-vs-Namibia_OLD.jpg",Namibia vs Canada (ICC CWC League 2, 2023-27)
-https://dai.fancode.com/primary/120406_english_hls_5809ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_ARGENTINA_Old-Match-card.jpg",Sprint vs Termas de Río Hondo (GRAN PREMIO DE LA REPÚBLICA ARGENTINA)
+https://dai.fancode.com/primary/118511_english_hls_5348ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121192_5026_KAB_LAR_fc-web.jpg",Larkana Region vs Karachi Blues (National T20 Cup, 2025)
+https://dai.fancode.com/primary/121192_english_hls_9088ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",Malo vs Beveren (European Cricket League, 2025)
+https://dai.fancode.com/primary/119812_english_hls_5289ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120320_4995_WFK_SUL_fc-Web_1740894371170.jpg",Winning FKP vs Super Lanka (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120320_english_hls_9001ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",Roma CC vs Mediterranean Vikings (European Cricket League, 2025)
+https://dai.fancode.com/primary/119813_english_hls_5206ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Main Feed - Day 3 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120391_english_hls_5857ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Featured Group - Day 3 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120393_english_hls_9126ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Marquee Group - Day 3 vs Ponte Vedra Beach (The Players Championship)
 https://dai.fancode.com/primary/120392_english_hls_8473ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",Featured Holes - Day 3 vs Ponte Vedra Beach (The Players Championship)
+https://dai.fancode.com/primary/120394_english_hls_8872ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",World Feed - Day 3 vs Ponte Vedra Beach (The Players Championship)
+https://dai.fancode.com/primary/120395_english_hls_5371ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",Independents CC vs Mediterranean Vikings (European Cricket League, 2025)
+https://dai.fancode.com/primary/119811_english_hls_5320ta-no/index.m3u8
