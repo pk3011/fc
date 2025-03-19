@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",Canada vs Namibia (Canada tour of Namibia, 2025)
-https://dai.fancode.com/primary/120189_english_hls_5952ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120465_5001_SAS_VAW_fc-web_1741330697249.jpg",Sanpada Scorpions vs Vashi Warriors (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120465_english_hls_6259ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119656_CASACARDS_APP.png",Royal XI vs Riders XI (Birsa Munda Trophy T20 Championship)
-https://dai.fancode.com/primary/119656_english_hls_6350ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1.jpg",Skanderborg vs Darmstadt CC (European Cricket League, 2025)
-https://dai.fancode.com/primary/121600_english_hls_5651ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",Farmers vs Roma CC (European Cricket League, 2025)
-https://dai.fancode.com/primary/121601_english_hls_6465ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",Roma CC vs Hornchurch (European Cricket League, 2025)
+https://dai.fancode.com/primary/121603_english_hls_5811ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120326_4995_FEK_MEC_fc-Web_1740894370770.jpg",Fakhr-E-Kashmir vs MEC Study Group (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120326_english_hls_6350ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1.jpg",Farmers vs Zurich Nomads (European Cricket League, 2025)
+https://dai.fancode.com/primary/121604_english_hls_5997ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120183_4989_CRU_PPSC_fc-web_1741341462228.jpg",Powergen Penal SC vs Clarke Road United (Trinidad T20 Festival 2025)
+https://dai.fancode.com/primary/120183_english_hls_6238ta-no/index.m3u8
