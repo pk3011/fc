@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_KOR_OMN_fc-app_1742455517690.jpg",Korea Republic vs Oman (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/121179_english_hls_9548ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108269_3740_JPN_QAT_fc-WEB.jpg",Japan vs Bahrain (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/121177_english_hls_6243ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119657_CASACARDS_APP.png",Birsa Warriors XI vs Riders XI (Birsa Munda Trophy T20 Championship)
-https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121082_5023_EMD_SAP_FC-WEB.jpg",Sapphire vs Emerald (Uganda Maxx T20, 2025)
-https://dai.fancode.com/primary/121082_english_hls_6409ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120468_5001_KLT_AMA_fc-web_1742453043194.jpg",Ambernath Avengers vs Kalyan Tuskers (Navi Mumbai Premier League T20, 2025)
 https://dai.fancode.com/primary/120468_english_hls_5930ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1.jpg",Zurich Nomads vs Darmstadt CC (European Cricket League, 2025)
-https://dai.fancode.com/primary/121609_english_hls_6205ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119658_CASACARDS_APP.png",Saffron XI vs Rangers XI (Birsa Munda Trophy T20 Championship)
+https://dai.fancode.com/primary/119658_english_hls_6234ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",Farmers vs Voorburg (European Cricket League, 2025)
+https://dai.fancode.com/primary/119834_english_hls_6103ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Main Feed - Day 1 vs Palm Harbor (Valspar Championship)
+https://dai.fancode.com/primary/121398_english_hls_6189ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Groups - Day 1 vs Palm Harbor (Valspar Championship)
+https://dai.fancode.com/primary/121400_english_hls_9444ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Holes - Day 1 vs Palm Harbor (Valspar Championship)
+https://dai.fancode.com/primary/121401_english_hls_6380ta-di/index.m3u8
