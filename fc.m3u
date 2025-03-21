@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120331_4995_AIOC_BD-L_fc-Web_1740894370700.jpg",Ai Octopus Challengers vs Bangladesh Legends (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120331_english_hls_6115ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/01/ECS_Spain_2024_Old_match-card.jpg",Bess Motors Marchin Patriots vs Clarke Road United (Trinidad T20 Festival 2025)
 https://dai.fancode.com/primary/120185_english_hls_5636ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121158_3741_ETH_EGY_fc-web.jpg",Ethiopia vs Egypt (CAF World Cup Qualifiers)
+https://dai.fancode.com/primary/121158_english_hls_8687ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121160_3741_GNA_SOM_fc-web.jpg",Guinea vs Somalia (CAF World Cup Qualifiers)
+https://dai.fancode.com/primary/121160_english_hls_5352ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Main Feed - Day 2 vs Palm Harbor (Valspar Championship)
 https://dai.fancode.com/primary/121403_english_hls_5731ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Groups - Day 2 vs Palm Harbor (Valspar Championship)
@@ -13,3 +15,5 @@ https://dai.fancode.com/primary/121406_english_hls_6019ta-no/index.m3u8
 https://dai.fancode.com/primary/121404_english_hls_8971ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",World Feed - Day 2 vs Palm Harbor (Valspar Championship)
 https://dai.fancode.com/primary/121402_english_hls_5387ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",Partizan NIS Belgrade vs Anadolu Efes Istanbul (EuroLeague 2024-25)
+https://dai.fancode.com/primary/121589_english_hls_5265ta-di/index.m3u8
