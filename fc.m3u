@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_China_Old_match-card.jpg",Sprint Race vs Shanghai (F1 ACADEMY CHINA 2025)
-https://d3tgua89wdfb7p.cloudfront.net/out/v1/04989eb52aa44cfe9808b7b4728d8196/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Coimbra Knights vs Friendship CC (European Cricket Series Portugal, 2025)
+https://dai.fancode.com/primary/121514_english_hls_5408ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119661_CASACARDS_APP.png",Saffron XI vs Royal XI (Birsa Munda Trophy T20 Championship)
+https://dai.fancode.com/primary/119661_english_hls_5899ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Singapore-Classic-old--match-card.png",Day 3 vs Laguna National Golf Resort Club (Porsche Singapore Classic)
 https://dai.fancode.com/primary/120157_english_hls_5577ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",Day 3 - Semi Finals vs Chennai (DSC Table Tennis)
 https://dai.fancode.com/primary/121625_english_hls_5857ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120821_5012_JSS_UPF_fc-Web.jpg",Junior Steelers vs UP Falcons (Yuva All Stars Championship)
-https://dai.fancode.com/primary/120821_english_hls_5551ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-CHINESE-GRAND-PRIX_Old-Match-card.jpg",Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2025)
+https://dbivlneqth8wa.cloudfront.net/out/v1/7420cc4bb5a94641a7fd5bf823578c6d/index.m3u8
