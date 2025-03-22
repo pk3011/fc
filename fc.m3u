@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-CHINESE-GRAND-PRIX_Old-Match-card.jpg",Sprint vs China (F1 HEINEKEN CHINESE GRAND PRIX 2025)
-https://d175perwixl9og.cloudfront.net/out/v1/4550198f16d246f3804dfd4ac7bf7360/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ford-Womens-NSW-Open-old-match-card.png",Day 1 vs Wollongong Golf Club (Ford Women’s NSW Open)
-https://dai.fancode.com/primary/120481_english_hls_5365ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_China_Old_match-card.jpg",Sprint Race vs Shanghai (F1 ACADEMY CHINA 2025)
+https://d3tgua89wdfb7p.cloudfront.net/out/v1/04989eb52aa44cfe9808b7b4728d8196/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Singapore-Classic-old--match-card.png",Day 3 vs Laguna National Golf Resort Club (Porsche Singapore Classic)
 https://dai.fancode.com/primary/120157_english_hls_5577ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",Day 3 - Semi Finals vs Chennai (DSC Table Tennis)
+https://dai.fancode.com/primary/121625_english_hls_5857ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120821_5012_JSS_UPF_fc-Web.jpg",Junior Steelers vs UP Falcons (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120821_english_hls_5551ta-di/index.m3u8
