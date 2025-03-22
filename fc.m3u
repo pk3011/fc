@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",Canada vs Namibia (Canada tour of Namibia, 2025)
-https://dai.fancode.com/primary/120191_english_hls_5223ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120456_5001_MBL_VAW_fc-web_1741330697106.jpg",Vashi Warriors vs Mira Bhayandar Lions (Navi Mumbai Premier League T20, 2025)
-https://dai.fancode.com/primary/120471_english_hls_8847ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119662_CASACARDS_APP.png",Riders XI vs Rangers XI (Birsa Munda Trophy T20 Championship)
-https://dai.fancode.com/primary/119662_english_hls_5607ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",Brothers XI Portugal vs Lisbon Super Giants (European Cricket Series Portugal, 2025)
-https://dai.fancode.com/primary/121517_english_hls_4930ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",Members of Parliament vs The Mumbai Heroes (TB Mukt Bharat)
-https://dai.fancode.com/primary/121711_english_hls_8467ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120691_5010_PPS_NML_fc-web.jpg",No Mans Land Explorers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)
+https://dai.fancode.com/primary/120691_english_hls_4479ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Team Tigers Portugal vs Werewolves CC (European Cricket Series Portugal, 2025)
+https://dai.fancode.com/primary/121518_english_hls_8613ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120374_4996_KS_KRM_fc-web.jpg",Kuwait Swedish vs ACE KRM Panthers (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120374_english_hls_4959ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Main Feed - Day 3 vs Palm Harbor (Valspar Championship)
 https://dai.fancode.com/primary/121408_english_hls_5416ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Groups - Day 3 vs Palm Harbor (Valspar Championship)
-https://dai.fancode.com/primary/121410_english_hls_8149ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Holes - Day 3 vs Palm Harbor (Valspar Championship)
 https://dai.fancode.com/primary/121411_english_hls_2810ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Featured Groups - Day 3 vs Palm Harbor (Valspar Championship)
+https://dai.fancode.com/primary/121410_english_hls_8149ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",Marquee Group - Day 3 vs Palm Harbor (Valspar Championship)
 https://dai.fancode.com/primary/121409_english_hls_5322ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",World Feed - Day 3 vs Palm Harbor (Valspar Championship)
+https://dai.fancode.com/primary/121407_english_hls_5187ta-no/index.m3u8
