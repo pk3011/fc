@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119667_CASACARDS_APP.png",Royal XI vs Riders XI (Birsa Munda Trophy T20 Championship)
-https://dai.fancode.com/primary/119667_english_hls_6150ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-IND_BAH-old.jpg",Indonesia vs Bahrain (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/121583_english_hls_8888ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-KYZ_QAT-old.jpg",Kyrgyz Republic vs Qatar (FIFA World Cup Asian Qualifiers)
-https://dai.fancode.com/primary/121585_english_hls_5872ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Lisbon Super Giants vs Brothers XI Portugal (ECS Santarem Challenger)
-https://dai.fancode.com/primary/121532_english_hls_5757ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120697_5010_MIS_PPS_fc-web.jpg",Mt Irvine Surfers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)
+https://dai.fancode.com/primary/120697_english_hls_5232ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120338_4995_SUL_GAT_fc-Web_1740894370867.jpg",GAT vs Super Lanka (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120338_english_hls_5136ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-DPK_UAE-old.jpg",DPR Korea vs United Arab Emirates (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/121582_english_hls_2609ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-PAL_IRQ-old.jpg",Palestine vs Iraq (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/121586_english_hls_8613ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-KUW_OMN-old.jpg",Kuwait vs Oman (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/121385_english_hls_5225ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",Team Tigers Portugal vs Werewolves CC (ECS Santarem Challenger)
+https://dai.fancode.com/primary/121533_english_hls_5869ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",Fenerbahce Beko Istanbul vs Paris (EuroLeague 2024-25)
+https://dai.fancode.com/primary/121590_english_hls_5349ta-di/index.m3u8
