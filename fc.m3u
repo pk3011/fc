@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121435_5037_AT_JF_fc-Web.jpg",Alipurduar Thunders vs Jhargram Firebolts (Kolkata NCC T20)
-https://dai.fancode.com/primary/121435_english_hls_5634ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/119667_CASACARDS_APP.png",Royal XI vs Riders XI (Birsa Munda Trophy T20 Championship)
+https://dai.fancode.com/primary/119667_english_hls_6150ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-IND_BAH-old.jpg",Indonesia vs Bahrain (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/121583_english_hls_8888ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-KYZ_QAT-old.jpg",Kyrgyz Republic vs Qatar (FIFA World Cup Asian Qualifiers)
+https://dai.fancode.com/primary/121585_english_hls_5872ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Lisbon Super Giants vs Brothers XI Portugal (ECS Santarem Challenger)
+https://dai.fancode.com/primary/121532_english_hls_5757ta-di/index.m3u8
