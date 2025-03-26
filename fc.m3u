@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121760_3741_ALG_MOZ_fc-web.jpg",Algeria vs Mozambique (CAF World Cup Qualifiers)
-https://dai.fancode.com/primary/121760_english_hls_5122ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121759_3741_COM_CHA_fc-web.jpg",Comoros vs Chad (CAF World Cup Qualifiers)
-https://dai.fancode.com/primary/121759_english_hls_8553ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121757_3741_SEN_TGO_fc-web.jpg",Senegal vs Togo (CAF World Cup Qualifiers)
-https://dai.fancode.com/primary/121757_english_hls_7546ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121758_3741_MAU_CNG_fc-web.jpg",Mauritania vs Congo DR (CAF World Cup Qualifiers)
-https://dai.fancode.com/primary/121758_english_hls_2450ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121591_CASACARDS_APP.png",Barcelona vs Bayern Munich (EuroLeague 2024-25)
-https://dai.fancode.com/primary/121591_english_hls_9185ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Women's-Tour-of-New-Zealand-old-match-card.png",Australia Women vs New Zealand Women (Australia Women tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSWVSNZW/master.m3u8?hdnea=exp=1742995991~acl=/*~id=33836197139566470736479682417576~hmac=93fde5b50c0a8a014462097cdb4c4f9445924c478739c088cc16454374f601c7
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",Queensland vs South Australia (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110421_english_hls_5270ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ECU-Old.jpg",Chile vs Ecuador (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/121171_english_hls_2250ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-COL_PAR-Old.jpg",Colombia vs Paraguay (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/121172_english_hls_8510ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-VEN_PER-Old.jpg",Venezuela vs Peru (CONMEBOL World Cup Qualifiers)
+https://dai.fancode.com/primary/121173_english_hls_5088ta-di/index.m3u8
