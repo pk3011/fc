@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121441_5037_DU_AT_fc-Web.jpg",Alipurduar Thunders vs Darjeeling Unstoppables (Kolkata NCC T20)
-https://dai.fancode.com/primary/121441_english_hls_5932ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",Team Tigers Portugal vs Brothers XI Portugal (ECS Santarem)
-https://dai.fancode.com/primary/121539_english_hls_5710ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Indian-Open_old_1742977200983.jpg",Hero Indian Open vs DLF Golf and Country Club (Hero Indian Open)
-https://dai.fancode.com/primary/121835_english_hls_8683ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Werewolves CC vs Coimbra Knights (ECS Santarem)
+https://dai.fancode.com/primary/121540_english_hls_5540ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120843_5012_YMA_YPA_fc-Web.jpg",Yuva Mumba vs Yuva Paltan (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120843_english_hls_6710ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Main Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
+https://dai.fancode.com/primary/121909_english_hls_5570ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Featured Holes vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
+https://dai.fancode.com/primary/121912_english_hls_5737ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
+https://dai.fancode.com/primary/121910_english_hls_5505ta-no/index.m3u8
