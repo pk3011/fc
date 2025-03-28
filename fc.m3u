@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/America_GP_Old_match-card_2.jpg",USA GP - Day 1 vs Circuit  Of The Americas (RED BULL GRAND PRIX OF THE AMERICAS)
 https://dai.fancode.com/primary/118513_english_hls_5496ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121427_5036_TBZ_SUR-W_fc-web.jpg",The Blaze vs Surrey Women (Abu Dhabi Women's T20 Counties Super Cup, 2025)
-https://dai.fancode.com/primary/121427_english_hls_5628ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",Brothers XI Portugal vs Coimbra Knights (ECS Santarem)
-https://dai.fancode.com/primary/121546_english_hls_8894ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122122_5054_DDS_BKB_fc-Web.jpg",Dehradun Dynamos vs Badri Kedar Bulls (Uttarakhand Kabaddi Championship)
-https://dai.fancode.com/primary/122122_english_hls_6375ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120703_5010_SBS_KBR_fc-web_1743068837653.jpg",Store Bay Snorkelers vs Kings Bay Royals (Dream11 Bago T10 Blast, 3rd Edition, 2025)
+https://dai.fancode.com/primary/120703_english_hls_5789ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120344_4995_YSS_SBS_fc-Web_1740894370694.jpg",YSSC vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120344_english_hls_5475ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",Brothers XI Portugal vs Lisbon Super Giants (ECS Santarem)
+https://dai.fancode.com/primary/121547_english_hls_5323ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 2 - Main Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
 https://dai.fancode.com/primary/121914_english_hls_6037ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 2 - Featured Holes vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
@@ -15,5 +15,7 @@ https://dai.fancode.com/primary/121917_english_hls_6133ta-di/index.m3u8
 https://dai.fancode.com/primary/121916_english_hls_5955ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 2 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
 https://dai.fancode.com/primary/121915_english_hls_5971ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JSW-Indian-Open_old-Match-card_1742889189311.jpg",Finals - Glass Court vs Bombay Gymkhana (JSW Indian Open)
-https://dai.fancode.com/primary/121907_english_hls_5435ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121594_CASACARDS_APP.png",Anadolu Efes Istanbul vs Maccabi Tel Aviv (EuroLeague 2024-25)
+https://dai.fancode.com/primary/121594_english_hls_8865ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120702_5010_MIS_PPS_fc-web_1743068837788.jpg",Mt Irvine Surfers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)
+https://dai.fancode.com/primary/120702_english_hls_6075ta-di/index.m3u8
