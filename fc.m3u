@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120343_4995_TCC_FEK_fc-Web_1740894370931.jpg",Fakhr-E-Kashmir vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120343_english_hls_6160ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",Leyton Orient vs Stevenage (League One 2024-25)
-https://dai.fancode.com/primary/122147_english_hls_9141ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Main Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121909_english_hls_5570ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Featured Holes vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121912_english_hls_5737ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121910_english_hls_5505ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 1 - Featured Groups vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121911_english_hls_2599ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121653_5028_NEY_MB_fc-web.jpg",New York Yankees vs Milwaukee Brewers (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121653_english_hls_5903ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121593_CASACARDS_APP.png",Olympiacos Piraeus vs Monaco (EuroLeague 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",Day 1 - World Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121908_english_hls_6306ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",Queensland vs South Australia (Sheffield Shield, 2024-25)
+https://dai.fancode.com/primary/110421_english_hls_5955ta-di/index.m3u8
