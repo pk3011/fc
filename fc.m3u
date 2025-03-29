@@ -3,5 +3,7 @@
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743240786~acl=/*~id=96878220163984878856002873604138~hmac=f32e64bb2c1c7508a824cbe852abd77b1d822e1f5280c7af23b3d373e479fd6e
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",Queensland vs South Australia (Sheffield Shield, 2024-25)
 https://dai.fancode.com/primary/110421_english_hls_5840ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121444_5037_AT_PMD_fc-Web.jpg",Alipurduar Thunders vs Purba Medinipur Dragons (Kolkata NCC T20)
+https://dai.fancode.com/primary/121444_english_hls_5374ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121841_5028_SDP_AB_fc-web.jpg",San Diego Padres vs Atlanta Braves (Major League Baseball, 2025)
 https://dai.fancode.com/primary/121841_english_hls_5680ta-no/index.m3u8
