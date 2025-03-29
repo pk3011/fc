@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121428_5036_TBZ_TASW_fc-web.jpg",The Blaze vs Tasmania Women (Abu Dhabi Women's T20 Counties Super Cup, 2025)
-https://dai.fancode.com/primary/121428_english_hls_5559ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121445_5037_KF_CA_fc-Web.jpg",Kalimpong Falcons vs Combined Avengers (Kolkata NCC T20)
-https://dai.fancode.com/primary/121445_english_hls_5412ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117887_4795_TKY_KAW_fc-web.jpg",FC Tokyo vs Kawasaki Frontale (J League 2025)
-https://dai.fancode.com/primary/117887_english_hls_5436ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111029_4567_MLV_ADL_fc-web_1728983130086.jpg",Melbourne Victory vs Adelaide United (A League 2024-25)
-https://dai.fancode.com/primary/111029_english_hls_5121ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",Gorkha XI vs Punjab CC Amadora (ECS Santarem)
-https://dai.fancode.com/primary/121801_english_hls_5592ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Indian-Open_old_1743068907331.jpg",Hero Indian Open vs DLF Golf and Country Club (Hero Indian Open)
-https://dai.fancode.com/primary/121837_english_hls_8786ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121429_5036_ESS-W_SUR-W_fc-web.jpg",Surrey Women vs Essex Women (Abu Dhabi Women's T20 Counties Super Cup, 2025)
+https://dai.fancode.com/primary/121429_english_hls_8871ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121665_4352_WAT_PLY_fc-web.jpg",Watford vs Plymouth Argyle (EFL Championship 2024-25)
+https://dai.fancode.com/primary/121665_english_hls_5092ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",Oeiras vs Malo (ECS Santarem)
+https://dai.fancode.com/primary/121802_english_hls_4964ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120851_5012_SPS_PAL_fc-Web.jpg",Sonipat Spartans vs Palani Tuskers (Yuva All Stars Championship)
+https://dai.fancode.com/primary/120851_english_hls_4927ta-no/index.m3u8
