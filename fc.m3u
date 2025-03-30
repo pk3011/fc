@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120349_4995_TCC_THN_fc-Web_1740894370928.jpg",Thunder Cats vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120349_english_hls_5133ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 3 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://mls3.fancode.com/b6f588bf-2a06-45ae-a7d4-21c12e6ddf10/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 3 - Featured Groups vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://mls3.fancode.com/1b8e6b52-6807-40da-aba2-fe4864b70213/master.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",Day 3 - World Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)
-https://dai.fancode.com/primary/121918_english_hls_7996ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121843_5028_WAN_PHP_fc-web.jpg",Washington Nationals vs Philadelphia Phillies (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121843_english_hls_5109ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121844_5028_LAD_DET_fc-web.jpg",Los Angeles Dodgers vs Detroit Tigers (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121844_english_hls_5057ta-di/index.m3u8
