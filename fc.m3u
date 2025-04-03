@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121454_5037_JF_AT_fc-Web.jpg",Alipurduar Thunders vs Jhargram Firebolts (Kolkata NCC T20)
-https://dai.fancode.com/primary/121454_english_hls_5373adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121455_5037_CA_DU_fc-Web.jpg",Darjeeling Unstoppables vs Combined Avengers (Kolkata NCC T20)
+https://dai.fancode.com/primary/121455_english_hls_6206adfreeta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",Gamblers SC vs Oeiras (ECS Santarem)
+https://d3vgj2lh79r3a1.cloudfront.net/out/v1/49fa04a8f2be490e877c7efa0c06baec/index.m3u8
