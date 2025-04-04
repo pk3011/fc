@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120359_CASACARDS_APP.png",SBS CC vs Keraniganj Challengers (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120359_english_hls_5130ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117805_CASACARDS_APP.png",Windward Islands Volcanoes vs Barbados Pride (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117805_english_hls_5933ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117806_english_hls_2706ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Main Feed - Day 1 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122545_english_hls_5318adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Holes - Day 1 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122546_english_hls_8557adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Groups - Day 1 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122547_english_hls_6563adfreeta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Marquee Group - Day 1 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122548_english_hls_8440ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",World Feed - Day 1 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122549_english_hls_5652ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121854_5028_NEY_AD_fc-web.jpg",New York Yankees vs Arizona Diamondbacks (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121854_english_hls_5043ta-di/index.m3u8
