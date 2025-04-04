@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120360_CASACARDS_APP.png",Tally DRFS vs Keraniganj Challengers (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)
-https://dai.fancode.com/primary/120360_english_hls_5737ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/122454_CASACARDS_APP.png",Jaipur Pink Cubs vs Yuva Yoddhas (Yuva All Stars Championship)
-https://dai.fancode.com/primary/122454_english_hls_5697ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/120379_CASACARDS_APP.png",Al Hajery Team XI vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)
+https://dai.fancode.com/primary/120379_english_hls_5473ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117805_CASACARDS_APP.png",Windward Islands Volcanoes vs Barbados Pride (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117805_english_hls_5433ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Main Feed - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
 https://dai.fancode.com/primary/122550_english_hls_4977ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Marquee Group - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122553_english_hls_5974ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Holes - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
 https://dai.fancode.com/primary/122551_english_hls_8658ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Marquee Group - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122553_english_hls_5974ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Group - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122552_english_hls_8624ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122413_5057_KOR_INA_fc-web.jpg",Korea Republic vs Indonesia (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122413_english_hls_8919ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122411_5057_AUS_VIE_fc-web.jpg",Australia vs Vietnam (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122411_english_hls_2647ta-no/index.m3u8
