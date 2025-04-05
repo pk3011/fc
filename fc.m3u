@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117805_CASACARDS_APP.png",Windward Islands Volcanoes vs Barbados Pride (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117805_english_hls_5433ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)
-https://dai.fancode.com/primary/117806_english_hls_6192ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Main Feed - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122550_english_hls_4977ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Holes - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122551_english_hls_8658ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Marquee Group - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122553_english_hls_5974ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Group - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-https://dai.fancode.com/primary/122552_english_hls_8624ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Miami_old_Match_card.jpg",Day 1 vs Miami (LIV Golf Miami)
-https://dai.fancode.com/primary/122718_english_hls_8185ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121855_5028_BRS_SLC_fc-web.jpg",Boston Red Sox vs St. Louis Cardinals (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121855_english_hls_5573ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",World Feed - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743845802~acl=/*~id=04210890002530780655883751121849~hmac=f476a7818996bc2005d17836393ddfc5a71bb2dcffd978cd16f6e2d9a3e78557
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121856_5028_LAA_CLE_fc-web.jpg",Los Angeles Angels vs Cleveland Guardians (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121856_english_hls_5848ta-no/index.m3u8
