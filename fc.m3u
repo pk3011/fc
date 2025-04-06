@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-LENOVO-JAPANESE-GRAND-PRIX-2025-old-match-card--(1).png",Race vs Japan (F1 LENOVO JAPANESE GRAND PRIX 2025)
-https://dpuh6supm6bz6.cloudfront.net/out/v1/a101a0c60ca6448ebc7083ba5fa9b39a/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121460_5037_CA_AT_fc-Web.jpg",Combined Avengers vs Alipurduar Thunders (Kolkata NCC T20)
-https://dai.fancode.com/primary/121460_english_hls_2192ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121933_CASACARDS_APP.png",Machida Zelvia vs Kawasaki Frontale (J League 2025)
-https://dai.fancode.com/primary/121933_english_hls_5179ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121932_CASACARDS_APP.png",Kashiwa Reysol vs Gamba Osaka (J League 2025)
-https://dai.fancode.com/primary/121932_english_hls_8394ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121935_CASACARDS_APP.png",Sanfrecce Hiroshima vs Cerezo Osaka (J League 2025)
-https://dai.fancode.com/primary/121935_english_hls_5097ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121461_5037_JF_DU_fc-Web.jpg",Jhargram Firebolts vs Darjeeling Unstoppables (Kolkata NCC T20)
+https://dai.fancode.com/primary/121461_english_hls_5227ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Norway_old.jpg",Portugal vs Norway (ECI Portugal-Norway, 2025)
+https://dai.fancode.com/primary/122688_english_hls_5006ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Joburg-Ladies-Open_old_02.jpg",Day 2 vs Modderfontein Golf Club (Joburg Ladies Open)
+https://dai.fancode.com/primary/121982_english_hls_4659ta-di/index.m3u8
