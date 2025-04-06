@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Joburg-Ladies-Open_old_02.jpg",Day 2 vs Modderfontein Golf Club (Joburg Ladies Open)
-https://dai.fancode.com/primary/121982_english_hls_4659ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/120697_5010_MIS_PPS_fc-web_1743068837697.jpg",Mt Irvine Surfers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)
+https://dai.fancode.com/primary/120720_english_hls_4632ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Portugal-Norway_old_1743762610772.jpg",Portugal Women vs Norway Women (ECI-W Portugal-Norway, 2025)
+https://dai.fancode.com/primary/122696_english_hls_4985ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Marquee Group - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122563_english_hls_4847ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Main Feed - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122560_english_hls_8758ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Groups - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122562_english_hls_4623ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122417_5057_CHN_UZB_fc-web.jpg",China PR vs Uzbekistan (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122417_english_hls_4762ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",Featured Holes - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)
+https://dai.fancode.com/primary/122561_english_hls_8512ta-di/index.m3u8
