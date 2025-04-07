@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Portugal-Norway-T20I-old.jpg",Norway vs Portugal (ECN Portugal-Norway T20I, 2025)
-https://dai.fancode.com/primary/122683_english_hls_5646ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122425_5057_INA_YMN_fc-web.jpg",Indonesia vs Yemen (AFC U17 Asia Cup 2025)
-https://dai.fancode.com/primary/122425_english_hls_8753ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122421_5057_VIE_JPN_fc-web.jpg",Vietnam vs Japan (AFC U17 Asia Cup 2025)
-https://dai.fancode.com/primary/122421_english_hls_5393ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",Karavali United vs YSSC (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122460_english_hls_3381ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122250_5058_BGR_FCS_fc-web.jpg",Botanical Gardens Rangers vs Fort Charlotte Strikers (Dream11 Vincy Premier League, 2025)
+https://dai.fancode.com/primary/122250_english_hls_5120ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122426_5057_AFGH_KOR_fc-web.jpg",Afghanistan vs Korea Republic (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122426_english_hls_8535ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122422_5057_UAE_AUS_fc-web.jpg",United Arab Emirates vs Australia (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122422_english_hls_4540ta-di/index.m3u8
