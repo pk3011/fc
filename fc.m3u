@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Portugal-Norway-T20I-old.jpg",Norway vs Portugal (ECN Portugal-Norway T20I, 2025)
-https://dai.fancode.com/primary/122684_english_hls_5247ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122429_5057_PRK_TAJ_fc-web.jpg",DPR Korea vs Tajikistan (AFC U17 Asia Cup 2025)
-https://dai.fancode.com/primary/122429_english_hls_5007ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122252_5058_SPB_LSH_fc-web.jpg",Salt Pond Breakers vs La Soufriere Hikers (Dream11 Vincy Premier League, 2025)
+https://dai.fancode.com/primary/122252_english_hls_5560ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_01.jpg",Thunder Cats - B vs Renegades CC (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122461_english_hls_5791ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/122827_CASACARDS_APP.png",Al Taawoun vs Sharjah (AFC Champions League Two 2024-25)
+https://dai.fancode.com/primary/122827_english_hls_5587ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122430_5057_OMN_IRN_fc-web.jpg",Oman vs IR Iran (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122430_english_hls_4864ta-no/index.m3u8
