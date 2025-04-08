@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121448_5037_PMD_CA_fc-Web.jpg",Combined Avengers vs Purba Medinipur Dragons (Kolkata NCC T20)
-https://dai.fancode.com/primary/121464_english_hls_5001ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122784_5086_MSA_MRA_fc-web.jpg",Melbourne Stars Academy vs Melbourne Renegades Academy (Melbourne T10 Invitational, 2025)
-https://dai.fancode.com/primary/122784_english_hls_5452ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121435_5037_AT_JF_fc-Web.jpg",Alipurduar Thunders vs Jhargram Firebolts (Kolkata NCC T20)
+https://dai.fancode.com/primary/121465_english_hls_5257ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/122698_CASACARDS_APP.png",Portugal Women vs Norway Women (ECN Portugal-Norway T20IW, 2025)
+https://dai.fancode.com/primary/122698_english_hls_5397ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",Madrid Stars vs Getafe (ECS Spain, Madrid, 2025)
+https://dai.fancode.com/primary/122592_english_hls_5758ta-no/index.m3u8
