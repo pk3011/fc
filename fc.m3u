@@ -1,11 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122256_5058_FCS_GRD_fc-web.jpg",Fort Charlotte Strikers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)
+https://dai.fancode.com/primary/122256_english_hls_5920ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",Renegades CC vs MEC Study Group (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122463_english_hls_5834ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WIC-WC_fc-Web.jpg",Windward Islands Volcanoes vs West Indies Academy (West Indies Championship, 2025)
 https://dai.fancode.com/primary/117808_english_hls_9395ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4799_CCC_JAM_fc-Web.jpg",Jamaica Scorpions vs Combined Campuses and Colleges (West Indies Championship, 2025)
 https://dai.fancode.com/primary/117807_english_hls_5768ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122424_5057_VIE_UAE_fc-web.jpg",Vietnam vs United Arab Emirates (AFC U17 Asia Cup 2025)
-https://dai.fancode.com/primary/122424_english_hls_5855ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122423_5057_JPN_AUS_fc-web.jpg",Japan vs Australia (AFC U17 Asia Cup 2025)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Womens-Open_old_V1.jpg",Day 1 vs Erinvale Golf Course (Investec South African Women’s Open)
-https://dai.fancode.com/primary/122712_english_hls_79495ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122428_5057_AFGH_INA_fc-web.jpg",Afghanistan vs Indonesia (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122428_english_hls_8910ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122427_5057_KOR_YMN_fc-web.jpg",Korea Republic vs Yemen (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122427_english_hls_2923ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121865_5028_TAB_LAA_fc-web.jpg",Tampa Bay Rays vs Los Angeles Angels (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121865_english_hls_5536ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/122652_CASACARDS_APP.png",Bayern Munich vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)
+https://dai.fancode.com/primary/122652_english_hls_5555ta-di/index.m3u8
