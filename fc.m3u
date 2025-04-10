@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",Getafe vs Madrid United (ECS Spain, Madrid, 2025)
-https://dai.fancode.com/primary/122602_english_hls_5736ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",SESA FA vs Norwich City FC vs Goa (DSC Football 2025 - Boys National Finals)
-https://dai.fancode.com/primary/122615_english_hls_5406ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",Football 4 Change vs Punjab FC vs Goa (DSC Football 2025 - Boys National Finals)
-https://dai.fancode.com/primary/122614_english_hls_8860ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WIC-WC_fc-Web.jpg",Windward Islands Volcanoes vs West Indies Academy (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117808_english_hls_9395ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4799_CCC_JAM_fc-Web.jpg",Jamaica Scorpions vs Combined Campuses and Colleges (West Indies Championship, 2025)
+https://dai.fancode.com/primary/117807_english_hls_5768ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122424_5057_VIE_UAE_fc-web.jpg",Vietnam vs United Arab Emirates (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122424_english_hls_5855ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122423_5057_JPN_AUS_fc-web.jpg",Japan vs Australia (AFC U17 Asia Cup 2025)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Womens-Open_old_V1.jpg",Day 1 vs Erinvale Golf Course (Investec South African Women’s Open)
+https://dai.fancode.com/primary/122712_english_hls_79495ta-di_h264/index.m3u8
