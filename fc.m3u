@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",Free Practice vs Sakhir (F2 BAHRAIN 2025)
-https://d3tdvhe6jog83p.cloudfront.net/out/v1/5b2ae537a3624dc7ad0e261c3595b057/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain_F1_GP_Old_match-card.jpg",Practice 1 vs Bahrain (F1 GULF AIR BAHRAIN GRAND PRIX 2025)
+https://dmlqfojb5iow9.cloudfront.net/out/v1/292f3273ac6a471a8f18ed026d257a2c/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar_Moto-GP_Old-Match-card.jpg",QAT GP - Day 1 vs Lusail International Circuit (QATAR AIRWAYS GRAND PRIX OF QATAR)
+https://dai.fancode.com/primary/118520_english_hls_5570ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122659_5073_IR-W_WI-W_fc-web.jpg",West Indies Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)
 https://dai.fancode.com/primary/122659_english_hls_5449ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122658_5073_PK-W_SC-W_fc-web.jpg",Scotland Women vs Pakistan Women (ICC Women's Cricket World Cup Qualifier, 2025)
 https://dai.fancode.com/primary/122658_english_hls_8636ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)
-https://dai.fancode.com/primary/122604_english_hls_5584ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111038_4567_MLC_BRB_fc-web_1728983129492.jpg",Melbourne City vs Brisbane Roar (A League 2024-25)
-https://dai.fancode.com/primary/111038_english_hls_5806ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",Thunder Cats vs Global Champs (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122466_english_hls_5353ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",Madrid Stars vs Madrid United (ECS Spain, Madrid, 2025)
+https://dai.fancode.com/primary/122605_english_hls_5085ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",Madrid Stars vs Madrid United (ECS Spain, Madrid, 2025)
+https://dai.fancode.com/primary/122606_english_hls_5951ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_2-(1).jpg",Delhi SA vs Rajasthan FA vs Goa (DSC Football 2025 - Girls National Finals)
+https://dai.fancode.com/primary/122628_english_hls_5398ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_2-(1).jpg",Odisha FA vs Kerala FA vs Goa (DSC Football 2025 - Girls National Finals)
+https://dai.fancode.com/primary/122627_english_hls_9022ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-Women's-Tour-of-Namibia-old-match-card-.png",Namibia Women vs Uganda Women (Uganda Women tour of Namibia, 2025)
+https://dai.fancode.com/primary/122672_english_hls_7873adfreeta-di_h264/index.m3u8
