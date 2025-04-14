@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122662_5073_PK-W_WI-W_fc-web.jpg",Pakistan Women vs West Indies Women (ICC Women's Cricket World Cup Qualifier, 2025)
 https://dai.fancode.com/primary/122662_english_hls_4570ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Friends XI vs Bologna (ECS Italy, Bologna, 2025)
-https://dai.fancode.com/primary/123059_english_hls_4430ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Trentino Aquila vs Friends XI (ECS Italy, Bologna, 2025)
-https://dai.fancode.com/primary/123060_english_hls_5054ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123020_5094_ISL_PES_fc-Web.jpg",Islamabad United vs Peshawar Zalmi (Pakistan Super League, 2025)
+https://dai.fancode.com/primary/123020_english_hls_5643ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Fresh Tropical vs Bologna (ECS Italy, Bologna, 2025)
+https://dai.fancode.com/primary/123061_english_hls_4700ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122416_5057_IRN_PRK_fc-web.jpg",Indonesia vs DPR Korea (AFC U17 Asia Cup 2025)
+https://dai.fancode.com/primary/122435_english_hls_5174ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-Women's-Tour-of-Namibia-old-match-card-.png",Namibia Women vs Uganda Women (Uganda Women tour of Namibia, 2025)
 https://dai.fancode.com/primary/122674_english_hls_28329ta-di_h264/index.m3u8
