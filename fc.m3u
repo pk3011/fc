@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123080_CASACARDS_APP.png",PAK Eagles vs KL Zalmi (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123080_english_hls_5807ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/123081_CASACARDS_APP.png",SNK Lions, Malaysia vs PAK Wolves (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123081_english_hls_5712ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121873_5028_SDP_CHC_fc-web.jpg",San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121873_english_hls_5622ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/123082_CASACARDS_APP.png",Global Stars vs KL Gladiators (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123082_english_hls_5770ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/123083_CASACARDS_APP.png",Fatemi Resources Cricket Club vs Light Global Sports Club (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123083_english_hls_5709ta-no/index.m3u8
