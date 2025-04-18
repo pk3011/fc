@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122667_5073_IR-W_SC-W_fc-web.jpg",Scotland Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)
 https://dai.fancode.com/primary/122667_english_hls_5973ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123090_5096_SSF_MZC_fc-web_1744799866285.jpg",SFF Panthers, Malaysia vs Mazang Gymkhana CC (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123090_english_hls_8929ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123498_5112_SMH_GUG_fc-Web_1744784368951.jpg",Guwahati Giants vs Smashers (Guwahati Spring League)
-https://dai.fancode.com/primary/123498_english_hls_4701ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Fresh Tropical vs Panjab (ECS Italy, Bologna, 2025)
-https://dai.fancode.com/primary/123077_english_hls_5607ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111045_4567_ADL_WEL_fc-web_1728983129563.jpg",Adelaide United vs Wellington Phoenix (A League 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volvo-China-open-old.jpg",Day 2 vs Shanghai Enhance Anting Golf Club (Volvo China Open)
-https://dai.fancode.com/primary/122976_english_hls_5901ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",Thunder Cats - B vs Phoenix Cricketers (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122477_english_hls_6899ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Markhor Milano vs Fresh Tropical (ECS Italy, Bologna, 2025)
+https://dai.fancode.com/primary/123078_english_hls_6288ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123266_4352_DER_LUT_fc-web.jpg",Derby County vs Luton Town (EFL Championship 2024-25)
+https://dai.fancode.com/primary/123266_english_hls_88234adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Dubai vs Fujairah (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123221_english_hls_6092ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123755_5121_TL_PT_fc-web.jpg",Tamil Lions vs Punjabi Tigers (Global Indian Pravasi Kabaddi League Men, 2025)
+https://dai.fancode.com/primary/123755_english_hls_32614ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Main Feed - Day 2 vs Harbour Town Golf Links (RBC Heritage)
+https://dai.fancode.com/primary/123131_english_hls_6069ta-di/index.m3u8
