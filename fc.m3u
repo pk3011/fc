@@ -1,15 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",Rotherham United vs Mansfield Town (League One 2024-25)
+None
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122667_5073_IR-W_SC-W_fc-web.jpg",Scotland Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)
 https://dai.fancode.com/primary/122667_english_hls_5973ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",Thunder Cats - B vs Phoenix Cricketers (KCC T20 Challengers B League Edition 2, 2025)
-https://dai.fancode.com/primary/122477_english_hls_6899ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Markhor Milano vs Fresh Tropical (ECS Italy, Bologna, 2025)
-https://dai.fancode.com/primary/123078_english_hls_6288ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123266_4352_DER_LUT_fc-web.jpg",Derby County vs Luton Town (EFL Championship 2024-25)
-https://dai.fancode.com/primary/123266_english_hls_88234adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123023_5094_KAR_QUE_fc-Web.jpg",Karachi Kings vs Quetta Gladiators (Pakistan Super League, 2025)
+https://dai.fancode.com/primary/123023_english_hls_9256ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",Lexus vs Global Champs (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122478_english_hls_6024ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",Fresh Tropical vs Panjab (ECS Italy, Bologna, 2025)
+https://dai.fancode.com/primary/123079_english_hls_5927ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123269_4352_WAT_BUR_fc-web.jpg",Watford vs Burnley (EFL Championship 2024-25)
+https://dai.fancode.com/primary/123269_english_hls_46930adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123809_5125_UWM_UCI_fc-web_1744894796576.jpg",University of Wisconsin Madison vs University of California, Irvine (Collegiate Cricket League)
+https://dai.fancode.com/primary/123809_english_hls_39547adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Dubai vs Fujairah (Emirates D50 Tournament, 2025)
 https://dai.fancode.com/primary/123221_english_hls_6092ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123755_5121_TL_PT_fc-web.jpg",Tamil Lions vs Punjabi Tigers (Global Indian Pravasi Kabaddi League Men, 2025)
-https://dai.fancode.com/primary/123755_english_hls_32614ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123757_5121_MV_BL_fc-web.jpg",Marathi Vultures vs Bhojpuri Leopards (Global Indian Pravasi Kabaddi League Men, 2025)
+https://dai.fancode.com/primary/123757_english_hls_22465adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Main Feed - Day 2 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123131_english_hls_6069ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Holes - Day 2 vs Harbour Town Golf Links (RBC Heritage)
+https://dai.fancode.com/primary/123133_english_hls_6104ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",Day 2 vs Puntacana Resort & Club (Corales Puntacana Championship)
+https://dai.fancode.com/primary/123150_english_hls_5410ta-no/index.m3u8
