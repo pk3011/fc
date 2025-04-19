@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_SAUDI-ARABIAN_F1-Academy_old.jpg",Sprint Race vs Jeddah (F1 ACADEMY SAUDI ARABIA 2025)
-https://d2pa4pixqpqr09.cloudfront.net/out/v1/bd04c71d27564533b464a4b9d5ee6bc8/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122669_5073_WI-W_TL-W_fc-web.jpg",Thailand Women vs West Indies Women (ICC Women's Cricket World Cup Qualifier, 2025)
-https://dai.fancode.com/primary/122669_english_hls_5649ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123835_CASACARDS_APP.png",France vs Sweden (ECI France, 2025)
-https://dai.fancode.com/primary/123835_english_hls_5369ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Sharjah vs Abu Dhabi (Emirates D50 Tournament, 2025)
-https://dai.fancode.com/primary/123222_english_hls_3241ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123024_5094_PES_MUL_fc-Web.jpg",Peshawar Zalmi vs Multan Sultans (Pakistan Super League, 2025)
+https://dai.fancode.com/primary/123024_english_hls_5978ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122257_5058_FCS_SPB_fc-web.jpg",Fort Charlotte Strikers vs Salt Pond Breakers (Dream11 Vincy Premier League, 2025)
+https://dai.fancode.com/primary/122275_english_hls_5598ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123773_5123_CAY_USA_fc-web.jpg",USA vs Cayman Islands (North American Cup, 2025)
+https://dai.fancode.com/primary/123773_english_hls_8460ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123824_5125_UFL_UWM_fc-web_1744894796569.jpg",University of Florida vs University of Wisconsin Madison (Collegiate Cricket League)
+https://dai.fancode.com/primary/123824_english_hls_5314adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",Thunder Cats vs Osmani CC (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122480_english_hls_7139ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Emirates Blues vs Ajman (Emirates D50 Tournament, 2025)
 https://dai.fancode.com/primary/123223_english_hls_5512ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123736_5122_MAF_TEC_fc-Web.jpg",Marathi Falcons vs Telugu Cheetahs (Global Indian Pravasi Kabaddi League Women)
-https://dai.fancode.com/primary/123736_english_hls_12742adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Main Feed - Day 3 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123136_english_hls_5206ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Holes - Day 3 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123138_english_hls_9204ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Marquee Group - Day 3 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123137_english_hls_6103ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123834_CASACARDS_APP.png",France vs Sweden (ECI France, 2025)
-https://dai.fancode.com/primary/123834_english_hls_5787ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Group - Day 3 vs Harbour Town Golf Links (RBC Heritage)
+https://dai.fancode.com/primary/123139_english_hls_5505ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-SAUDI-ARABIAN-GRAND-PRIX_Old_Matchcard-(1).jpg",Qualifying vs Saudi Arabia (F1 STC SAUDI ARABIAN GRAND PRIX 2025)
+https://d2t7x9ygg1jjmw.cloudfront.net/out/v1/632d8434fd07415d969d683e6e1c71e6/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",World Feed - Day 3 vs Harbour Town Golf Links (RBC Heritage)
+https://dai.fancode.com/primary/123140_english_hls_8800ta-no/index.m3u8
