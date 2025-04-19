@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123092_5096_SNK_PAHK_fc-web_1744799866164.jpg",Pakistan Association Hong Kong vs SNK Lions, Malaysia (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123092_english_hls_5989ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123093_5096_KLZ_DKR_fc-web_1744799866571.jpg",Delhi Knight Riders vs KL Zalmi (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123093_english_hls_5966ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122668_5073_PK-W_BD-W_fc-web.jpg",Bangladesh Women vs Pakistan Women (ICC Women's Cricket World Cup Qualifier, 2025)
+https://dai.fancode.com/primary/122668_english_hls_5702ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123499_5112_GTC_CCC_fc-Web_1744784369110.jpg",City Cricket Club vs Gauhati Town Club (Guwahati Spring League)
 https://dai.fancode.com/primary/123499_english_hls_18683ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121879_5028_LAA_SFG_fc-web.jpg",Los Angeles Angels vs San Francisco Giants (Major League Baseball, 2025)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123094_5096_LGSC_RCK_fc-web_1744799866321.jpg",Royal Challengers Kolkata vs Light Global Sports Club (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123094_english_hls_5611ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122967_5092_IR-A_SL-A_fc-Web.jpg",Ireland A vs Sri Lanka A (One Day Tri-Series in UAE)
+https://dai.fancode.com/primary/122967_english_hls_6224ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123095_5096_KLG_SSF_fc-web_1744799866150.jpg",SFF Panthers, Malaysia vs KL Gladiators (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123095_english_hls_9185ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volvo-China-open-old.jpg",Day 3 vs Shanghai Enhance Anting Golf Club (Volvo China Open)
+https://dai.fancode.com/primary/122977_english_hls_9059ta-di/index.m3u8
