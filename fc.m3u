@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-SAUDI-ARABIAN-GRAND-PRIX_Old_Matchcard-(1).jpg",Race vs Saudi Arabia (F1 STC SAUDI ARABIAN GRAND PRIX 2025)
-https://d2jq3g5y5mfmq1.cloudfront.net/out/v1/caa57cdfa8cd41a8850127d57fa0a837/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/122277_CASACARDS_APP.png",Dark View Explorers vs Salt Pond Breakers (Dream11 Vincy Premier League, 2025)
-https://dai.fancode.com/primary/122277_english_hls_5139ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123830_CASACARDS_APP.png",University of Southern California vs University of Washington (Collegiate Cricket League)
-https://dai.fancode.com/primary/123830_english_hls_43447adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/122481_CASACARDS_APP.png",Phoenix Cricketers vs Renegades CC (KCC T20 Challengers B League Edition 2, 2025)
-https://dai.fancode.com/primary/122481_english_hls_5339ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",TBC vs TBC (Collegiate Cricket League)
-https://dai.fancode.com/primary/123831_english_hls_45525adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Main Feed - Day 4 vs Harbour Town Golf Links (RBC Heritage)
-https://dai.fancode.com/primary/123141_english_hls_4877ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123776_5123_CAY_BER_fc-web.jpg",Bermuda vs Cayman Islands (North American Cup, 2025)
+https://dai.fancode.com/primary/123776_english_hls_29971adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123832_CASACARDS_APP.png",University of Florida vs University of Washington (Collegiate Cricket League)
+https://dai.fancode.com/primary/123832_english_hls_16776adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Group - Day 4 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123144_english_hls_8810ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Holes - Day 4 vs Harbour Town Golf Links (RBC Heritage)
-https://dai.fancode.com/primary/123143_english_hls_4969ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Marquee Group - Day 4 vs Harbour Town Golf Links (RBC Heritage)
-https://dai.fancode.com/primary/123142_english_hls_4976ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",World Feed - Day 4 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123145_english_hls_6788ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121882_5028_TAB_NEY_fc-web.jpg",Tampa Bay Rays vs New York Yankees (Major League Baseball, 2025)
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",Day 4 vs Puntacana Resort & Club (Corales Puntacana Championship)
+https://dai.fancode.com/primary/123152_english_hls_5013ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121883_5028_LAA_SFG_fc-web.jpg",Los Angeles Angels vs San Francisco Giants (Major League Baseball, 2025)
 None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123025_5094_KAR_ISL_fc-Web.jpg",Karachi Kings vs Islamabad United (Pakistan Super League, 2025)
-https://dai.fancode.com/primary/123025_english_hls_8492ta-di/index.m3u8
