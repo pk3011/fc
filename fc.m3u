@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123776_5123_CAY_BER_fc-web.jpg",Bermuda vs Cayman Islands (North American Cup, 2025)
-https://dai.fancode.com/primary/123776_english_hls_29971adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123832_CASACARDS_APP.png",University of Florida vs University of Washington (Collegiate Cricket League)
-https://dai.fancode.com/primary/123832_english_hls_16776adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",Featured Group - Day 4 vs Harbour Town Golf Links (RBC Heritage)
-https://dai.fancode.com/primary/123144_english_hls_8810ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",World Feed - Day 4 vs Harbour Town Golf Links (RBC Heritage)
-https://dai.fancode.com/primary/123145_english_hls_6788ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",Day 4 vs Puntacana Resort & Club (Corales Puntacana Championship)
-https://dai.fancode.com/primary/123152_english_hls_5013ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121883_5028_LAA_SFG_fc-web.jpg",Los Angeles Angels vs San Francisco Giants (Major League Baseball, 2025)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122258_5058_BGR_GRD_fc-web.jpg",Botanical Gardens Rangers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)
+https://dai.fancode.com/primary/122278_english_hls_4972ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123100_5096_SNK_ISP_fc-web_1744799866051.jpg",Islamabad Sport, Pakistan vs SNK Lions, Malaysia (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123100_english_hls_5419ta-di/index.m3u8
