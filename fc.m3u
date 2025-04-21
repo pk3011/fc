@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122968_5092_AF-A_IR-A_fc-Web.jpg",Afghanistan A vs Ireland A (One Day Tri-Series in UAE)
-https://dai.fancode.com/primary/122968_english_hls_4726ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123504_5112_NBC_GUG_fc-Web_1744784368849.jpg",Nabajyoti Club vs Guwahati Giants (Guwahati Spring League)
-https://dai.fancode.com/primary/123504_english_hls_72934ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3.jpg",Ekota CC vs Grigny Vipers (ECS France, 2025)
-https://dai.fancode.com/primary/123703_english_hls_4734ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",Royal 94 vs Paris Universite Club (ECS France, 2025)
+https://dai.fancode.com/primary/123704_english_hls_5016ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Ajman vs Dubai (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123224_english_hls_4974ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",Newport County vs Walsall (League Two 2024-25)
+None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Emirates Blues vs Fujairah (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123225_english_hls_5061ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123739_5122_HAE_BL_fc-Web.jpg",Haryanvi Eagles vs Bhojpuri Leopardess (Global Indian Pravasi Kabaddi League Women)
+https://dai.fancode.com/primary/123739_english_hls_15680adfreeta-di_h264/index.m3u8
