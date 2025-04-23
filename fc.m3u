@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123026_5094_KAR_PES_fc-Web.jpg",Peshawar Zalmi vs Karachi Kings (Pakistan Super League, 2025)
-https://dai.fancode.com/primary/123026_english_hls_6353ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123270_4352_BUR_SHF_fc-web.jpg",Burnley vs Sheffield United (EFL Championship 2024-25)
-https://dai.fancode.com/primary/123270_english_hls_72177adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",ACE KRM Panthers vs CECC (KCC T10 Challengers League, 2025)
-https://dai.fancode.com/primary/123556_english_hls_5270ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Ajman vs Dubai (Emirates D50 Tournament, 2025)
-https://dai.fancode.com/primary/123224_english_hls_4974ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Emirates Blues vs Fujairah (Emirates D50 Tournament, 2025)
-https://dai.fancode.com/primary/123225_english_hls_5061ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123779_5123_CAY_CAN_fc-web.jpg",Canada vs Cayman Islands (North American Cup, 2025)
+https://dai.fancode.com/primary/123779_english_hls_53945ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",Ekota CC vs Paris Universite Club (ECS France, 2025)
+https://dai.fancode.com/primary/123716_english_hls_877ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Abu Dhabi vs Ajman (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123228_english_hls_5776ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Dubai vs Sharjah (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123229_english_hls_5859ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123745_5122_PUT_HAE_fc-Web.jpg",Punjabi Tigress vs Haryanvi Eagles (Global Indian Pravasi Kabaddi League Women)
+https://dai.fancode.com/primary/123745_english_hls_87369adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123028_5094_MUL_ISL_fc-Web_1745405911532.jpg",Multan Sultans vs Islamabad United (PSL, 2025)
+https://dai.fancode.com/primary/123028_english_hls_5795ta-no/index.m3u8
