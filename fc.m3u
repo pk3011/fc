@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123509_5112_CCC_GUG_fc-Web_1744784369564.jpg",Guwahati Giants vs City Cricket Club (Guwahati Spring League)
-https://dai.fancode.com/primary/123509_english_hls_52571adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123112_CASACARDS_APP.png",Saudi Arabia vs Thailand (Malaysia Quadrangular T20I Series, 2025)
-https://dai.fancode.com/primary/123112_english_hls_5959ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123109_CASACARDS_APP.png",PA Hong Kong vs KL Zalmi (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123109_english_hls_5517ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123510_5112_NYC_NBC_fc-Web_1744784368945.jpg",Nabajyoti Club vs 91 Yards Club (Guwahati Spring League)
+https://dai.fancode.com/primary/123510_english_hls_21720adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",UIF Evry vs PFC Sarcelles (ECS France, 2025)
+https://dai.fancode.com/primary/123718_english_hls_5771ta-no/index.m3u8
