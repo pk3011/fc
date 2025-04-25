@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_Vancouver-vs-Inter-Miami.jpg",Vancouver Whitecaps FC vs Inter Miami CF (Concacaf Champions Cup 2025)
-https://dai.fancode.com/primary/123545_english_hls_6395ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123114_5097_MAS_TL_FC-WEB.jpg",Thailand vs Malaysia (Malaysia Quadrangular T20I Series, 2025)
-https://dai.fancode.com/primary/123114_english_hls_6091ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/122964_5092_IR-A_SL-A_fc-Web.jpg",Ireland A vs Sri Lanka A (One Day Tri-Series in UAE)
+https://dai.fancode.com/primary/122970_english_hls_5722ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123511_5112_CCC_SMH_fc-Web_1744784368794.jpg",City Cricket Club vs Smashers (Guwahati Spring League)
 https://dai.fancode.com/primary/123511_english_hls_54111ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123110_CASACARDS_APP.png",KL Zalmi vs PM Eagles (KL T20 Bash, 2025)
-https://dai.fancode.com/primary/123110_english_hls_6121ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/121890_CASACARDS_APP.png",Oakland Athletics vs Texas Rangers (Major League Baseball, 2025)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",Thunder Cats - B vs YSSC (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122482_english_hls_5966ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123115_5097_SAU_SIN_FC-WEB.jpg",Saudi Arabia vs Singapore (Malaysia Quadrangular T20I Series, 2025)
+https://dai.fancode.com/primary/123115_english_hls_9539ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123111_CASACARDS_APP.png",SFF Panthers, Malaysia vs PA Hong Kong (KL T20 Bash, 2025)
+https://dai.fancode.com/primary/123111_english_hls_6309ta-di/index.m3u8
