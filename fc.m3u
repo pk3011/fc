@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123860_5128_GRR_WII_fc-web.jpg",Windward Islands Infernos vs Guyana Rainforest Rangers (West Indies Breakout League, 2025)
-https://dai.fancode.com/primary/123860_english_hls_51239adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Salmiya Strikers vs ACE KRM Panthers (KCC T10 Challengers League, 2025)
-https://dai.fancode.com/primary/123565_english_hls_5696ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Main Feed - Day 2 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124127_english_hls_5868ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Holes - Day 2 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124132_english_hls_9495ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Groups - Day 2 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124131_english_hls_6186ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Marquee Group - Day 2 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124129_english_hls_9639ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/121891_CASACARDS_APP.png",Chicago Cubs vs Philadelphia Phillies (Major League Baseball, 2025)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",World Feed - Day 2 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124128_english_hls_768ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",Day 1 vs Mexico City (LIV Golf Mexico City)
-https://dai.fancode.com/primary/123153_english_hls_1017ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123861_5128_TTL_BBP_fc-web.jpg",Trinidad & Tobago Legions vs Barbados Pelicans (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123861_english_hls_60602adfreeta-di_h264/index.m3u8
