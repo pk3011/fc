@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",Cayman Islands vs Canada (North American Cup, 2025)
-https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3_1744784397127.jpg",AC Stains vs PFC Sarcelles (ECS France, 2025)
-https://dai.fancode.com/primary/123731_english_hls_4981ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123274_4352_OU_SUN_fc-web.jpg",Oxford United vs Sunderland (EFL Championship 2024-25)
-https://dai.fancode.com/primary/123274_english_hls_98343adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Tally Rangers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123566_english_hls_8851ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123862_5128_JMT_LIT_fc-web.jpg",Jamaica Titans vs Leeward Islands Thunder (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-02-old.png",Al-Ahli vs Buriram United (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/122832_english_hls_5478ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Al Muzaini Exchange vs Winning FKP (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123567_english_hls_5491ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Fujairah vs Abu Dhabi (Emirates D50 Tournament, 2025)
 https://dai.fancode.com/primary/123231_english_hls_5452ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123769_5121_MV_TP_fc-web.jpg",Marathi Vultures vs Telugu Panthers (Global Indian Pravasi Kabaddi League Men, 2025)
-https://dai.fancode.com/primary/123769_english_hls_37053adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",Wrexham vs Charlton Athletic (League One 2024-25)
+https://dai.fancode.com/primary/123280_english_hls_61332adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Main Feed - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
 https://dai.fancode.com/primary/124134_english_hls_5484ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Holes - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
@@ -17,3 +19,5 @@ https://dai.fancode.com/primary/124137_english_hls_5412ta-di/index.m3u8
 https://dai.fancode.com/primary/124136_english_hls_5366ta-no/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Marquee Group - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
 https://dai.fancode.com/primary/124135_english_hls_6043ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",World Feed - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124133_english_hls_4976ta-no/index.m3u8
