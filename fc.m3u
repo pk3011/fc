@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/GRAN-PREMIO-ESTRELLA-GALICIA-0,0-DE-ESPANA--old-match-card..png",Day 2 vs Circuito de Jerez - Angel Nieto (GRAN PREMIO ESTRELLA GALICIA 0,0 DE ESPANA)
 https://dai.fancode.com/primary/118532_english_hls_66339ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123117_5097_SIN_TL_FC-WEB.jpg",Singapore vs Thailand (Malaysia Quadrangular T20I Series, 2025)
-https://dai.fancode.com/primary/123117_english_hls_5970ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3_1744784397127.jpg",Dreux vs UIF Evry (ECS France, 2025)
-https://dai.fancode.com/primary/123727_english_hls_5737ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123514_5112_NBC_GTC_fc-Web_1744784369163.jpg",Gauhati Town Club vs Nabajyoti Club (Guwahati Spring League)
-https://dai.fancode.com/primary/123514_english_hls_70297ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",AC Stains vs Saint Denis Stallions (ECS France, 2025)
-https://dai.fancode.com/primary/123728_english_hls_5381ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111053_4567_MLC_ADL_fc-web_1728983129809.jpg",Melbourne City vs Adelaide United (A League 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111052_4567_NJ_SYW_fc-web_1728983129773.jpg",Newcastle Jets vs Western Sydney Wanderers (A League 2024-25)
-None
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3_1744784397127.jpg",Dreux vs CSPT Sarcelles (ECS France, 2025)
+https://dai.fancode.com/primary/123729_english_hls_5382ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Luton-Town-vs-Conventry-City_fc-web.jpg",Luton Town vs Coventry City (EFL Championship 2024-25)
+https://dai.fancode.com/primary/124254_english_hls_67603adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",Abu Dhabi vs Fujairah (Emirates D50 Tournament, 2025)
+https://dai.fancode.com/primary/123231_english_hls_5452ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123767_5121_HS_TL_fc-web.jpg",Haryanvi Sharks vs Tamil Lions (Global Indian Pravasi Kabaddi League Men, 2025)
+https://dai.fancode.com/primary/123767_english_hls_60944adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old.jpg",Race 1 vs Oschersleben (DTM Oschersleben)
+https://dai.fancode.com/primary/124073_english_hls_5357ta-no/index.m3u8
