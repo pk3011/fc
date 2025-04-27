@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/GRAN-PREMIO-ESTRELLA-GALICIA-0,0-DE-ESPANA--old-match-card..png",Race Day vs Circuito de Jerez - Angel Nieto (GRAN PREMIO ESTRELLA GALICIA 0,0 DE ESPANA)
-https://dai.fancode.com/primary/118533_english_hls_78575ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",Paris Universite Club vs Royal 94 (ECS France, 2025)
-https://dai.fancode.com/primary/123734_english_hls_5030ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123749_5122_PUT_MAF_fc-Web.jpg",Punjabi Tigress vs Marathi Falcons (Global Indian Pravasi Kabaddi League Women)
-https://dai.fancode.com/primary/123749_english_hls_75422adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old.jpg",Race 2 vs Oschersleben (DTM Oschersleben)
-https://dai.fancode.com/primary/124075_english_hls_5084ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg",Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)
+https://dai.fancode.com/primary/124077_english_hls_5643ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",CECC vs Keraniganj Challengers (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123568_english_hls_8852ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123786_CASACARDS_APP.png",Canada vs USA (North American Cup, 2025)
+https://dai.fancode.com/primary/123786_english_hls_25470adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Salmiya Strikers vs Going Global (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123569_english_hls_5224ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-04-old.png",Kawasaki Frontale vs Al Sadd (AFC Champions League Elite 2024-25)
+https://dai.fancode.com/primary/122834_english_hls_5407ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Main Feed - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124139_english_hls_5025ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Holes - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124142_english_hls_4982ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Groups - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124141_english_hls_8689ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Marquee Group - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124140_english_hls_5546ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",World Feed - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
+https://dai.fancode.com/primary/124138_english_hls_5088ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v3/121895_CASACARDS_APP.png",New York Yankees vs Toronto Blue Jays (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121895_english_hls_73624adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",Day 3 vs Mexico City (LIV Golf Mexico City)
+https://dai.fancode.com/primary/123155_english_hls_5120ta-no/index.m3u8
