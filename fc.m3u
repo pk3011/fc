@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Copa-del-Rey_Final_old.jpg",Barcelona vs Real Madrid (Copa del Rey 2024-25)
-None
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-03-old.png",Yokohama F. Marinos vs Al-Nassr (AFC Champions League Elite 2024-25)
-https://dai.fancode.com/primary/122833_english_hls_5371ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123862_5128_JMT_LIT_fc-web.jpg",Jamaica Titans vs Leeward Islands Thunder (West Indies Breakout League, 2025)
-https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123783_CASACARDS_APP.png",Bermuda vs USA (North American Cup, 2025)
-https://dai.fancode.com/primary/123783_english_hls_38327adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Main Feed - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124134_english_hls_5484ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Holes - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124137_english_hls_5412ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",Featured Groups - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124136_english_hls_5366ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",World Feed - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124133_english_hls_4976ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",Day 2 vs Mexico City (LIV Golf Mexico City)
-https://dai.fancode.com/primary/123154_english_hls_5062ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123863_5128_TTL_GRR_fc-web.jpg",Trinidad & Tobago Legions vs Guyana Rainforest Rangers (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123863_english_hls_23869adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/121894_CASACARDS_APP.png",Seattle Mariners vs Miami Marlins (Major League Baseball, 2025)
+https://dai.fancode.com/primary/121894_english_hls_59286adfreeta-di_h264/index.m3u8
