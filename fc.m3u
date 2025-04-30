@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123522_5112_GUG_NYC_fc-Web_1744784368940.jpg",91 Yards Club vs Guwahati Giants (Guwahati Spring League)
-https://dai.fancode.com/primary/123522_english_hls_60901ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg",Gzira United vs Southern Crusaders (ECS Malta, Spring Series, 2025)
-https://dai.fancode.com/primary/124177_english_hls_5949ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg",Bugibba Blasters vs Southern Crusaders (ECS Malta, Spring Series, 2025)
+https://dai.fancode.com/primary/124178_english_hls_5681ta-di/index.m3u8
