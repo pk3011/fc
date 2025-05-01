@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123866_5128_TTL_JMT_fc-web.jpg",Jamaica Titans vs Trinidad & Tobago Legions (West Indies Breakout League, 2025)
-https://dai.fancode.com/primary/123866_english_hls_123ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-1.png",Mustangs Cricket Academy vs Houston Stars (Houston Open)
-https://dai.fancode.com/primary/124149_english_hls_5926ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",Atlanta Fire vs Knight Riders United (Houston Open)
-https://dai.fancode.com/primary/124150_english_hls_5998ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v2/121901_CASACARDS_APP.png",San Diego Padres vs San Francisco Giants (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121901_english_hls_74564ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_Inter-Miami-vs-Vancouver.jpg",Inter Miami CF vs Vancouver Whitecaps FC (Concacaf Champions Cup 2025)
+https://dai.fancode.com/primary/123546_english_hls_5995ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123867_5128_BBP_LIT_fc-web.jpg",Barbados Pelicans vs Leeward Islands Thunder (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123867_english_hls_7312adfreeta-di_h264/index.m3u8
