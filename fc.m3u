@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg",Cyprus Women vs Czechia Women (ECN Czechia-Cyprus T20IW)
-https://dai.fancode.com/primary/124778_english_hls_5795ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_01.jpg",Renegades CC vs Karavali United (KCC T20 Challengers B League Edition 2, 2025)
-https://dai.fancode.com/primary/122487_english_hls_6205ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-1.png",Clarion Eagles vs Houston Stars (Houston Open)
-https://dai.fancode.com/primary/124155_english_hls_9708ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123868_5128_JMT_BBP_fc-web.jpg",Barbados Pelicans vs Jamaica Titans (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123868_english_hls_94352adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Going Global vs Keraniganj Challengers (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123579_english_hls_96961adfreeta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Main Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://dai.fancode.com/primary/124322_english_hls_6238ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Featured Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
@@ -13,3 +11,5 @@ https://dai.fancode.com/primary/124325_english_hls_9232ta-no/index.m3u8
 https://dai.fancode.com/primary/124324_english_hls_3334ta-di/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Marquee Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://dai.fancode.com/primary/124323_english_hls_5898ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/124061_CASACARDS_APP.png",Anadolu Efes Istanbul vs Panathinaikos OPAP Athens (EuroLeague 2024-25)
+https://dai.fancode.com/primary/124061_english_hls_22071adfreeta-di_h264/index.m3u8
