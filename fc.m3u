@@ -1,23 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg",Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)
-https://dai.fancode.com/primary/124079_english_hls_5679ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",Houston Stars vs Seattle Thunderbolts (Houston Open)
-https://dai.fancode.com/primary/124152_english_hls_5928ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",CECC vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)
-https://dai.fancode.com/primary/123576_english_hls_7094ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124197_5140_STRC_ANT_fc-Web.jpg",Antwerp vs 12 Stars Hofstade (ECSN Belgium, 2025)
-https://dai.fancode.com/primary/124197_english_hls_6049ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",ACE KRM Panthers vs Winning FKP (KCC T10 Challengers League, 2025)
-https://dai.fancode.com/primary/123577_english_hls_6217ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze Tournament, 2025)
-https://dai.fancode.com/primary/124478_english_hls_25799adfreeta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Main Feed - Day 1 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124306_english_hls_5568ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Featured Group - Day 1 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124309_english_hls_6257ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Featured Holes - Day 1 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124308_english_hls_9436ta-no/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",Marquee Group - Day 1 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124307_english_hls_6293ta-di/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v4/121902_CASACARDS_APP.png",New York Mets vs Arizona Diamondbacks (Major League Baseball, 2025)
-https://dai.fancode.com/primary/121902_english_hls_68194adfreeta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg",South Africa Women vs Sri Lanka Women (Womens ODI Tri-Series)
+https://dai.fancode.com/primary/124038_english_hls_6759ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124276_5144_BIL_JCH_fc-web.jpg",Bilaspur vs J Champa (Senior Elite Group T20 Tournament)
+https://dai.fancode.com/primary/124276_english_hls_5557ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124274_5144_BSP_MAH_fc-web.jpg",BSP vs Mahasamund (Senior Elite Group T20 Tournament)
+https://dai.fancode.com/primary/124274_english_hls_5895ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123525_CASACARDS_APP.png",Guwahati Giants vs City Cricket Club (Guwahati Spring League)
+https://dai.fancode.com/primary/123525_english_hls_23062ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",MEC Study Group vs Thunder Cats - B (KCC T20 Challengers B League Edition 2, 2025)
+https://dai.fancode.com/primary/122485_english_hls_6001ta-di/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/123125_CASACARDS_APP.png",Malaysia vs Saudi Arabia (Malaysia Quadrangular T20I Series, 2025)
+https://dai.fancode.com/primary/123125_english_hls_5644ta-no/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg",Day 1 vs Korea (LIV Golf Korea)
+https://dai.fancode.com/primary/124302_english_hls_8895ta-no/index.m3u8
