@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg",India Women vs Sri Lanka Women (Womens ODI Tri-Series)
+https://dai.fancode.com/primary/124039_english_hls_72632ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/124957_CASACARDS_APP.png",91 Yards Club Women vs Gauhati Town Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://dai.fancode.com/primary/124957_english_hls_17766ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png",Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
-https://dai.fancode.com/primary/124594_english_hls_23344ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124284_5144_JCH_MAH_fc-web.jpg",Mahasamund vs Janjgir Champa (Senior Elite Group T20 Tournament)
+https://dai.fancode.com/primary/124284_english_hls_5728ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111056_4567_WEL_PG_fc-web_1728983130165.jpg",Wellington Phoenix vs Perth Glory (A League 2024-25)
+https://dai.fancode.com/primary/111056_english_hls_30227ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg",Day 3 vs Korea (LIV Golf Korea)
 https://dai.fancode.com/primary/124304_english_hls_65138ta-di_h264/index.m3u8
