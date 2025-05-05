@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",Jamaica Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
-https://dai.fancode.com/primary/124483_english_hls_70219ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124205_5140_ANT_HCC_fc-Web.jpg",Antwerp vs Hasselt (ECSN Belgium, 2025)
-https://dai.fancode.com/primary/124205_english_hls_35261ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124753_5155_YCC_WT_fc-web.jpg",Western Towers vs Yorkshire Cricket College (ECS Jersey, Liberation Series, 2025)
-https://dai.fancode.com/primary/124753_english_hls_80431ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",Windward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze Tournament, 2025)
+https://dai.fancode.com/primary/124484_english_hls_91523ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg",12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)
+https://dai.fancode.com/primary/124206_english_hls_42640ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg",Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
+https://dc1btupjb9p6n.cloudfront.net/out/v1/2e9d35a747094818a428b57eaae95e48/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",Going Global vs Al Muzaini Exchange (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123586_english_hls_80442ta-di_h264/index.m3u8
