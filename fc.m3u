@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",Windward Islands Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
-https://dai.fancode.com/primary/124487_english_hls_3334ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123874_5128_LIT_WII_fc-web.jpg",Windward Islands Infernos vs Leeward Islands Thunder (West Indies Breakout League, 2025)
+https://dai.fancode.com/primary/123874_english_hls_18872ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/124600_CASACARDS_APP.png",Los Angeles Angels vs Toronto Blue Jays (Major League Baseball, 2025)
+https://dai.fancode.com/primary/124600_english_hls_51363ta-di_h264/index.m3u8
