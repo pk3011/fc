@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_SCO_vs_UAE_Old_match-card.jpg",United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/124495_english_hls_36861ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124766_5155_YCC_ER_fc-web.jpg",Eastern Royals vs Yorkshire Cricket College (ECS Jersey, Liberation Series, 2025)
-https://ddfva8ky8g5wi.cloudfront.net/out/v1/2868a0e1066a4c578e6d18f9ad9d221c/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124213_5140_RB_ANT_fc-Web.jpg",Antwerp vs Royal Brussels (ECSN Belgium, 2025)
+https://dai.fancode.com/primary/124213_english_hls_76609ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124768_5155_YCC_CC_fc-web.jpg",Central Commanders vs Yorkshire Cricket College (ECS Jersey, Liberation Series, 2025)
+https://d3kfsye0jw3ul1.cloudfront.net/out/v1/d5fbb5f0f33546b59a409c8536f228d2/index.m3u8
 #EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg",Turkish Open vs  Regnum Carya Golf and Spa Resort (Turkish Open)
 https://dai.fancode.com/primary/125304_english_hls_66359ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg",ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)
+https://dai.fancode.com/primary/125308_english_hls_63192ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",Main Feed - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
+https://dai.fancode.com/primary/125226_english_hls_29074ta-di_h264/index.m3u8
