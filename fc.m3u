@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",Main Feed - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
-https://dai.fancode.com/primary/125226_english_hls_29074ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",World Feed - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
-https://dai.fancode.com/primary/125229_english_hls_77368ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",Featured Holes - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
-https://dai.fancode.com/primary/125225_english_hls_14091ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125081_5169_TL_CI_fc-Web.jpg",Cook Islands vs Thailand (Cook Islands and Thailand tour of Japan, 2025)
+https://dai.fancode.com/primary/125081_english_hls_66822ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",Kuwait Women vs Thailand Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://dai.fancode.com/primary/124506_english_hls_74606ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="fancode" tvg-logo="https://images.fancode.com/aig/match/v1/124602_CASACARDS_APP.png",Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)
+https://dai.fancode.com/primary/124602_english_hls_15091ta-di_h264/index.m3u8
